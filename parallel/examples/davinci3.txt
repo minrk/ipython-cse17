@@ -1,0 +1,3276 @@
+person of a friend at a distance.
+
+534.
+
+WHY A PAINTING CAN NEVER APPEAR DETACHED AS NATURAL OBJECTS DO.
+
+Painters often fall into despair of imitating nature when they see
+their pictures fail in that relief and vividness which objects have
+that are seen in a mirror; while they allege that they have colours
+which for brightness or depth far exceed the strength of light and
+shade in the reflections in the mirror, thus displaying their own
+ignorance rather than the real cause, because they do not know it.
+It is impossible that painted objects should appear in such relief
+as to resemble those reflected in the mirror, although both are seen
+on a flat surface, unless they are seen with only one eye; and the
+reason is that two eyes see one object behind another as _a_ and _b_
+see _m_ and _n_. _m_ cannot exactly occupy [the space of] _n_
+because the base of the visual lines is so broad that the second
+body is seen beyond the first. But if you close one eye, as at _s_
+the body _f_ will conceal _r_, because the line of sight proceeds
+from a single point and makes its base in the first body, whence the
+second, of the same size, can never be seen.
+
+[Footnote: This passage contains the solution of the problem
+proposed in No. 29, lines 10-14. Leonardo was evidently familiar
+with the law of optics on which the construction of the stereoscope
+depends. Compare E. VON BRUCKE, _Bruchstucke aus der Theorie der
+bildenden Kunste_, pg. 69: "_Schon Leonardo da Vinci wusste, dass
+ein noch so gut gemaltes Bild nie den vollen Eindruck der
+Korperlichkeit geben kann, wie ihn die Natur selbst giebt. Er
+erklart dies auch in Kap. LIII und Kap. CCCXLI_ (ed. DU FRESNE)
+_des_ 'Trattato' _in sachgemasser Weise aus dem Sehen mit beiden
+Augen_."
+
+Chap. 53 of DU FRESNE'S edition corresponds to No. 534 of this
+work.]
+
+535.
+
+WHY OF TWO OBJECTS OF EQUAL SIZE A PAINTED ONE WILL LOOK LARGER THAN
+A SOLID ONE.
+
+The reason of this is not so easy to demonstrate as many others.
+Still I will endeavour to accomplish it, if not wholly, at any rate
+in part. The perspective of diminution demonstrates by reason, that
+objects diminish in proportion as they are farther from the eye, and
+this reasoning is confirmed by experience. Hence, the lines of sight
+that extend between the object and the eye, when they are directed
+to the surface of a painting are all intersected at uniform limits,
+while those lines which are directed towards a piece of sculpture
+are intersected at various limits and are of various lengths. The
+lines which are longest extend to a more remote limb than the others
+and therefore that limb looks smaller. As there are numerous lines
+each longer than the others--since there are numerous parts, each
+more remote than the others and these, being farther off,
+necessarily appear smaller, and by appearing smaller it follows that
+their diminution makes the whole mass of the object look smaller.
+But this does not occur in painting; since the lines of sight all
+end at the same distance there can be no diminution, hence the parts
+not being diminished the whole object is undiminished, and for this
+reason painting does not diminish, as a piece of sculpture does.
+
+On the choice of a position (536-537)
+
+536.
+
+HOW HIGH THE POINT OF SIGHT SHOULD BE PLACED.
+
+The point of sight must be at the level of the eye of an ordinary
+man, and the farthest limit of the plain where it touches the sky
+must be placed at the level of that line where the earth and sky
+meet; excepting mountains, which are independent of it.
+
+537.
+
+OF THE WAY TO DRAW FIGURES FOR HISTORICAL PICTURES.
+
+The painter must always study on the wall on which he is to picture
+a story the height of the position where he wishes to arrange his
+figures; and when drawing his studies for them from nature he must
+place himself with his eye as much below the object he is drawing
+as, in the picture, it will have to be above the eye of the
+spectator. Otherwise the work will look wrong.
+
+The apparent size of figures in a picture (538-539)
+
+538.
+
+OF PLACING A FIGURE IN THE FOREGROUND OF A HISTORICAL PICTURE.
+
+You must make the foremost figure in the picture less than the size
+of nature in proportion to the number of braccia at which you place
+it from the front line, and make the others in proportion by the
+above rule.
+
+539.
+
+PERSPECTIVE.
+
+You are asked, O Painter, why the figures you draw on a small scale
+according to the laws of perspective do not appear--notwithstanding
+the demonstration of distance--as large as real ones--their height
+being the same as in those painted on the wall.
+
+And why [painted] objects seen at a small distance appear larger
+than the real ones?
+
+The right position of the artist, when painting, and of the
+spectator (540-547)
+
+540.
+
+OF PAINTING.
+
+When you draw from nature stand at a distance of 3 times the height
+of the object you wish to draw.
+
+541.
+
+OF DRAWING FROM RELIEF.
+
+In drawing from the round the draughtsman should so place himself
+that the eye of the figure he is drawing is on a level with his own.
+This should be done with any head he may have to represent from
+nature because, without exception, the figures or persons you meet
+in the streets have their eyes on the same level as your own; and if
+you place them higher or lower you will see that your drawing will
+not be true.
+
+542.
+
+WHY GROUPS OF FIGURES ONE ABOVE ANOTHER ARE TO BE AVOIDED.
+
+The universal practice which painters adopt on the walls of chapels
+is greatly and reasonably to be condemned. Inasmuch as they
+represent one historical subject on one level with a landscape and
+buildings, and then go up a step and paint another, varying the
+point [of sight], and then a third and a fourth, in such a way as
+that on one wall there are 4 points of sight, which is supreme folly
+in such painters. We know that the point of sight is opposite the
+eye of the spectator of the scene; and if you would [have me] tell
+you how to represent the life of a saint divided into several
+pictures on one and the same wall, I answer that you must set out
+the foreground with its point of sight on a level with the eye of
+the spectator of the scene, and upon this plane represent the more
+important part of the story large and then, diminishing by degrees
+the figures, and the buildings on various hills and open spaces, you
+can represent all the events of the history. And on the remainder of
+the wall up to the top put trees, large as compared with the
+figures, or angels if they are appropriate to the story, or birds or
+clouds or similar objects; otherwise do not trouble yourself with it
+for your whole work will be wrong.
+
+543.
+
+A PICTURE OF OBJECTS IN PERSPECTIVE WILL LOOK MORE LIFELIKE WHEN
+SEEN FROM THE POINT FROM WHICH THE OBJECTS WERE DRAWN.
+
+If you want to represent an object near to you which is to have the
+effect of nature, it is impossible that your perspective should not
+look wrong, with every false relation and disagreement of proportion
+that can be imagined in a wretched work, unless the spectator, when
+he looks at it, has his eye at the very distance and height and
+direction where the eye or the point of sight was placed in doing
+this perspective. Hence it would be necessary to make a window, or
+rather a hole, of the size of your face through which you can look
+at the work; and if you do this, beyond all doubt your work, if it
+is correct as to light and shade, will have the effect of nature;
+nay you will hardly persuade yourself that those objects are
+painted; otherwise do not trouble yourself about it, unless indeed
+you make your view at least 20 times as far off as the greatest
+width or height of the objects represented, and this will satisfy
+any spectator placed anywhere opposite to the picture.
+
+If you want the proof briefly shown, take a piece of wood in the
+form of a little column, eight times as high as it is thick, like a
+column without any plinth or capital; then mark off on a flat wall
+40 equal spaces, equal to its width so that between them they make
+40 columns resembling your little column; you then must fix,
+opposite the centre space, and at 4 braccia from the wall, a thin
+strip of iron with a small round hole in the middle about as large
+as a big pearl. Close to this hole place a light touching it. Then
+place your column against each mark on the wall and draw the outline
+of its shadow; afterwards shade it and look through the hole in the
+iron plate.
+
+[Footnote: In the original there is a wide space between lines 3 and
+4 in which we find two sketches not belonging to the text. It is
+unnecessary to give prominence to the points in which my reading
+differs from that of M. RAVAISSON or to justify myself, since they
+are all of secondary importance and can also be immediately verified
+from the photograph facsimile in his edition.]
+
+544.
+
+A diminished object should be seen from the same distance, height
+and direction as the point of sight of your eye, or else your
+knowledge will produce no good effect.
+
+And if you will not, or cannot, act on this principle--because as
+the plane on which you paint is to be seen by several persons you
+would need several points of sight which would make it look
+discordant and wrong--place yourself at a distance of at least 10
+times the size of the objects.
+
+The lesser fault you can fall into then, will be that of
+representing all the objects in the foreground of their proper size,
+and on whichever side you are standing the objects thus seen will
+diminish themselves while the spaces between them will have no
+definite ratio. For, if you place yourself in the middle of a
+straight row [of objects], and look at several columns arranged in a
+line you will see, beyond a few columns separated by intervals, that
+the columns touch; and beyond where they touch they cover each
+other, till the last column projects but very little beyond the last
+but one. Thus the spaces between the columns are by degrees entirely
+lost. So, if your method of perspective is good, it will produce the
+same effect; this effect results from standing near the line in
+which the columns are placed. This method is not satisfactory unless
+the objects seen are viewed from a small hole, in the middle of
+which is your point of sight; but if you proceed thus your work will
+be perfect and will deceive the beholder, who will see the columns
+as they are here figured.
+
+Here the eye is in the middle, at the point _a_ and near to the
+columns.
+
+[Footnote: The diagram which stands above this chapter in the
+original with the note belonging to it: "a b _e la ripruova_" (_a b_
+is the proof) has obviously no connection with the text. The second
+sketch alone is reproduced and stands in the original between lines
+22 and 23.]
+
+545.
+
+If you cannot arrange that those who look at your work should stand
+at one particular point, when constructing your work, stand back
+until your eye is at least 20 times as far off as the greatest
+height and width of your work. This will make so little difference
+when the eye of the spectator moves, that it will be hardly
+appreciable, and it will look very good.
+
+If the point of sight is at _t_ you would make the figures on the
+circle _d b e_ all of one size, as each of them bears the same
+relation to the point _t_. But consider the diagram given below and
+you will see that this is wrong, and why I shall make _b_ smaller
+than _d e_ [Footnote 8: The second diagram of this chapter stands in
+the original between lines 8 and 9.].
+
+It is easy to understand that if 2 objects equal to each other are
+placed side by side the one at 3 braccia distance looks smaller than
+that placed at 2 braccia. This however is rather theoretical than
+for practice, because you stand close by [Footnote 11: Instead of
+'_se preso_' (=_sie presso_) M. RAVAISSON reads '_sempre se_' which
+gives rise to the unmeaning rendering: '_parceque toujours_ ...'].
+
+All the objects in the foreground, whether large or small, are to be
+drawn of their proper size, and if you see them from a distance they
+will appear just as they ought, and if you see them close they will
+diminish of themselves.
+
+[Footnote 15: Compare No. 526 line 18.] Take care that the vertical
+plan on which you work out the perspective of the objects seen is of
+the same form as the wall on which the work is to be executed.
+
+546.
+
+OF PAINTING.
+
+The size of the figures represented ought to show you the distance
+they are seen from. If you see a figure as large as nature you know
+it appears to be close to the eye.
+
+547.
+
+WHERE A SPECTATOR SHOULD STAND TO LOOK AT A PICTURE.
+
+Supposing _a b_ to be the picture and _d_ to be the light, I say
+that if you place yourself between _c_ and _e_ you will not
+understand the picture well and particularly if it is done in oils,
+or still more if it is varnished, because it will be lustrous and
+somewhat of the nature of a mirror. And for this reason the nearer
+you go towards the point _c_, the less you will see, because the
+rays of light falling from the window on the picture are reflected
+to that point. But if you place yourself between _e_ and _d_ you
+will get a good view of it, and the more so as you approach the
+point _d_, because that spot is least exposed to these reflected
+rays of light.
+
+III.
+
+THE PRACTICAL METHODS OF LIGHT AND SHADE AND AERIAL PERSPECTIVE.
+
+Gradations of light and shade.
+
+548.
+
+OF PAINTING: OF THE DARKNESS OF THE SHADOWS, OR I MAY SAY, THE
+BRIGHTNESS OF THE LIGHTS.
+
+Although practical painters attribute to all shaded objects--trees,
+fields, hair, beards and skin--four degrees of darkness in each
+colour they use: that is to say first a dark foundation, secondly a
+spot of colour somewhat resembling the form of the details, thirdly
+a somewhat brighter and more defined portion, fourthly the lights
+which are more conspicuous than other parts of the figure; still to
+me it appears that these gradations are infinite upon a continuous
+surface which is in itself infinitely divisible, and I prove it
+thus:--[Footnote 7: See Pl. XXXI, No. 1; the two upper sketches.]
+Let _a g_ be a continuous surface and let _d_ be the light which
+illuminates it; I say--by the 4th [proposition] which says that that
+side of an illuminated body is most highly lighted which is nearest
+to the source of light--that therefore _g_ must be darker than _c_
+in proportion as the line _d g_ is longer than the line _d c_, and
+consequently that these gradations of light--or rather of shadow,
+are not 4 only, but may be conceived of as infinite, because _c d_
+is a continuous surface and every continuous surface is infinitely
+divisible; hence the varieties in the length of lines extending
+between the light and the illuminated object are infinite, and the
+proportion of the light will be the same as that of the length of
+the lines between them; extending from the centre of the luminous
+body to the surface of the illuminated object.
+
+On the choice of light for a picture (549-554).
+
+549.
+
+HOW THE PAINTER MUST PLACE HIMSELF WITH REFERENCE TO THE LIGHT, TO
+GIVE THE EFFECT OF RELIEF.
+
+Let _a b_ be the window, _m_ the point of light. I say that on
+whichever side the painter places himself he will be well placed if
+only his eye is between the shaded and the illuminated portions of
+the object he is drawing; and this place you will find by putting
+yourself between the point _m_ and the division between the shadow
+and the light on the object to be drawn.
+
+550.
+
+THAT SHADOWS CAST BY A PARTICULAR LIGHT SHOULD BE AVOIDED, BECAUSE
+THEY ARE EQUALLY STRONG AT THE ENDS AND AT THE BEGINNING.
+
+The shadows cast by the sun or any other particular light have not a
+pleasing effect on the body to which they belong, because the parts
+remain confuse, being divided by distinct outlines of light and
+shade. And the shadows are of equal strength at the end and at the
+beginning.
+
+551.
+
+HOW LIGHT SHOULD BE THROWN UPON FIGURES.
+
+The light must be arranged in accordance with the natural conditions
+under which you wish to represent your figures: that is, if you
+represent them in the sunshine make the shadows dark with large
+spaces of light, and mark their shadows and those of all the
+surrounding objects strongly on the ground. And if you represent
+them as in dull weather give little difference of light and shade,
+without any shadows at their feet. If you represent them as within
+doors, make a strong difference between the lights and shadows, with
+shadows on the ground. If the window is screened and the walls
+white, there will be little difference of light. If it is lighted by
+firelight make the high lights ruddy and strong, and the shadows
+dark, and those cast on the walls and on the floor will be clearly
+defined and the farther they are from the body the broader and
+longer will they be. If the light is partly from the fire and partly
+from the outer day, that of day will be the stronger and that of the
+fire almost as red as fire itself. Above all see that the figures
+you paint are broadly lighted and from above, that is to say all
+living persons that you paint; for you will see that all the people
+you meet out in the street are lighted from above, and you must know
+that if you saw your most intimate friend with a light [on his face]
+from below you would find it difficult to recognise him.
+
+552.
+
+OF HELPING THE APPARENT RELIEF OF A PICTURE BY GIVING IT ARTIFICIAL
+LIGHT AND SHADE.
+
+To increase relief of a picture you may place, between your figure
+and the solid object on which its shadow falls, a line of bright
+light, dividing the figure from the object in shadow. And on the
+same object you shall represent two light parts which will surround
+the shadow cast upon the wall by the figure placed opposite [6]; and
+do this frequently with the limbs which you wish should stand out
+somewhat from the body they belong to; particularly when the arms
+cross the front of the breast show, between the shadow cast by the
+arms on the breast and the shadow on the arms themselves, a little
+light seeming to fall through a space between the breast and the
+arms; and the more you wish the arm to look detached from the breast
+the broader you must make the light; always contrive also to arrange
+the figures against the background in such a way as that the parts
+in shadow are against a light background and the illuminated
+portions against a dark background.
+
+[Footnote 6: Compare the two diagrams under No. 565.]
+
+553.
+
+OF SITUATION.
+
+Remember [to note] the situation of your figures; for the light and
+shade will be one thing if the object is in a dark place with a
+particular light, and another thing if it is in a light place with
+direct sunlight; one thing in a dark place with a diffused evening
+light or a cloudy sky, and another in the diffused light of the
+atmosphere lighted by the sun.
+
+554.
+
+OF THE JUDGMENT TO BE MADE OF A PAINTER'S WORK.
+
+First you must consider whether the figures have the relief required
+by their situation and the light which illuminates them; for the
+shadows should not be the same at the extreme ends of the
+composition as in the middle, because it is one thing when figures
+are surrounded by shadows and another when they have shadows only on
+one side. Those which are in the middle of the picture are
+surrounded by shadows, because they are shaded by the figures which
+stand between them and the light. And those are lighted on one side
+only which stand between the principal group and the light, because
+where they do not look towards the light they face the group and the
+darkness of the group is thrown on them: and where they do not face
+the group they face the brilliant light and it is their own darkness
+shadowing them, which appears there.
+
+In the second place observe the distribution or arrangement of
+figures, and whether they are distributed appropriately to the
+circumstances of the story. Thirdly, whether the figures are
+actively intent on their particular business.
+
+555.
+
+OF THE TREATMENT OF THE LIGHTS.
+
+First give a general shadow to the whole of that extended part which
+is away from the light. Then put in the half shadows and the strong
+shadows, comparing them with each other and, in the same way give
+the extended light in half tint, afterwards adding the half lights
+and the high lights, likewise comparing them together.
+
+The distribution of light and shade (556-559)
+
+556.
+
+OF SHADOWS ON BODIES.
+
+When you represent the dark shadows in bodies in light and shade,
+always show the cause of the shadow, and the same with reflections;
+because the dark shadows are produced by dark objects and the
+reflections by objects only moderately lighted, that is with
+diminished light. And there is the same proportion between the
+highly lighted part of a body and the part lighted by a reflection
+as between the origin of the lights on the body and the origin of
+the reflections.
+
+557.
+
+OF LIGHTS AND SHADOWS.
+
+I must remind you to take care that every portion of a body, and
+every smallest detail which is ever so little in relief, must be
+given its proper importance as to light and shade.
+
+558.
+
+OF THE WAY TO MAKE THE SHADOW ON FIGURES CORRESPOND TO THE LIGHT AND
+TO [THE COLOUR] OF THE BODY.
+
+When you draw a figure and you wish to see whether the shadow is the
+proper complement to the light, and neither redder nor yellower than
+is the nature of the colour you wish to represent in shade, proceed
+thus. Cast a shadow with your finger on the illuminated portion, and
+if the accidental shadow that you have made is like the natural
+shadow cast by your finger on your work, well and good; and by
+putting your finger nearer or farther off, you can make darker or
+lighter shadows, which you must compare with your own.
+
+559.
+
+OF SURROUNDING BODIES BY VARIOUS FORMS OF SHADOW.
+
+Take care that the shadows cast upon the surface of the bodies by
+different objects must undulate according to the various curves of
+the limbs which cast the shadows, and of the objects on which they
+are cast.
+
+The juxtaposition of light and shade (560, 561).
+
+560.
+
+ON PAINTING.
+
+The comparison of the various qualities of shadows and lights not
+infrequently seems ambiguous and confused to the painter who desires
+to imitate and copy the objects he sees. The reason is this: If you
+see a white drapery side by side with a black one, that part of the
+white drapery which lies against the black one will certainly look
+much whiter than the part which lies against something whiter than
+itself. [Footnote: It is evident from this that so early as in 1492
+Leonardo's writing in perspective was so far advanced that he could
+quote his own statements.--As bearing on this subject compare what
+is said in No. 280.] And the reason of this is shown in my [book on]
+perspective.
+
+561.
+
+OF SHADOWS.
+
+Where a shadow ends in the light, note carefully where it is paler
+or deeper and where it is more or less indistinct towards the light;
+and, above all, in [painting] youthful figures I remind you not to
+make the shadow end like a stone, because flesh has a certain
+transparency, as may be seen by looking at a hand held between the
+eye and the sun, which shines through it ruddy and bright. Place the
+most highly coloured part between the light and shadow. And to see
+what shadow tint is needed on the flesh, cast a shadow on it with
+your finger, and according as you wish to see it lighter or darker
+hold your finger nearer to or farther from your picture, and copy
+that [shadow].
+
+On the lighting of the background (562-565).
+
+562.
+
+OF THE BACKGROUNDS FOR PAINTED FIGURES.
+
+The ground which surrounds the forms of any object you paint should
+be darker than the high lights of those figures, and lighter than
+their shadowed part: &c.
+
+563.
+
+OF THE BACKGROUND THAT THE PAINTER SHOULD ADOPT IN HIS WORKS.
+
+Since experience shows us that all bodies are surrounded by light
+and shade it is necessary that you, O Painter, should so arrange
+that the side which is in light shall terminate against a dark body
+and likewise that the shadow side shall terminate against a light
+body. And by [following] this rule you will add greatly to the
+relief of your figures.
+
+564.
+
+A most important part of painting consists in the backgrounds of the
+objects represented; against these backgrounds the outlines of
+those natural objects which are convex are always visible, and also
+the forms of these bodies against the background, even though the
+colours of the bodies should be the same as that of the background.
+This is caused by the convex edges of the objects not being
+illuminated in the same way as, by the same light, the background is
+illuminated, since these edges will often be lighter or darker than
+the background. But if the edge is of the same colour as the
+background, beyond a doubt it will in that part of the picture
+interfere with your perception of the outline, and such a choice in
+a picture ought to be rejected by the judgment of good painters,
+inasmuch as the purpose of the painter is to make his figures appear
+detached from the background; while in the case here described the
+contrary occurs, not only in the picture, but in the objects
+themselves.
+
+565.
+
+That you ought, when representing objects above the eye and on one
+side--if you wish them to look detached from the wall--to show,
+between the shadow on the object and the shadow it casts a middle
+light, so that the body will appear to stand away from the wall.
+
+On the lighting of white objects.
+
+566.
+
+HOW WHITE BODIES SHOULD BE REPRESENTED.
+
+If you are representing a white body let it be surrounded by ample
+space, because as white has no colour of its own, it is tinged and
+altered in some degree by the colour of the objects surrounding it.
+If you see a woman dressed in white in the midst of a landscape,
+that side which is towards the sun is bright in colour, so much so
+that in some portions it will dazzle the eyes like the sun itself;
+and the side which is towards the atmosphere,--luminous through
+being interwoven with the sun's rays and penetrated by them--since
+the atmosphere itself is blue, that side of the woman's figure will
+appear steeped in blue. If the surface of the ground about her be
+meadows and if she be standing between a field lighted up by the sun
+and the sun itself, you will see every portion of those folds which
+are towards the meadow tinged by the reflected rays with the colour
+of that meadow. Thus the white is transmuted into the colours of the
+luminous and of the non-luminous objects near it.
+
+The methods of aerial (567--570).
+
+567.
+
+WHY FACES [SEEN] AT A DISTANCE LOOK DARK.
+
+We see quite plainly that all the images of visible objects that lie
+before us, whether large or small, reach our sense by the minute
+aperture of the eye; and if, through so small a passage the image
+can pass of the vast extent of sky and earth, the face of a
+man--being by comparison with such large images almost nothing by
+reason of the distance which diminishes it,--fills up so little of
+the eye that it is indistinguishable. Having, also, to be
+transmitted from the surface to the sense through a dark medium,
+that is to say the crystalline lens which looks dark, this image,
+not being strong in colour becomes affected by this darkness on its
+passage, and on reaching the sense it appears dark; no other reason
+can in any way be assigned. If the point in the eye is black, it is
+because it is full of a transparent humour as clear as air and acts
+like a perforation in a board; on looking into it it appears dark
+and the objects seen through the bright air and a dark one become
+confused in this darkness.
+
+WHY A MAN SEEN AT A CERTAIN DISTANCE IS NOT RECOGNISABLE.
+
+The perspective of diminution shows us that the farther away an
+object is the smaller it looks. If you look at a man at a distance
+from you of an arrow's flight, and hold the eye of a small needle
+close to your own eye, you can see through it several men whose
+images are transmitted to the eye and will all be comprised within
+the size of the needle's eye; hence, if the man who is at the
+distance of an arrow's flight can send his whole image to your eye,
+occupying only a small space in the needle's eye how can you
+[expect] in so small a figure to distinguish or see the nose or
+mouth or any detail of his person? and, not seeing these you cannot
+recognise the man, since these features, which he does not show, are
+what give men different aspects.
+
+568.
+
+THE REASON WHY SMALL FIGURES SHOULD NOT BE MADE FINISHED.
+
+I say that the reason that objects appear diminished in size is
+because they are remote from the eye; this being the case it is
+evident that there must be a great extent of atmosphere between the
+eye and the objects, and this air interferes with the distinctness
+of the forms of the object. Hence the minute details of these
+objects will be indistinguishable and unrecognisable. Therefore, O
+Painter, make your smaller figures merely indicated and not highly
+finished, otherwise you will produce effects the opposite to nature,
+your supreme guide. The object is small by reason of the great
+distance between it and the eye, this great distance is filled with
+air, that mass of air forms a dense body which intervenes and
+prevents the eye seeing the minute details of objects.
+
+569.
+
+Whenever a figure is placed at a considerable distance you lose
+first the distinctness of the smallest parts; while the larger parts
+are left to the last, losing all distinctness of detail and outline;
+and what remains is an oval or spherical figure with confused edges.
+
+570.
+
+OF PAINTING.
+
+The density of a body of smoke looks white below the horizon while
+above the horizon it is dark, even if the smoke is in itself of a
+uniform colour, this uniformity will vary according to the variety
+in the ground on which it is seen.
+
+IV.
+
+OF PORTRAIT AND FIGURE PAINTING.
+
+Of sketching figures and portraits (571-572).
+
+571.
+
+OF THE WAY TO LEARN TO COMPOSE FIGURES [IN GROUPS] IN HISTORICAL
+PICTURES.
+
+When you have well learnt perspective and have by heart the parts
+and forms of objects, you must go about, and constantly, as you go,
+observe, note and consider the circumstances and behaviour of men in
+talking, quarrelling or laughing or fighting together: the action of
+the men themselves and the actions of the bystanders, who separate
+them or who look on. And take a note of them with slight strokes
+thus, in a little book which you should always carry with you. And
+it should be of tinted paper, that it may not be rubbed out, but
+change the old [when full] for a new one; since these things should
+not be rubbed out but preserved with great care; for the forms, and
+positions of objects are so infinite that the memory is incapable of
+retaining them, wherefore keep these [sketches] as your guides and
+masters.
+
+[Footnote: Among Leonardo's numerous note books of pocket size not
+one has coloured paper, so no sketches answering to this description
+can be pointed out. The fact that most of the notes are written in
+ink, militates against the supposition that they were made in the
+open air.]
+
+572.
+
+OF A METHOD OF KEEPING IN MIND THE FORM OF A FACE.
+
+If you want to acquire facility for bearing in mind the expression
+of a face, first make yourself familiar with a variety of [forms of]
+several heads, eyes, noses, mouths, chins and cheeks and necks and
+shoulders: And to put a case: Noses are of 10 types: straight,
+bulbous, hollow, prominent above or below the middle, aquiline,
+regular, flat, round or pointed. These hold good as to profile. In
+full face they are of 11 types; these are equal thick in the middle,
+thin in the middle, with the tip thick and the root narrow, or
+narrow at the tip and wide at the root; with the nostrils wide or
+narrow, high or low, and the openings wide or hidden by the point;
+and you will find an equal variety in the other details; which
+things you must draw from nature and fix them in your mind. Or else,
+when you have to draw a face by heart, carry with you a little book
+in which you have noted such features; and when you have cast a
+glance at the face of the person you wish to draw, you can look, in
+private, which nose or mouth is most like, or there make a little
+mark to recognise it again at home. Of grotesque faces I need say
+nothing, because they are kept in mind without difficulty.
+
+The position of the head.
+
+573.
+
+HOW YOU SHOULD SET TO WORK TO DRAW A HEAD OF WHICH ALL THE PARTS
+SHALL AGREE WITH THE POSITION GIVEN TO IT.
+
+To draw a head in which the features shall agree with the turn and
+bend of the head, pursue this method. You know that the eyes,
+eyebrows, nostrils, corners of the mouth, and sides of the chin, the
+jaws, cheeks, ears and all the parts of a face are squarely and
+straightly set upon the face.
+
+[Footnote: Compare the drawings and the text belonging to them on
+Pl. IX. (No. 315), Pl. X (No. 316), Pl. XL (No. 318) and Pl. XII.
+(No. 319).]
+
+Therefore when you have sketched the face draw lines passing from
+one corner of the eye to the other; and so for the placing of each
+feature; and after having drawn the ends of the lines beyond the two
+sides of the face, look if the spaces inside the same parallel lines
+on the right and on the left are equal [12]. But be sure to remember
+to make these lines tend to the point of sight.
+
+[Footnote: See Pl. XXXI, No. 4, the slight sketch on the left hand
+side. The text of this passage is written by the side of it. In this
+sketch the lines seem intentionally incorrect and converging to the
+right (compare I. 12) instead of parallel. Compare too with this
+text the drawing in red chalk from Windsor Castle which is
+reproduced on Pl. XL, No. 2.]
+
+Of the light on the face (574-576).
+
+574.
+
+HOW TO KNOW WHICH SIDE OF AN OBJECT IS TO BE MORE OR LESS LUMINOUS
+THAN THE OTHER.
+
+Let _f_ be the light, the head will be the object illuminated by it
+and that side of the head on which the rays fall most directly will
+be the most highly lighted, and those parts on which the rays fall
+most aslant will be less lighted. The light falls as a blow might,
+since a blow which falls perpendicularly falls with the greatest
+force, and when it falls obliquely it is less forcible than the
+former in proportion to the width of the angle. _Exempli gratia_ if
+you throw a ball at a wall of which the extremities are equally far
+from you the blow will fall straight, and if you throw the ball at
+the wall when standing at one end of it the ball will hit it
+obliquely and the blow will not tell.
+
+[Footnote: See Pl. XXXI. No. 4; the sketch on the right hand side.]
+
+575.
+
+THE PROOF AND REASON WHY AMONG THE ILLUMINATED PARTS CERTAIN
+PORTIONS ARE IN HIGHER LIGHT THAN OTHERS.
+
+Since it is proved that every definite light is, or seems to be,
+derived from one single point the side illuminated by it will have
+its highest light on the portion where the line of radiance falls
+perpendicularly; as is shown above in the lines _a g_, and also in
+_a h_ and in _l a_; and that portion of the illuminated side will be
+least luminous, where the line of incidence strikes it between two
+more dissimilar angles, as is seen at _b c d_. And by this means you
+may also know which parts are deprived of light as is seen at _m k_.
+
+Where the angles made by the lines of incidence are most equal there
+will be the highest light, and where they are most unequal it will
+be darkest.
+
+I will make further mention of the reason of reflections.
+
+[Footnote: See Pl. XXXII. The text, here given complete, is on the
+right hand side. The small circles above the beginning of lines 5
+and 11 as well as the circle above the text on Pl. XXXI, are in a
+paler ink and evidently added by a later hand in order to
+distinguish the text as belonging to the _Libro di Pittura_ (see
+Prolegomena. No. 12, p. 3). The text on the left hand side of this
+page is given as Nos. 577 and 137.]
+
+576.
+
+Where the shadow should be on the face.
+
+General suggestions for historical pictures (577-581).
+
+577.
+
+When you compose a historical picture take two points, one the point
+of sight, and the other the source of light; and make this as
+distant as possible.
+
+578.
+
+Historical pictures ought not to be crowded and confused with too
+many figures.
+
+579.
+
+PRECEPTS IN PAINTING.
+
+Let you sketches of historical pictures be swift and the working out
+of the limbs not be carried too far, but limited to the position of
+the limbs, which you can afterwards finish as you please and at your
+leisure.
+
+[Footnote: See Pl. XXXVIII, No. 2. The pen and ink drawing given
+there as No. 3 may also be compared with this passage. It is in the
+Windsor collection where it is numbered 101.]
+
+580.
+
+The sorest misfortune is when your views are in advance of your
+work.
+
+581.
+
+Of composing historical pictures. Of not considering the limbs in
+the figures in historical pictures; as many do who, in the wish to
+represent the whole of a figure, spoil their compositions. And when
+you place one figure behind another take care to draw the whole of
+it so that the limbs which come in front of the nearer figures may
+stand out in their natural size and place.
+
+How to represent the differences of age and sex (582-583).
+
+582.
+
+How the ages of man should be depicted: that is, Infancy, Childhood,
+Youth, Manhood, Old age, Decrepitude.
+
+[Footnote: No answer is here given to this question, in the original
+MS.]
+
+583.
+
+Old men ought to be represented with slow and heavy movements, their
+legs bent at the knees, when they stand still, and their feet placed
+parallel and apart; bending low with the head leaning forward, and
+their arms but little extended.
+
+Women must be represented in modest attitudes, their legs close
+together, their arms closely folded, their heads inclined and
+somewhat on one side.
+
+Old women should be represented with eager, swift and furious
+gestures, like infernal furies; but the action should be more
+violent in their arms and head than in their legs.
+
+Little children, with lively and contorted movements when sitting,
+and, when standing still, in shy and timid attitudes.
+
+[Footnote: _bracci raccolte_. Compare Pl. XXXIII. This drawing, in
+silver point on yellowish tinted paper, the lights heightened with
+white, represents two female hands laid together in a lap. Above is
+a third finished study of a right hand, apparently holding a veil
+from the head across the bosom. This drawing evidently dates from
+before 1500 and was very probably done at Florence, perhaps as a
+preparatory study for some picture. The type of hand with its
+slender thin forms is more like the style of the _Vierge aux
+Rochers_ in the Louvre than any later works--as the Mona Lisa for
+instance.]
+
+Of representing the emotions.
+
+584.
+
+THAT A FIGURE IS NOT ADMIRABLE UNLESS IT EXPRESSES BY ITS ACTION THE
+PASSION OF ITS SENTIMENT.
+
+That figure is most admirable which by its actions best expresses
+the passion that animates it.
+
+HOW AN ANGRY MAN IS TO BE FIGURED.
+
+You must make an angry person holding someone by the hair, wrenching
+his head against the ground, and with one knee on his ribs; his
+right arm and fist raised on high. His hair must be thrown up, his
+brow downcast and knit, his teeth clenched and the two corners of
+his mouth grimly set; his neck swelled and bent forward as he leans
+over his foe, and full of furrows.
+
+HOW TO REPRESENT A MAN IN DESPAIR.
+
+You must show a man in despair with a knife, having already torn
+open his garments, and with one hand tearing open the wound. And
+make him standing on his feet and his legs somewhat bent and his
+whole person leaning towards the earth; his hair flying in disorder.
+
+Of representing imaginary animals.
+
+585.
+
+HOW YOU SHOULD MAKE AN IMAGINARY ANIMAL LOOK NATURAL.
+
+You know that you cannot invent animals without limbs, each of
+which, in itself, must resemble those of some other animal. Hence if
+you wish to make an animal, imagined by you, appear natural--let us
+say a Dragon, take for its head that of a mastiff or hound, with the
+eyes of a cat, the ears of a porcupine, the nose of a greyhound, the
+brow of a lion, the temples of an old cock, the neck of a water
+tortoise.
+
+[Footnote: The sketch here inserted of two men on horseback fighting
+a dragon is the facsimile of a pen and ink drawing belonging to
+BARON EDMOND DE ROTHSCHILD of Paris.]
+
+The selection of forms.
+
+586.
+
+OF THE DELUSIONS WHICH ARISE IN JUDGING OF THE LIMBS.
+
+A painter who has clumsy hands will paint similar hands in his
+works, and the same will occur with any limb, unless long study has
+taught him to avoid it. Therefore, O Painter, look carefully what
+part is most ill-favoured in your own person and take particular
+pains to correct it in your studies. For if you are coarse, your
+figures will seem the same and devoid of charm; and it is the same
+with any part that may be good or poor in yourself; it will be shown
+in some degree in your figures.
+
+587.
+
+OF THE SELECTION OF BEAUTIFUL FACES.
+
+It seems to me to be no small charm in a painter when he gives his
+figures a pleasing air, and this grace, if he have it not by nature,
+he may acquire by incidental study in this way: Look about you and
+take the best parts of many beautiful faces, of which the beauty is
+confirmed rather by public fame than by your own judgment; for you
+might be mistaken and choose faces which have some resemblance to
+your own. For it would seem that such resemblances often please us;
+and if you should be ugly, you would select faces that were not
+beautiful and you would then make ugly faces, as many painters do.
+For often a master's work resembles himself. So select beauties as I
+tell you, and fix them in your mind.
+
+588.
+
+Of the limbs, which ought to be carefully selected, and of all the
+other parts with regard to painting.
+
+589.
+
+When selecting figures you should choose slender ones rather than
+lean and wooden ones.
+
+590.
+
+OF THE MUSCLES OF ANIMALS.
+
+The hollow spaces interposed between the muscles must not be of such
+a character as that the skin should seem to cover two sticks laid
+side by side like _c_, nor should they seem like two sticks somewhat
+remote from such contact so that the skin hangs in an empty loose
+curve as at _f_; but it should be like _i_, laid over the spongy fat
+that lies in the angles as the angle _n m o_; which angle is formed
+by the contact of the ends of the muscles and as the skin cannot
+fold down into such an angle, nature has filled up such angles with
+a small quantity of spongy and, as I may say, vesicular fat, with
+minute bladders [in it] full of air, which is condensed or rarefied
+in them according to the increase or the diminution of the substance
+of the muscles; in which latter case the concavity _i_ always has a
+larger curve than the muscle.
+
+591.
+
+OF UNDULATING MOVEMENTS AND EQUIPOISE IN FIGURES AND OTHER ANIMALS.
+
+When representing a human figure or some graceful animal, be careful
+to avoid a wooden stiffness; that is to say make them move with
+equipoise and balance so as not to look like a piece of wood; but
+those you want to represent as strong you must not make so,
+excepting in the turn of the head.
+
+How to pose figures.
+
+592.
+
+OF GRACE IN THE LIMBS.
+
+The limbs should be adapted to the body with grace and with
+reference to the effect that you wish the figure to produce. And if
+you wish to produce a figure that shall of itself look light and
+graceful you must make the limbs elegant and extended, and without
+too much display of the muscles; and those few that are needed for
+your purpose you must indicate softly, that is, not very prominent
+and without strong shadows; the limbs, and particularly the arms
+easy; that is, none of the limbs should be in a straight line with
+the adjoining parts. And if the hips, which are the pole of a man,
+are by reason of his position, placed so, that the right is higher
+than the left, make the point of the higher shoulder in a
+perpendicular line above the highest prominence of the hip, and let
+this right shoulder be lower than the left. Let the pit of the
+throat always be over the centre of the joint of the foot on which
+the man is leaning. The leg which is free should have the knee lower
+than the other, and near the other leg. The positions of the head
+and arms are endless and I shall therefore not enlarge on any rules
+for them. Still, let them be easy and pleasing, with various turns
+and twists, and the joints gracefully bent, that they may not look
+like pieces of wood.
+
+Of appropriate gestures (593-600).
+
+593.
+
+A picture or representation of human figures, ought to be done in
+such a way as that the spectator may easily recognise, by means of
+their attitudes, the purpose in their minds. Thus, if you have to
+represent a man of noble character in the act of speaking, let his
+gestures be such as naturally accompany good words; and, in the same
+way, if you wish to depict a man of a brutal nature, give him fierce
+movements; as with his arms flung out towards the listener, and his
+head and breast thrust forward beyond his feet, as if following the
+speaker's hands. Thus it is with a deaf and dumb person who, when he
+sees two men in conversation--although he is deprived of
+hearing--can nevertheless understand, from the attitudes and
+gestures of the speakers, the nature of their discussion. I once saw
+in Florence a man who had become deaf who, when you spoke very loud
+did not understand you, but if you spoke gently and without making
+any sound, understood merely from the movement of the lips. Now
+perhaps you will say that the lips of a man who speaks loudly do not
+move like those of one speaking softly, and that if they were to
+move them alike they would be alike understood. As to this argument,
+I leave the decision to experiment; make a man speak to you gently
+and note [the motion of] his lips.
+
+[Footnote: The first ten lines of this text have already been
+published, but with a slightly different reading by Dr. M. JORDAN:
+_Das Malerbuch Leonardo da Vinci's_ p. 86.]
+
+594.
+
+OF REPRESENTING A MAN SPEAKING TO A MULTITUDE.
+
+When you wish to represent a man speaking to a number of people,
+consider the matter of which he has to treat and adapt his action to
+the subject. Thus, if he speaks persuasively, let his action be
+appropriate to it. If the matter in hand be to set forth an
+argument, let the speaker, with the fingers of the right hand hold
+one finger of the left hand, having the two smaller ones closed; and
+his face alert, and turned towards the people with mouth a little
+open, to look as though he spoke; and if he is sitting let him
+appear as though about to rise, with his head forward. If you
+represent him standing make him leaning slightly forward with body
+and head towards the people. These you must represent as silent and
+attentive, all looking at the orator's face with gestures of
+admiration; and make some old men in astonishment at the things they
+hear, with the corners of their mouths pulled down and drawn in,
+their cheeks full of furrows, and their eyebrows raised, and
+wrinkling the forehead where they meet. Again, some sitting with
+their fingers clasped holding their weary knees. Again, some bent
+old man, with one knee crossed over the other; on which let him hold
+his hand with his other elbow resting in it and the hand supporting
+his bearded chin.
+
+[Footnote: The sketches introduced here are a facsimile of a pen and
+ink drawing in the Louvre which Herr CARL BRUN considers as studies
+for the Last Supper in the church of _Santa Maria delle Grazie_ (see
+Leonardo da Vinci, LXI, pp. 21, 27 and 28 in DOHME'S _Kunst und
+Kunstler_, Leipzig, Seemann). I shall not here enter into any
+discussion of this suggestion; but as a justification for
+introducing the drawing in this place, I may point out that some of
+the figures illustrate this passage as perfectly as though they had
+been drawn for that express purpose. I have discussed the
+probability of a connection between this sketch and the picture of
+the Last Supper on p. 335. The original drawing is 27 3/4
+centimetres wide by 21 high.--The drawing in silver point on reddish
+paper given on Pl. LII. No. 1--the original at Windsor Castle--may
+also serve to illustrate the subject of appropriate gestures,
+treated in Nos. 593 and 594.]
+
+595.
+
+OF THE DISPOSITION OF LIMBS.
+
+As regards the disposition of limbs in movement you will have to
+consider that when you wish to represent a man who, by some chance,
+has to turn backwards or to one side, you must not make him move his
+feet and all his limbs towards the side to which he turns his head.
+Rather must you make the action proceed by degrees and through the
+different joints; that is, those of the foot, the knee and the hip
+and the neck. And if you set him on the right leg, you must make the
+left knee bend inwards, and let his foot be slightly raised on the
+outside, and the left shoulder be somewhat lower than the right,
+while the nape of the neck is in a line directly over the outer
+ancle of the left foot. And the left shoulder will be in a
+perpendicular line above the toes of the right foot. And always set
+your figures so that the side to which the head turns is not the
+side to which the breast faces, since nature for our convenience has
+made us with a neck which bends with ease in many directions, the
+eye wishing to turn to various points, the different joints. And if
+at any time you make a man sitting with his arms at work on
+something which is sideways to him, make the upper part of his body
+turn upon the hips.
+
+[Footnote: Compare Pl. VII, No. 5. The original drawing at Windsor
+Castle is numbered 104.]
+
+596.
+
+When you draw the nude always sketch the whole figure and then
+finish those limbs which seem to you the best, but make them act
+with the other limbs; otherwise you will get a habit of never
+putting the limbs well together on the body.
+
+Never make the head turn the same way as the torso, nor the arm and
+leg move together on the same side. And if the face is turned to the
+right shoulder, make all the parts lower on the left side than on
+the right; and when you turn the body with the breast outwards, if
+the head turns to the left side make the parts on the right side
+higher than those on the left.
+
+[Footnote: In the original MS. a much defaced sketch is to be seen
+by the side of the second part of this chapter; its faded condition
+has rendered reproduction impossible. In M. RAVAISSON'S facsimile
+the outlines of the head have probably been touched up. This passage
+however is fitly illustrated by the drawings on Pl. XXI.]
+
+597.
+
+OF PAINTING.
+
+Of the nature of movements in man. Do not repeat the same gestures
+in the limbs of men unless you are compelled by the necessity of
+their action, as is shown in _a b_.
+
+[Footnote: See Pl. V, where part of the text is also reproduced. The
+effaced figure to the extreme left has evidently been cancelled by
+Leonardo himself as unsatisfactory.]
+
+598.
+
+The motions of men must be such as suggest their dignity or their
+baseness.
+
+599.
+
+OF PAINTING.
+
+Make your work carry out your purpose and meaning. That is when you
+draw a figure consider well who it is and what you wish it to be
+doing.
+
+OF PAINTING.
+
+With regard to any action which you give in a picture to an old man
+or to a young one, you must make it more energetic in the young man
+in proportion as he is stronger than the old one; and in the same
+way with a young man and an infant.
+
+600.
+
+OF SETTING ON THE LIMBS.
+
+The limbs which are used for labour must be muscular and those which
+are not much used you must make without muscles and softly rounded.
+
+OF THE ACTION OF THE FIGURES.
+
+Represent your figures in such action as may be fitted to express
+what purpose is in the mind of each; otherwise your art will not be
+admirable.
+
+V.
+
+SUGGESTIONS FOR COMPOSITIONS.
+
+Of painting battle pieces (601-603).
+
+601.
+
+OF THE WAY OF REPRESENTING A BATTLE.
+
+First you must represent the smoke of artillery mingling in the air
+with the dust and tossed up by the movement of horses and the
+combatants. And this mixture you must express thus: The dust, being
+a thing of earth, has weight; and although from its fineness it is
+easily tossed up and mingles with the air, it nevertheless readily
+falls again. It is the finest part that rises highest; hence that
+part will be least seen and will look almost of the same colour as
+the air. The higher the smoke mixed with the dust-laden air rises
+towards a certain level, the more it will look like a dark cloud;
+and it will be seen that at the top, where the smoke is more
+separate from the dust, the smoke will assume a bluish tinge and the
+dust will tend to its colour. This mixture of air, smoke and dust
+will look much lighter on the side whence the light comes than on
+the opposite side. The more the combatants are in this turmoil the
+less will they be seen, and the less contrast will there be in their
+lights and shadows. Their faces and figures and their appearance,
+and the musketeers as well as those near them you must make of a
+glowing red. And this glow will diminish in proportion as it is
+remote from its cause.
+
+The figures which are between you and the light, if they be at a
+distance, will appear dark on a light background, and the lower part
+of their legs near the ground will be least visible, because there
+the dust is coarsest and densest [19]. And if you introduce horses
+galloping outside the crowd, make the little clouds of dust distant
+from each other in proportion to the strides made by the horses; and
+the clouds which are furthest removed from the horses, should be
+least visible; make them high and spreading and thin, and the nearer
+ones will be more conspicuous and smaller and denser [23]. The air
+must be full of arrows in every direction, some shooting upwards,
+some falling, some flying level. The balls from the guns must have a
+train of smoke following their flight. The figures in the foreground
+you must make with dust on the hair and eyebrows and on other flat
+places likely to retain it. The conquerors you will make rushing
+onwards with their hair and other light things flying on the wind,
+with their brows bent down,
+
+[Footnote: 19--23. Compare 608. 57--75.]
+
+602.
+
+and with the opposite limbs thrust forward; that is where a man puts
+forward the right foot the left arm must be advanced. And if you
+make any one fallen, you must show the place where he has slipped
+and been dragged along the dust into blood stained mire; and in the
+half-liquid earth arround show the print of the tramping of men and
+horses who have passed that way. Make also a horse dragging the dead
+body of his master, and leaving behind him, in the dust and mud, the
+track where the body was dragged along. You must make the conquered
+and beaten pale, their brows raised and knit, and the skin above
+their brows furrowed with pain, the sides of the nose with wrinkles
+going in an arch from the nostrils to the eyes, and make the
+nostrils drawn up--which is the cause of the lines of which I
+speak--, and the lips arched upwards and discovering the upper
+teeth; and the teeth apart as with crying out and lamentation. And
+make some one shielding his terrified eyes with one hand, the palm
+towards the enemy, while the other rests on the ground to support
+his half raised body. Others represent shouting with their mouths
+open, and running away. You must scatter arms of all sorts among the
+feet of the combatants, as broken shields, lances, broken swords and
+other such objects. And you must make the dead partly or entirely
+covered with dust, which is changed into crimson mire where it has
+mingled with the flowing blood whose colour shows it issuing in a
+sinuous stream from the corpse. Others must be represented in the
+agonies of death grinding their teeth, rolling their eyes, with
+their fists clenched against their bodies and their legs contorted.
+Some might be shown disarmed and beaten down by the enemy, turning
+upon the foe, with teeth and nails, to take an inhuman and bitter
+revenge. You might see some riderless horse rushing among the enemy,
+with his mane flying in the wind, and doing no little mischief with
+his heels. Some maimed warrior may be seen fallen to the earth,
+covering himself with his shield, while the enemy, bending over him,
+tries to deal him a deathstroke. There again might be seen a number
+of men fallen in a heap over a dead horse. You would see some of the
+victors leaving the fight and issuing from the crowd, rubbing their
+eyes and cheeks with both hands to clean them of the dirt made by
+their watering eyes smarting from the dust and smoke. The reserves
+may be seen standing, hopeful but cautious; with watchful eyes,
+shading them with their hands and gazing through the dense and murky
+confusion, attentive to the commands of their captain. The captain
+himself, his staff raised, hurries towards these auxiliaries,
+pointing to the spot where they are most needed. And there may be a
+river into which horses are galloping, churning up the water all
+round them into turbulent waves of foam and water, tossed into the
+air and among the legs and bodies of the horses. And there must not
+be a level spot that is not trampled with gore.
+
+603.
+
+OF LIGHTING THE LOWER PARTS OF BODIES CLOSE TOGETHER, AS OF MEN IN
+BATTLE.
+
+As to men and horses represented in battle, their different parts
+will be dark in proportion as they are nearer to the ground on which
+they stand. And this is proved by the sides of wells which grow
+darker in proportion to their depth, the reason of which is that the
+deepest part of the well sees and receives a smaller amount of the
+luminous atmosphere than any other part.
+
+And the pavement, if it be of the same colour as the legs of these
+said men and horses, will always be more lighted and at a more
+direct angle than the said legs &c.
+
+604.
+
+OF THE WAY TO REPRESENT A NIGHT [SCENE].
+
+That which is entirely bereft of light is all darkness; given a
+night under these conditions and that you want to represent a night
+scene,--arrange that there shall be a great fire, then the objects
+which are nearest to this fire will be most tinged with its colour;
+for those objects which are nearest to a coloured light participate
+most in its nature; as therefore you give the fire a red colour, you
+must make all the objects illuminated by it ruddy; while those which
+are farther from the fire are more tinted by the black hue of night.
+The figures which are seen against the fire look dark in the glare
+of the firelight because that side of the objects which you see is
+tinged by the darkness of the night and not by the fire; and those
+who stand at the side are half dark and half red; while those who
+are visible beyond the edges of the flame will be fully lighted by
+the ruddy glow against a black background. As to their gestures,
+make those which are near it screen themselves with their hands and
+cloaks as a defence against the intense heat, and with their faces
+turned away as if about to retire. Of those farther off represent
+several as raising their hands to screen their eyes, hurt by the
+intolerable glare.
+
+Of depicting a tempest (605. 606).
+
+605.
+
+Describe a wind on land and at sea. Describe a storm of rain.
+
+606.
+
+HOW TO REPRESENT A TEMPEST.
+
+If you wish to represent a tempest consider and arrange well its
+effects as seen, when the wind, blowing over the face of the sea and
+earth, removes and carries with it such things as are not fixed to
+the general mass. And to represent the storm accurately you must
+first show the clouds scattered and torn, and flying with the wind,
+accompanied by clouds of sand blown up from the sea shore, and
+boughs and leaves swept along by the strength and fury of the blast
+and scattered with other light objects through the air. Trees and
+plants must be bent to the ground, almost as if they would follow
+the course of the gale, with their branches twisted out of their
+natural growth and their leaves tossed and turned about [Footnote
+11: See Pl. XL, No. 2.]. Of the men who are there some must have
+fallen to the ground and be entangled in their garments, and hardly
+to be recognized for the dust, while those who remain standing may
+be behind some tree, with their arms round it that the wind may not
+tear them away; others with their hands over their eyes for the
+dust, bending to the ground with their clothes and hair streaming in
+the wind. [Footnote 15: See Pl. XXXIV, the right hand lower sketch.]
+Let the sea be rough and tempestuous and full of foam whirled among
+the lofty waves, while the wind flings the lighter spray through the
+stormy air, till it resembles a dense and swathing mist. Of the
+ships that are therein some should be shown with rent sails and the
+tatters fluttering through the air, with ropes broken and masts
+split and fallen. And the ship itself lying in the trough of the sea
+and wrecked by the fury of the waves with the men shrieking and
+clinging to the fragments of the vessel. Make the clouds driven by
+the impetuosity of the wind and flung against the lofty mountain
+tops, and wreathed and torn like waves beating upon rocks; the air
+itself terrible from the deep darkness caused by the dust and fog
+and heavy clouds.
+
+Of representing the deluge (607-609).
+
+607.
+
+TO REPRESENT THE DELUGE.
+
+The air was darkened by the heavy rain whose oblique descent driven
+aslant by the rush of the winds, flew in drifts through the air not
+otherwise than as we see dust, varied only by the straight lines of
+the heavy drops of falling water. But it was tinged with the colour
+of the fire kindled by the thunder-bolts by which the clouds were
+rent and shattered; and whose flashes revealed the broad waters of
+the inundated valleys, above which was seen the verdure of the
+bending tree tops. Neptune will be seen in the midst of the water
+with his trident, and [15] let AEolus with his winds be shown
+entangling the trees floating uprooted, and whirling in the huge
+waves. The horizon and the whole hemisphere were obscure, but lurid
+from the flashes of the incessant lightning. Men and birds might be
+seen crowded on the tall trees which remained uncovered by the
+swelling waters, originators of the mountains which surround the
+great abysses [Footnote 23: Compare Vol. II. No. 979.].
+
+608.
+
+OF THE DELUGE AND HOW TO REPRESENT IT IN A PICTURE.
+
+Let the dark and gloomy air be seen buffeted by the rush of contrary
+winds and dense from the continued rain mingled with hail and
+bearing hither and thither an infinite number of branches torn from
+the trees and mixed with numberless leaves. All round may be seen
+venerable trees, uprooted and stripped by the fury of the winds; and
+fragments of mountains, already scoured bare by the torrents,
+falling into those torrents and choking their valleys till the
+swollen rivers overflow and submerge the wide lowlands and their
+inhabitants. Again, you might have seen on many of the hill-tops
+terrified animals of different kinds, collected together and subdued
+to tameness, in company with men and women who had fled there with
+their children. The waters which covered the fields, with their
+waves were in great part strewn with tables, bedsteads, boats and
+various other contrivances made from necessity and the fear of
+death, on which were men and women with their children amid sounds
+of lamentation and weeping, terrified by the fury of the winds which
+with their tempestuous violence rolled the waters under and over and
+about the bodies of the drowned. Nor was there any object lighter
+than the water which was not covered with a variety of animals
+which, having come to a truce, stood together in a frightened
+crowd--among them wolves, foxes, snakes and others--fleing from
+death. And all the waters dashing on their shores seemed to be
+battling them with the blows of drowned bodies, blows which killed
+those in whom any life remained [19]. You might have seen
+assemblages of men who, with weapons in their hands, defended the
+small spots that remained to them against lions, wolves and beasts
+of prey who sought safety there. Ah! what dreadful noises were heard
+in the air rent by the fury of the thunder and the lightnings it
+flashed forth, which darted from the clouds dealing ruin and
+striking all that opposed its course. Ah! how many you might have
+seen closing their ears with their hands to shut out the tremendous
+sounds made in the darkened air by the raging of the winds mingling
+with the rain, the thunders of heaven and the fury of the
+thunder-bolts. Others were not content with shutting their eyes, but
+laid their hands one over the other to cover them the closer that
+they might not see the cruel slaughter of the human race by the
+wrath of God. Ah! how many laments! and how many in their terror
+flung themselves from the rocks! Huge branches of great oaks loaded
+with men were seen borne through the air by the impetuous fury of
+the winds. How many were the boats upset, some entire, and some
+broken in pieces, on the top of people labouring to escape with
+gestures and actions of grief foretelling a fearful death. Others,
+with desperate act, took their own lives, hopeless of being able to
+endure such suffering; and of these, some flung themselves from
+lofty rocks, others strangled themselves with their own hands, other
+seized their own children and violently slew them at a blow; some
+wounded and killed themselves with their own weapons; others,
+falling on their knees recommended themselves to God. Ah! how many
+mothers wept over their drowned sons, holding them upon their knees,
+with arms raised spread out towards heaven and with words and
+various threatening gestures, upbraiding the wrath of the gods.
+Others with clasped hands and fingers clenched gnawed them and
+devoured them till they bled, crouching with their breast down on
+their knees in their intense and unbearable anguish. Herds of
+animals were to be seen, such as horses, oxen, goats and swine
+already environed by the waters and left isolated on the high peaks
+of the mountains, huddled together, those in the middle climbing to
+the top and treading on the others, and fighting fiercely
+themselves; and many would die for lack of food. Already had the
+birds begun to settle on men and on other animals, finding no land
+uncovered which was not occupied by living beings, and already had
+famine, the minister of death, taken the lives of the greater number
+of the animals, when the dead bodies, now fermented, where leaving
+the depth of the waters and were rising to the top. Among the
+buffeting waves, where they were beating one against the other, and,
+like as balls full of air, rebounded from the point of concussion,
+these found a resting place on the bodies of the dead. And above
+these judgements, the air was seen covered with dark clouds, riven
+by the forked flashes of the raging bolts of heaven, lighting up on
+all sides the depth of the gloom.
+
+The motion of the air is seen by the motion of the dust thrown up by
+the horse's running and this motion is as swift in again filling up
+the vacuum left in the air which enclosed the horse, as he is rapid
+in passing away from the air.
+
+Perhaps it will seem to you that you may reproach me with having
+represented the currents made through the air by the motion of the
+wind notwithstanding that the wind itself is not visible in the air.
+To this I must answer that it is not the motion of the wind but only
+the motion of the things carried along by it which is seen in the
+air.
+
+THE DIVISIONS. [Footnote 76: These observations, added at the bottom
+of the page containing the full description of the doluge seem to
+indicate that it was Leonardo's intention to elaborate the subject
+still farther in a separate treatise.]
+
+Darkness, wind, tempest at sea, floods of water, forests on fire,
+rain, bolts from heaven, earthquakes and ruins of mountains,
+overthrow of cities [Footnote 81: _Spianamenti di citta_ (overthrow
+of cities). A considerable number of drawings in black chalk, at
+Windsor, illustrate this catastrophe. Most of them are much rubbed;
+one of the least injured is reproduced at Pl. XXXIX. Compare also
+the pen and ink sketch Pl. XXXVI.].
+
+Whirlwinds which carry water [spouts] branches of trees, and men
+through the air.
+
+Boughs stripped off by the winds, mingling by the meeting of the
+winds, with people upon them.
+
+Broken trees loaded with people.
+
+Ships broken to pieces, beaten on rocks.
+
+Flocks of sheep. Hail stones, thunderbolts, whirlwinds.
+
+People on trees which are unable to to support them; trees and
+rocks, towers and hills covered with people, boats, tables, troughs,
+and other means of floating. Hills covered with men, women and
+animals; and lightning from the clouds illuminating every thing.
+
+[Footnote: This chapter, which, with the next one, is written on a
+loose sheet, seems to be the passage to which one of the compilers
+of the Vatican copy alluded when he wrote on the margin of fol. 36:
+"_Qua mi ricordo della mirabile discritione del Diluuio dello
+autore._" It is scarcely necessary to point out that these chapters
+are among those which have never before been published. The
+description in No. 607 may be regarded as a preliminary sketch for
+this one. As the MS. G. (in which it is to be found) must be
+attributed to the period of about 1515 we may deduce from it the
+approximate date of the drawings on Pl. XXXIV, XXXV, Nos. 2 and 3,
+XXXVI and XXXVII, since they obviously belong to this text. The
+drawings No. 2 on Pl. XXXV are, in the original, side by side with
+the text of No. 608; lines 57 to 76 are shown in the facsimile. In
+the drawing in Indian ink given on Pl. XXXIV we see Wind-gods in the
+sky, corresponding to the allusion to Aeolus in No. 607 1.
+15.-Plates XXXVI and XXXVII form one sheet in the original. The
+texts reproduced on these Plates have however no connection with the
+sketches, excepting the sketches of clouds on the right hand side.
+These texts are given as No. 477. The group of small figures on Pl.
+XXXVII, to the left, seems to be intended for a '_congregatione
+d'uomini._' See No. 608, 1. 19.]
+
+609.
+
+DESCRIPTION OF THE DELUGE.
+
+Let there be first represented the summit of a rugged mountain with
+valleys surrounding its base, and on its sides let the surface of
+the soil be seen to slide, together with the small roots of the
+bushes, denuding great portions of the surrounding rocks. And
+descending ruinous from these precipices in its boisterous course,
+let it dash along and lay bare the twisted and gnarled roots of
+large trees overthrowing their roots upwards; and let the mountains,
+as they are scoured bare, discover the profound fissures made in
+them by ancient earthquakes. The base of the mountains may be in
+great part clothed and covered with ruins of shrubs, hurled down
+from the sides of their lofty peaks, which will be mixed with mud,
+roots, boughs of trees, with all sorts of leaves thrust in with the
+mud and earth and stones. And into the depth of some valley may have
+fallen the fragments of a mountain forming a shore to the swollen
+waters of its river; which, having already burst its banks, will
+rush on in monstrous waves; and the greatest will strike upon and
+destroy the walls of the cities and farmhouses in the valley [14].
+Then the ruins of the high buildings in these cities will throw up a
+great dust, rising up in shape like smoke or wreathed clouds against
+the falling rain; But the swollen waters will sweep round the pool
+which contains them striking in eddying whirlpools against the
+different obstacles, and leaping into the air in muddy foam; then,
+falling back, the beaten water will again be dashed into the air.
+And the whirling waves which fly from the place of concussion, and
+whose impetus moves them across other eddies going in a contrary
+direction, after their recoil will be tossed up into the air but
+without dashing off from the surface. Where the water issues from
+the pool the spent waves will be seen spreading out towards the
+outlet; and there falling or pouring through the air and gaining
+weight and impetus they will strike on the water below piercing it
+and rushing furiously to reach its depth; from which being thrown
+back it returns to the surface of the lake, carrying up the air that
+was submerged with it; and this remains at the outlet in foam
+mingled with logs of wood and other matters lighter than water.
+Round these again are formed the beginnings of waves which increase
+the more in circumference as they acquire more movement; and this
+movement rises less high in proportion as they acquire a broader
+base and thus they are less conspicuous as they die away. But if
+these waves rebound from various objects they then return in direct
+opposition to the others following them, observing the same law of
+increase in their curve as they have already acquired in the
+movement they started with. The rain, as it falls from the clouds is
+of the same colour as those clouds, that is in its shaded side;
+unless indeed the sun's rays should break through them; in that case
+the rain will appear less dark than the clouds. And if the heavy
+masses of ruin of large mountains or of other grand buildings fall
+into the vast pools of water, a great quantity will be flung into
+the air and its movement will be in a contrary direction to that of
+the object which struck the water; that is to say: The angle of
+reflection will be equal to the angle of incidence. Of the objects
+carried down by the current, those which are heaviest or rather
+largest in mass will keep farthest from the two opposite shores. The
+water in the eddies revolves more swiftly in proportion as it is
+nearer to their centre. The crests of the waves of the sea tumble to
+their bases falling with friction on the bubbles of their sides; and
+this friction grinds the falling water into minute particles and
+this being converted into a dense mist, mingles with the gale in the
+manner of curling smoke and wreathing clouds, and at last it, rises
+into the air and is converted into clouds. But the rain which falls
+through the atmosphere being driven and tossed by the winds becomes
+rarer or denser according to the rarity or density of the winds that
+buffet it, and thus there is generated in the atmosphere a moisture
+formed of the transparent particles of the rain which is near to the
+eye of the spectator. The waves of the sea which break on the slope
+of the mountains which bound it, will foam from the velocity with
+which they fall against these hills; in rushing back they will meet
+the next wave as it comes and and after a loud noise return in a
+great flood to the sea whence they came. Let great numbers of
+inhabitants--men and animals of all kinds--be seen driven [54] by
+the rising of the deluge to the peaks of the mountains in the midst
+of the waters aforesaid.
+
+The wave of the sea at Piombino is all foaming water. [Footnote 55.
+56: These two lines are written below the bottom sketch on Pl. XXXV,
+3. The MS. Leic. being written about the year 1510 or later, it does
+not seem to me to follow that the sketches must have been made at
+Piombino, where Leonardo was in the year 1502 and possibly returned
+there subsequently (see Vol. II. Topographical notes).]
+
+Of the water which leaps up from the spot where great masses fall on
+its surface. Of the winds of Piombino at Piombino. Eddies of wind
+and rain with boughs and shrubs mixed in the air. Emptying the boats
+of the rain water.
+
+[Footnote: The sketches on Pl. XXXV 3 stand by the side of lines 14
+to 54.]
+
+Of depicting natural phenomena (610. 611).
+
+610.
+
+The tremendous fury of the wind driven by the falling in of the
+hills on the caves within--by the falling of the hills which served
+as roofs to these caverns.
+
+A stone flung through the air leaves on the eye which sees it the
+impression of its motion, and the same effect is produced by the
+drops of water which fall from the clouds when it [16] rains.
+
+[17] A mountain falling on a town, will fling up dust in the form of
+clouds; but the colour of this dust will differ from that of the
+clouds. Where the rain is thickest let the colour of the dust be
+less conspicuous and where the dust is thickest let the rain be less
+conspicuous. And where the rain is mingled with the wind and with
+the dust the clouds created by the rain must be more transparent
+than those of dust [alone]. And when flames of fire are mingled with
+clouds of smoke and water very opaque and dark clouds will be formed
+[Footnote 26-28: Compare Pl. XL, 1--the drawing in Indian ink on the
+left hand side, which seems to be a reminiscence of his observations
+of an eruption (see his remarks on Mount Etna in Vol II).]. And the
+rest of this subject will be treated in detail in the book on
+painting.
+
+[Footnote: See the sketches and text on Pl. XXXVIII, No. 1. Lines
+1-16 are there given on the left hand side, 17-30 on the right. The
+four lines at the bottom on the right are given as No. 472. Above
+these texts, which are written backwards, there are in the original
+sixteen lines in a larger writing from left to right, but only half
+of this is here visible. They treat of the physical laws of motion
+of air and water. It does not seem to me that there is any reason
+for concluding that this writing from left to right is spurious.
+Compare with it the facsimile of the rough copy of Leonardo's letter
+to Ludovico il Moro in Vol. II.]
+
+611.
+
+People were to be seen eagerly embarking victuals on various kinds
+of hastily made barks. But little of the waves were visible in those
+places where the dark clouds and rain were reflected.
+
+But where the flashes caused by the bolts of heaven were reflected,
+there were seen as many bright spots, caused by the image of the
+flashes, as there were waves to reflect them to the eye of the
+spectator.
+
+The number of the images produced by the flash of lightning on the
+waves of the water were multiplied in proportion to the distance of
+the spectator's eye.
+
+So also the number of the images was diminished in proportion as
+they were nearer the eye which saw them [Footnote 22. 23: _Com'e
+provato_. See Vol. II, Nos. 874-878 and 892-901], as it has been
+proved in the definition of the luminosity of the moon, and of our
+marine horizon when the sun's rays are reflected in it and the eye
+which receives the reflection is remote from the sea.
+
+VI.
+
+THE ARTIST'S MATERIALS.
+
+Of chalk and paper (612--617).
+
+612.
+
+To make points [crayons] for colouring dry. Temper with a little wax
+and do not dry it; which wax you must dissolve with water: so that
+when the white lead is thus tempered, the water being distilled, may
+go off in vapour and the wax may remain; you will thus make good
+crayons; but you must know that the colours must be ground with a
+hot stone.
+
+613.
+
+Chalk dissolves in wine and in vinegar or in aqua fortis and can be
+recombined with gum.
+
+614.
+
+PAPER FOR DRAWING UPON IN BLACK BY THE AID OF YOUR SPITTLE.
+
+Take powdered gall nuts and vitriol, powder them and spread them on
+paper like a varnish, then write on it with a pen wetted with
+spittle and it will turn as black as ink.
+
+615.
+
+If you want to make foreshortened letters stretch the paper in a
+drawing frame and then draw your letters and cut them out, and make
+the sunbeams pass through the holes on to another stretched paper,
+and then fill up the angles that are wanting.
+
+616.
+
+This paper should be painted over with candle soot tempered with
+thin glue, then smear the leaf thinly with white lead in oil as is
+done to the letters in printing, and then print in the ordinary way.
+Thus the leaf will appear shaded in the hollows and lighted on the
+parts in relief; which however comes out here just the contrary.
+
+[Footnote: This text, which accompanies a facsimile impression of a
+leaf of sage, has already been published in the _Saggio delle Opere
+di L. da Vinci_, Milano 1872, p. 11. G. GOVI observes on this
+passage: "_Forse aveva egli pensato ancora a farsi un erbario, od
+almeno a riprodurre facilmente su carta le forme e i particolari
+delle foglie di diverse piante; poiche (modificando un metodo che
+probabilmente gli eia stato insegnato da altri, e che piu tardi si
+legge ripetuto in molti ricettarii e libri di segreti), accanto a
+una foglia di Salvia impressa in nero su carta bianca, lascio
+scritto: Questa carta ...
+
+Erano i primi tentativi di quella riproduzione immediata delle parti
+vegetali, che poi sotto il nome d'Impressione Naturale, fu condotta
+a tanta perfezione in questi ultimi tempi dal signor de Hauer e da
+altri_."]
+
+617.
+
+Very excellent will be a stiff white paper, made of the usual
+mixture and filtered milk of an herb called calves foot; and when
+this paper is prepared and damped and folded and wrapped up it may
+be mixed with the mixture and thus left to dry; but if you break it
+before it is moistened it becomes somewhat like the thin paste
+called _lasagne_ and you may then damp it and wrap it up and put it
+in the mixture and leave it to dry; or again this paper may be
+covered with stiff transparent white and _sardonio_ and then damped
+so that it may not form angles and then covered up with strong
+transparent size and as soon as it is firm cut it two fingers, and
+leave it to dry; again you may make stiff cardboard of _sardonio_
+and dry it and then place it between two sheets of papyrus and break
+it inside with a wooden mallet with a handle and then open it with
+care holding the lower sheet of paper flat and firm so that the
+broken pieces be not separated; then have a sheet of paper covered
+with hot glue and apply it on the top of all these pieces and let
+them stick fast; then turn it upside down and apply transparent size
+several times in the spaces between the pieces, each time pouring in
+first some black and then some stiff white and each time leaving it
+to dry; then smooth it and polish it.
+
+On the preparation and use of colours (618-627).
+
+618.
+
+To make a fine green take green and mix it with bitumen and you will
+make the shadows darker. Then, for lighter [shades] green with
+yellow ochre, and for still lighter green with yellow, and for the
+high lights pure yellow; then mix green and turmeric together and
+glaze every thing with it. To make a fine red take cinnabar or red
+chalk or burnt ochre for the dark shadows and for the lighter ones
+red chalk and vermilion and for the lights pure vermilion and then
+glaze with fine lake. To make good oil for painting. One part of
+oil, one of the first refining and one of the second.
+
+619.
+
+Use black in the shadow, and in the lights white, yellow, green,
+vermilion and lake. Medium shadows; take the shadow as above and mix
+it with the flesh tints just alluded to, adding to it a little
+yellow and a little green and occasionally some lake; for the
+shadows take green and lake for the middle shades.
+
+[Footnote 618 and 619: If we may judge from the flourishes with
+which the writing is ornamented these passages must have been
+written in Leonardo's youth.]
+
+620.
+
+You can make a fine ochre by the same method as you use to make
+white.
+
+621.
+
+A FINE YELLOW.
+
+Dissolve realgar with one part of orpiment, with aqua fortis.
+
+WHITE.
+
+Put the white into an earthen pot, and lay it no thicker than a
+string, and let it stand in the sun undisturbed for 2 days; and in
+the morning when the sun has dried off the night dews.
+
+622.
+
+To make reddish black for flesh tints take red rock crystals from
+Rocca Nova or garnets and mix them a little; again armenian bole is
+good in part.
+
+623.
+
+The shadow will be burnt ,terra-verte'.
+
+624.
+
+THE PROPORTIONS OF COLOURS.
+
+If one ounce of black mixed with one ounce of white gives a certain
+shade of darkness, what shade of darkness will be produced by 2
+ounces of black to 1 ounce of white?
+
+625.
+
+Remix black, greenish yellow and at the end blue.
+
+626.
+
+Verdigris with aloes, or gall or turmeric makes a fine green and so
+it does with saffron or burnt orpiment; but I doubt whether in a
+short time they will not turn black. Ultramarine blue and glass
+yellow mixed together make a beautiful green for fresco, that is
+wall-painting. Lac and verdigris make a good shadow for blue in oil
+painting.
+
+627.
+
+Grind verdigris many times coloured with lemon juice and keep it
+away from yellow (?).
+
+Of preparing the panel.
+
+628.
+
+TO PREPARE A PANEL FOR PAINTING ON.
+
+The panel should be cypress or pear or service-tree or walnut. You
+must coat it over with mastic and turpentine twice distilled and
+white or, if you like, lime, and put it in a frame so that it may
+expand and shrink according to its moisture and dryness. Then give
+it [a coat] of aqua vitae in which you have dissolved arsenic or
+[corrosive] sublimate, 2 or 3 times. Then apply boiled linseed oil
+in such a way as that it may penetrate every part, and before it is
+cold rub it well with a cloth to dry it. Over this apply liquid
+varnish and white with a stick, then wash it with urine when it is
+dry, and dry it again. Then pounce and outline your drawing finely
+and over it lay a priming of 30 parts of verdigris with one of
+verdigris with two of yellow.
+
+[Footnote: M. RAVAISSON'S reading varies from mine in the following
+passages:
+
+1._opero allor [?] bo [alloro?]_ = "_ou bien de [laurier]_."
+
+6. _fregalo bene con un panno_. He reads _pane_ for _panno_ and
+renders it. "_Frotte le bien avec un pain de facon [jusqu'a ce]
+qu'il_" etc.
+
+7. _colla stecca po laua_. He reads "_polacca_" = "_avec le couteau
+de bois [?] polonais [?]_."]
+
+The preparation of oils (629--634).
+
+629.
+
+OIL.
+
+Make some oil of mustard seed; and if you wish to make it with
+greater ease mix the ground seeds with linseed oil and put it all
+under the press.
+
+630.
+
+TO REMOVE THE SMELL OF OIL.
+
+Take the rank oil and put ten pints into a jar and make a mark on
+the jar at the height of the oil; then add to it a pint of vinegar
+and make it boil till the oil has sunk to the level of the mark and
+thus you will be certain that the oil is returned to its original
+quantity and the vinegar will have gone off in vapour, carrying with
+it the evil smell; and I believe you may do the same with nut oil or
+any other oil that smells badly.
+
+631.
+
+Since walnuts are enveloped in a thin rind, which partakes of the
+nature of ..., if you do not remove it when you make the oil from
+them, this skin tinges the oil, and when you work with it this skin
+separates from the oil and rises to the surface of the painting, and
+this is what makes it change.
+
+632.
+
+TO RESTORE OIL COLOURS THAT HAVE BECOME DRY.
+
+If you want to restore oil colours that have become dry keep them
+soaking in soft soap for a night and, with your finger, mix them up
+with the soft soap; then pour them into a cup and wash them with
+water, and in this way you can restore colours that have got dry.
+But take care that each colour has its own vessel to itself adding
+the colour by degrees as you restore it and mind that they are
+thoroughly softened, and when you wish to use them for tempera wash
+them five and six times with spring water, and leave them to settle;
+if the soft soap should be thick with any of the colours pass it
+through a filter. [Footnote: The same remark applies to these
+sections as to No. 618 and 619.]
+
+633.
+
+OIL.
+
+Mustard seed pounded with linseed oil.
+
+634.
+
+... outside the bowl 2 fingers lower than the level of the oil, and
+pass it into the neck of a bottle and let it stand and thus all the
+oil will separate from this milky liquid; it will enter the bottle
+and be as clear as crystal; and grind your colours with this, and
+every coarse or viscid part will remain in the liquid. You must know
+that all the oils that have been created in seads or fruits are
+quite clear by nature, and the yellow colour you see in them only
+comes of your not knowing how to draw it out. Fire or heat by its
+nature has the power to make them acquire colour. See for example
+the exudation or gums of trees which partake of the nature of rosin;
+in a short time they harden because there is more heat in them than
+in oil; and after some time they acquire a certain yellow hue
+tending to black. But oil, not having so much heat does not do so;
+although it hardens to some extent into sediment it becomes finer.
+The change in oil which occurs in painting proceeds from a certain
+fungus of the nature of a husk which exists in the skin which covers
+the nut, and this being crushed along with the nuts and being of a
+nature much resembling oil mixes with it; it is of so subtle a
+nature that it combines with all colours and then comes to the
+surface, and this it is which makes them change. And if you want the
+oil to be good and not to thicken, put into it a little camphor
+melted over a slow fire and mix it well with the oil and it will
+never harden.
+
+[Footnote: The same remark applies to these sections as to No. 618
+and 619.]
+
+On varnishes [or powders] (635-637).
+
+635.
+
+VARNISH [OR POWDER].
+
+Take cypress [oil] and distil it and have a large pitcher, and put
+in the extract with so much water as may make it appear like amber,
+and cover it tightly so that none may evaporate. And when it is
+dissolved you may add in your pitcher as much of the said solution,
+as shall make it liquid to your taste. And you must know that amber
+is the gum of the cypress-tree.
+
+VARNISH [OR POWDER].
+
+And since varnish [powder] is the resin of juniper, if you distil
+juniper you can dissolve the said varnish [powder] in the essence,
+as explained above.
+
+636.
+
+VARNISH [OR POWDER].
+
+Notch a juniper tree and give it water at the roots, mix the liquor
+which exudes with nut-oil and you will have a perfect varnish
+[powder], made like amber varnish [powder], fine and of the best
+quality make it in May or April.
+
+637.
+
+VARNISH [OR POWDER].
+
+Mercury with Jupiter and Venus,--a paste made of these must be
+corrected by the mould (?) continuously, until Mercury separates
+itself entirely from Jupiter and Venus. [Footnote: Here, and in No.
+641 _Mercurio_ seems to mean quicksilver, _Giove_ stands for iron,
+_Venere_ for copper and _Saturno_ for lead.]
+
+On chemical materials (638-650).
+
+638.
+
+Note how aqua vitae absorbs into itself all the colours and smells
+of flowers. If you want to make blue put iris flowers into it and
+for red solanum berries (?)
+
+639.
+
+Salt may be made from human excrement burnt and calcined and made
+into lees, and dried by a slow fire, and all dung in like manner
+yields salt, and these salts when distilled are very pungent.
+
+640.
+
+Sea water filtered through mud or clay, leaves all its saltness in
+it. Woollen stuffs placed on board ship absorb fresh water. If sea
+water is distilled under a retort it becomes of the first excellence
+and any one who has a little stove in his kitchen can, with the same
+wood as he cooks with, distil a great quantity of water if the
+retort is a large one.
+
+641.
+
+MOULD(?).
+
+The mould (?) may be of Venus, or of Jupiter and Saturn and placed
+frequently in the fire. And it should be worked with fine emery and
+the mould (?) should be of Venus and Jupiter impasted over (?)
+Venus. But first you will test Venus and Mercury mixed with Jove,
+and take means to cause Mercury to disperse; and then fold them well
+together so that Venus or Jupiter be connected as thinly as
+possible.
+
+[Footnote: See the note to 637.]
+
+642.
+
+Nitre, vitriol, cinnabar, alum, salt ammoniac, sublimated mercury,
+rock salt, alcali salt, common salt, rock alum, alum schist (?),
+arsenic, sublimate, realgar, tartar, orpiment, verdegris.
+
+643.
+
+Pitch four ounces virgin wax, four ounces incense, two ounces oil of
+roses one ounce.
+
+644.
+
+Four ounces virgin wax, four ounces Greek pitch, two ounces incense,
+one ounce oil of roses, first melt the wax and oil then the Greek
+pitch then the other things in powder.
+
+645.
+
+Very thin glass may be cut with scissors and when placed over inlaid
+work of bone, gilt, or stained of other colours you can saw it
+through together with the bone and then put it together and it will
+retain a lustre that will not be scratched nor worn away by rubbing
+with the hand.
+
+646.
+
+TO DILUTE WHITE WINE AND MAKE IT PURPLE.
+
+Powder gall nuts and let this stand 8 days in the white wine; and in
+the same way dissolve vitriol in water, and let the water stand and
+settle very clear, and the wine likewise, each by itself, and strain
+them well; and when you dilute the white wine with the water the
+wine will become red.
+
+647.
+
+Put marcasite into aqua fortis and if it turns green, know that it
+has copper in it. Take it out with saltpetre and soft soap.
+
+648.
+
+A white horse may have the spots removed with the Spanish haematite
+or with aqua fortis or with ... Removes the black hair on a white
+horse with the singeing iron. Force him to the ground.
+
+649.
+
+FIRE.
+
+If you want to make a fire which will set a hall in a blaze without
+injury do this: first perfume the hall with a dense smoke of incense
+or some other odoriferous substance: It is a good trick to play. Or
+boil ten pounds of brandy to evaporate, but see that the hall is
+completely closed and throw up some powdered varnish among the fumes
+and this powder will be supported by the smoke; then go into the
+room suddenly with a lighted torch and at once it will be in a
+blaze.
+
+650.
+
+FIRE.
+
+Take away that yellow surface which covers oranges and distill them
+in an alembic, until the distillation may be said to be perfect.
+
+FIRE.
+
+Close a room tightly and have a brasier of brass or iron with fire
+in it and sprinkle on it two pints of aqua vitae, a little at a
+time, so that it may be converted into smoke. Then make some one
+come in with a light and suddenly you will see the room in a blaze
+like a flash of lightning, and it will do no harm to any one.
+
+VII.
+
+PHILOSOPHY AND HISTORY OF THE ART OF PAINTING.
+
+The relation of art and nature (651. 652).
+
+651.
+
+What is fair in men, passes away, but not so in art.
+
+652.
+
+HE WHO DESPISES PAINTING LOVES NEITHER PHILOSOPHY NOR NATURE.
+
+If you condemn painting, which is the only imitator of all visible
+works of nature, you will certainly despise a subtle invention which
+brings philosophy and subtle speculation to the consideration of the
+nature of all forms--seas and plains, trees, animals, plants and
+flowers--which are surrounded by shade and light. And this is true
+knowledge and the legitimate issue of nature; for painting is born
+of nature--or, to speak more correctly, we will say it is the
+grandchild of nature; for all visible things are produced by nature,
+and these her children have given birth to painting. Hence we may
+justly call it the grandchild of nature and related to God.
+
+Painting is superior to poetry (653. 654).
+
+653.
+
+THAT PAINTING SURPASSES ALL HUMAN WORKS BY THE SUBTLE CONSIDERATIONS
+BELONGING TO IT.
+
+The eye, which is called the window of the soul, is the principal
+means by which the central sense can most completely and abundantly
+appreciate the infinite works of nature; and the ear is the second,
+which acquires dignity by hearing of the things the eye has seen. If
+you, historians, or poets, or mathematicians had not seen things
+with your eyes you could not report of them in writing. And if you,
+0 poet, tell a story with your pen, the painter with his brush can
+tell it more easily, with simpler completeness and less tedious to
+be understood. And if you call painting dumb poetry, the painter may
+call poetry blind painting. Now which is the worse defect? to be
+blind or dumb? Though the poet is as free as the painter in the
+invention of his fictions they are not so satisfactory to men as
+paintings; for, though poetry is able to describe forms, actions and
+places in words, the painter deals with the actual similitude of the
+forms, in order to represent them. Now tell me which is the nearer
+to the actual man: the name of man or the image of the man. The name
+of man differs in different countries, but his form is never changed
+but by death.
+
+654.
+
+And if the poet gratifies the sense by means of the ear, the painter
+does so by the eye--the worthier sense; but I will say no more of
+this but that, if a good painter represents the fury of a battle,
+and if a poet describes one, and they are both together put before
+the public, you will see where most of the spectators will stop, to
+which they will pay most attention, on which they will bestow most
+praise, and which will satisfy them best. Undoubtedly painting being
+by a long way the more intelligible and beautiful, will please most.
+Write up the name of God [Christ] in some spot and setup His image
+opposite and you will see which will be most reverenced. Painting
+comprehends in itself all the forms of nature, while you have
+nothing but words, which are not universal as form is, and if you
+have the effects of the representation, we have the representation
+of the effects. Take a poet who describes the beauty of a lady to
+her lover and a painter who represents her and you will see to which
+nature guides the enamoured critic. Certainly the proof should be
+allowed to rest on the verdict of experience. You have ranked
+painting among the mechanical arts but, in truth, if painters were
+as apt at praising their own works in writing as you are, it would
+not lie under the stigma of so base a name. If you call it
+mechanical because it is, in the first place, manual, and that it is
+the hand which produces what is to be found in the imagination, you
+too writers, who set down manually with the pen what is devised in
+your mind. And if you say it is mechanical because it is done for
+money, who falls into this error--if error it can be called--more
+than you? If you lecture in the schools do you not go to whoever
+pays you most? Do you do any work without pay? Still, I do not say
+this as blaming such views, for every form of labour looks for its
+reward. And if a poet should say: "I will invent a fiction with a
+great purpose," the painter can do the same, as Apelles painted
+Calumny. If you were to say that poetry is more eternal, I say the
+works of a coppersmith are more eternal still, for time preserves
+them longer than your works or ours; nevertheless they have not much
+imagination [29]. And a picture, if painted on copper with enamel
+colours may be yet more permanent. We, by our arts may be called the
+grandsons of God. If poetry deals with moral philosophy, painting
+deals with natural philosophy. Poetry describes the action of the
+mind, painting considers what the mind may effect by the motions [of
+the body]. If poetry can terrify people by hideous fictions,
+painting can do as much by depicting the same things in action.
+Supposing that a poet applies himself to represent beauty, ferocity,
+or a base, a foul or a monstrous thing, as against a painter, he may
+in his ways bring forth a variety of forms; but will the painter not
+satisfy more? are there not pictures to be seen, so like the actual
+things, that they deceive men and animals?
+
+Painting is superior to sculpture (655. 656).
+
+655.
+
+THAT SCULPTURE IS LESS INTELLECTUAL THAN PAINTING, AND LACKS MANY
+CHARACTERISTICS OF NATURE.
+
+I myself, having exercised myself no less in sculpture than in
+painting and doing both one and the other in the same degree, it
+seems to me that I can, without invidiousness, pronounce an opinion
+as to which of the two is of the greatest merit and difficulty and
+perfection. In the first place sculpture requires a certain light,
+that is from above, a picture carries everywhere with it its own
+light and shade. Thus sculpture owes its importance to light and
+shade, and the sculptor is aided in this by the nature, of the
+relief which is inherent in it, while the painter whose art
+expresses the accidental aspects of nature, places his effects in
+the spots where nature must necessarily produce them. The sculptor
+cannot diversify his work by the various natural colours of objects;
+painting is not defective in any particular. The sculptor when he
+uses perspective cannot make it in any way appear true; that of the
+painter can appear like a hundred miles beyond the picture itself.
+Their works have no aerial perspective whatever, they cannot
+represent transparent bodies, they cannot represent luminous bodies,
+nor reflected lights, nor lustrous bodies--as mirrors and the like
+polished surfaces, nor mists, nor dark skies, nor an infinite number
+of things which need not be told for fear of tedium. As regards the
+power of resisting time, though they have this resistance [Footnote
+19: From what is here said as to painting on copper it is very
+evident that Leonardo was not acquainted with the method of painting
+in oil on thin copper plates, introduced by the Flemish painters of
+the XVIIth century. J. LERMOLIEFF has already pointed out that in
+the various collections containing pictures by the great masters of
+the Italian Renaissance, those painted on copper (for instance the
+famous reading Magdalen in the Dresden Gallery) are the works of a
+much later date (see _Zeitschrift fur bildende Kunst_. Vol. X pg.
+333, and: _Werke italienischer Master in den Galerien von Munchen,
+Dresden und Berlin_. Leipzig 1880, pg. 158 and 159.)--Compare No.
+654, 29.], a picture painted on thick copper covered with white
+enamel on which it is painted with enamel colours and then put into
+the fire again and baked, far exceeds sculpture in permanence. It
+may be said that if a mistake is made it is not easy to remedy it;
+it is but a poor argument to try to prove that a work be the nobler
+because oversights are irremediable; I should rather say that it
+will be more difficult to improve the mind of the master who makes
+such mistakes than to repair the work he has spoilt.
+
+656.
+
+We know very well that a really experienced and good painter will
+not make such mistakes; on the contrary, with sound rules he will
+remove so little at a time that he will bring his work to a good
+issue. Again the sculptor if working in clay or wax, can add or
+reduce, and when his model is finished it can easily be cast in
+bronze, and this is the last operation and is the most permanent
+form of sculpture. Inasmuch as that which is merely of marble is
+liable to ruin, but not bronze. Hence a painting done on copper
+which as I said of painting may be added to or altered, resembles
+sculpture in bronze, which, having first been made in wax could then
+be altered or added to; and if sculpture in bronze is durable, this
+work in copper and enamel is absolutely imperishable. Bronze is but
+dark and rough after all, but this latter is covered with various
+and lovely colours in infinite variety, as has been said above; or
+if you will have me only speak of painting on panel, I am content to
+pronounce between it and sculpture; saying that painting is the more
+beautiful and the more imaginative and the more copious, while
+sculpture is the more durable but it has nothing else. Sculpture
+shows with little labour what in painting appears a miraculous thing
+to do; to make what is impalpable appear palpable, flat objects
+appear in relief, distant objects seem close. In fact painting is
+adorned with infinite possibilities which sculpture cannot command.
+
+Aphorisms (657-659).
+
+657.
+
+OF PAINTING.
+
+Men and words are ready made, and you, O Painter, if you do not know
+how to make your figures move, are like an orator who knows not how
+to use his words.
+
+658.
+
+As soon as the poet ceases to represent in words what exists in
+nature, he in fact ceases to resemble the painter; for if the poet,
+leaving such representation, proceeds to describe the flowery and
+flattering speech of the figure, which he wishes to make the
+speaker, he then is an orator and no longer a poet nor a painter.
+And if he speaks of the heavens he becomes an astrologer, and
+philosopher; and a theologian, if he discourses of nature or God.
+But, if he restricts himself to the description of objects, he would
+enter the lists against the painter, if with words he could satisfy
+the eye as the painter does.
+
+659.
+
+Though you may be able to tell or write the exact description of
+forms, the painter can so depict them that they will appear alive,
+with the shadow and light which show the expression of a face; which
+you cannot accomplish with the pen though it can be achieved by the
+brush.
+
+On the history of painting (660. 661).
+
+660.
+
+THAT PAINTING DECLINES AND DETERIORATES FROM AGE TO AGE, WHEN
+PAINTERS HAVE NO OTHER STANDARD THAN PAINTING ALREADY DONE.
+
+Hence the painter will produce pictures of small merit if he takes
+for his standard the pictures of others. But if he will study from
+natural objects he will bear good fruit; as was seen in the painters
+after the Romans who always imitated each other and so their art
+constantly declined from age to age. After these came Giotto the
+Florentine who--not content with imitating the works of Cimabue his
+master--being born in the mountains and in a solitude inhabited only
+by goats and such beasts, and being guided by nature to his art,
+began by drawing on the rocks the movements of the goats of which he
+was keeper. And thus he began to draw all the animals which were to
+be found in the country, and in such wise that after much study he
+excelled not only all the masters of his time but all those of many
+bygone ages. Afterwards this art declined again, because everyone
+imitated the pictures that were already done; thus it went on from
+century to century until Tomaso, of Florence, nicknamed Masaccio,
+showed by his perfect works how those who take for their standard
+any one but nature--the mistress of all masters--weary themselves in
+vain. And, I would say about these mathematical studies that those
+who only study the authorities and not the works of nature are
+descendants but not sons of nature the mistress of all good authors.
+Oh! how great is the folly of those who blame those who learn from
+nature [Footnote 22: _lasciando stare li autori_. In this
+observation we may detect an indirect evidence that Leonardo
+regarded his knowledge of natural history as derived from his own
+investigations, as well as his theories of perspective and optics.
+Compare what he says in praise of experience (Vol II; _XIX_).],
+setting aside those authorities who themselves were the disciples of
+nature.
+
+661.
+
+That the first drawing was a simple line drawn round the shadow of a
+man cast by the sun on a wall.
+
+The painter's scope.
+
+662.
+
+The painter strives and competes with nature.
+
+_X.
+
+Studies and Sketches for Pictures and Decorations.
+
+An artist's manuscript notes can hardly be expected to contain any
+thing more than incidental references to those masterpieces of his
+work of which the fame, sounded in the writings of his
+contemporaries, has left a glorious echo to posterity. We need not
+therefore be surprised to find that the texts here reproduced do not
+afford us such comprehensive information as we could wish. On the
+other hand, the sketches and studies prepared by Leonardo for the
+two grandest compositions he ever executed: The Fresco of the Last
+Supper in the Refectory of Santa Maria delle Grazie at Milan, and
+the Cartoon of the Battle of Anghiari, for the Palazzo della
+Signoria at Florence--have been preserved; and, though far from
+complete, are so much more numerous than the manuscript notes, that
+we are justified in asserting that in value and interest they amply
+compensate for the meagerness of the written suggestions.
+
+The notes for the composition of the Last Supper, which are given
+under nos._ 665 _and_ 666 _occur in a MS. at South Kensington, II2,
+written in the years_ 1494-1495. _This MS. sketch was noted down not
+more than three or four years before the painting was executed,
+which justifies the inference that at the time when it was written
+the painter had not made up his mind definitely even as to the
+general scheme of the work; and from this we may also conclude that
+the drawings of apostles' heads at Windsor, in red chalk, must be
+ascribed to a later date. They are studies for the head of St.
+Matthew, the fourth figure on Christ's left hand--see Pl. XL VII,
+the sketch (in black chalk) for the head of St. Philip, the third
+figure on the left hand--see Pl. XL VIII, for St. Peter's right
+arm--see Pl. XLIX, and for the expressive head of Judas which has
+unfortunately somewhat suffered by subsequent restoration of
+outlines,--see Pl. L. According to a tradition, as unfounded as it
+is improbable, Leonardo made use of the head of Padre Bandelli, the
+prior of the convent, as the prototype of his Judas; this however
+has already been contradicted by Amoretti "Memorie storiche" cap.
+XIV. The study of the head of a criminal on Pl. LI has, it seems to
+me, a better claim to be regarded as one of the preparatory sketches
+for the head of Judas. The Windsor collection contains two old
+copies of the head of St. Simon, the figure to the extreme left of
+Christ, both of about equal merit (they are marked as Nos._ 21 _and_
+36_)--the second was reproduced on Pl. VIII of the Grosvenor
+Gallery Publication in_ 1878. _There is also at Windsor a drawing in
+black chalk of folded hands (marked with the old No._ 212; _No. LXI
+of the Grosvenor Gallery Publication) which I believe to be a copy
+of the hands of St. John, by some unknown pupil. A reproduction of
+the excellent drawings of heads of Apostles in the possession of H.
+R. H. the Grand Duchess of Weimar would have been out of my province
+in this work, and, with regard to them, I must confine myself to
+pointing out that the difference in style does not allow of our
+placing the Weimar drawings in the same category as those here
+reproduced. The mode of grouping in the Weimar drawings is of itself
+sufficient to indicate that they were not executed before the
+picture was painted, but, on the contrary, afterwards, and it is, on
+the face of it, incredible that so great a master should thus have
+copied from his own work.
+
+The drawing of Christ's head, in the Brera palace at Milan was
+perhaps originally the work of Leonardo's hand; it has unfortunately
+been entirely retouched and re-drawn, so that no decisive opinion
+can be formed as to its genuineness.
+
+The red chalk drawing reproduced on Pl. XLVI is in the Accademia at
+Venice; it was probably made before the text, Nos._ 664 _and_ 665,
+_was written.
+
+The two pen and ink sketches on Pl. XLV seem to belong to an even
+earlier date; the more finished drawing of the two, on the right
+hand, represents Christ with only St. John and Judas and a third
+disciple whose action is precisely that described in No._ 666,
+_Pl._ 4. _It is hardly necessary to observe that the other sketches
+on this page and the lines of text below the circle (containing the
+solution of a geometrical problem) have no reference to the picture
+of the Last Supper. With this figure of Christ may be compared a
+similar pen and ink drawing reproduced on page_ 297 _below on the
+left hand; the original is in the Louvre. On this page again the
+rest of the sketches have no direct bearing on the composition of
+the Last Supper, not even, as it seems to me, the group of four men
+at the bottom to the right hand--who are listening to a fifth, in
+their midst addressing them. Moreover the writing on this page (an
+explanation of a disk shaped instrument) is certainly not in the
+same style as we find constantly used by Leonardo after the year_
+1489.
+
+_It may be incidentally remarked that no sketches are known for the
+portrait of "Mona Lisa", nor do the MS. notes ever allude to it,
+though according to Vasari the master had it in hand for fully four
+years.
+
+Leonardo's cartoon for the picture of the battle of Anghiari has
+shared the fate of the rival work, Michaelangelo's "Bathers summoned
+to Battle". Both have been lost in some wholly inexplicable manner.
+I cannot here enter into the remarkable history of this work; I can
+only give an account of what has been preserved to us of Leonardo's
+scheme and preparations for executing it. The extent of the material
+in studies and drawings was till now quite unknown. Their
+publication here may give some adequate idea of the grandeur of this
+famous work. The text given as No._ 669 _contains a description of
+the particulars of the battle, but for the reasons given in the note
+to this text, I must abandon the idea of taking this passage as the
+basis of my attempt to reconstruct the picture as the artist
+conceived and executed it.
+
+I may here remind the reader that Leonardo prepared the cartoon in
+the Sala del Papa of Santa Maria Novella at Florence and worked
+there from the end of October 1503 till February 1504, and then was
+busied with the painting in the Sala del Consiglio in the Palazzo
+della Signoria, till the work was interrupted at the end of May
+1506. (See Milanesi's note to Vasari pp. 43--45 Vol. IV ed. 1880.)
+Vasari, as is well known, describes only one scene or episode of the
+cartoon--the Battle for the Standard in the foreground of the
+composition, as it would seem; and this only was ever finished as a
+mural decoration in the Sala del Consiglio. This portion of the
+composition is familiar to all from the disfigured copy engraved by
+Edelinck. Mariette had already very acutely observed that Edelinck
+must surely have worked from a Flemish copy of the picture. There is
+in the Louvre a drawing by Rubens (No. 565) which also represents
+four horsemen fighting round a standard and which agrees with
+Edelinck's engraving, but the engraving reverses the drawing. An
+earlier Flemish drawing, such as may have served as the model for
+both Rubens and Edelinck, is in the Uffizi collection (see
+Philpots's Photograph, No. 732). It seems to be a work of the second
+half of the XVIth century, a time when both the picture and the
+cartoon had already been destroyed. It is apparently the production
+of a not very skilled hand. Raphael Trichet du Fresne, 1651,
+mentions that a small picture by Leonardo himself of the Battle of
+the Standard was then extant in the Tuileries; by this he probably
+means the painting on panel which is now in the possession of Madame
+Timbal in Paris, and which has lately been engraved by Haussoullier
+as a work by Leonardo. The picture, which is very carefully painted,
+seems to me however to be the work of some unknown Florentine
+painter, and probably executed within the first ten years of the
+XVIth century. At the same time, it would seem to be a copy not from
+Leonardo's cartoon, but from his picture in the Palazzo della
+Signoria; at any rate this little picture, and the small Flemish
+drawing in Florence are the oldest finished copies of this episode
+in the great composition of the Battle of Anghiari.
+
+In his Life of Raphael, Vasari tells us that Raphael copied certain
+works of Leonardo's during his stay in Florence. Raphael's first
+visit to Florence lasted from the middle of October 1504 till July
+1505, and he revisited it in the summer of 1506. The hasty sketch,
+now in the possession of the University of Oxford and reproduced on
+page 337 also represents the Battle of the Standard and seems to
+have been made during his first stay, and therefore not from the
+fresco but from the cartoon; for, on the same sheet we also find,
+besides an old man's head drawn in Leonardo's style, some studies
+for the figure of St. John the Martyr which Raphael used in 1505 in
+his great fresco in the Church of San Severo at Perugia.
+
+Of Leonardo's studies for the Battle of Anghiari I must in the first
+place point to five, on three of which--Pl. LII 2, Pl. LIII, Pl.
+LVI--we find studies for the episode of the Standard. The standard
+bearer, who, in the above named copies is seen stooping, holding on
+to the staff across his shoulder, is immediately recognisable as the
+left-hand figure in Raphael's sketch, and we find it in a similar
+attitude in Leonardo's pen and ink drawing in the British
+Museum--Pl. LII, 2--the lower figure to the right. It is not
+difficult to identify the same figure in two more complicated groups
+in the pen and ink drawings, now in the Accademia at Venice--Pl.
+LIII, and Pl. LIV--where we also find some studies of foot soldiers
+fighting. On the sheet in the British Museum--Pl. LII, 2--we find,
+among others, one group of three horses galloping forwards: one
+horseman is thrown and protects himself with his buckler against the
+lance thrusts of two others on horseback, who try to pierce him as
+they ride past. The same action is repeated, with some variation, in
+two sketches in pen and ink on a third sheet, in the Accademia at
+Venice, Pl. LV; a coincidence which suggests the probability of such
+an incident having actually been represented on the cartoon. We are
+not, it is true, in a position to declare with any certainty which
+of these three dissimilar sketches may have been the nearest to the
+group finally adopted in executing the cartoon.
+
+With regard, however, to one of the groups of horsemen it is
+possible to determine with perfect certainty not only which
+arrangement was preferred, but the position it occupied in the
+composition. The group of horsemen on Pl. LVII is a drawing in black
+chalk at Windsor, which is there attributed to Leonardo, but which
+appears to me to be the work of Cesare da Sesto, and the
+Commendatore Giov. Morelli supports me in this view. It can hardly
+be doubted that da Sesto, as a pupil of Leonardo's, made this
+drawing from his master's cartoon, if we compare it with the copy
+made by Raphael--here reproduced, for just above the fighting
+horseman in Raphael's copy it is possible to detect a horse which is
+seen from behind, going at a slower pace, with his tail flying out
+to the right and the same horse may be seen in the very same
+attitude carrying a dimly sketched rider, in the foreground of
+Cesare da Sesto's drawing._
+
+_If a very much rubbed drawing in black chalk at Windsor--Pl.
+LVI--is, as it appears to be, the reversed impression of an original
+drawing, it is not difficult to supplement from it the portions
+drawn by Cesare da Sesto. Nay, it may prove possible to reconstruct
+the whole of the lost cartoon from the mass of materials we now have
+at hand which we may regard as the nucleus of the composition. A
+large pen and ink drawing by Raphael in the Dresden collection,
+representing three horsemen fighting, and another, by Cesare da
+Sesto, in the Uffizi, of light horsemen fighting are a further
+contribution which will help us to reconstruct it._
+
+_The sketch reproduced on Pl. LV gives a suggestive example of the
+way in which foot-soldiers may have been introduced into the cartoon
+as fighting among the groups of horsemen; and I may here take the
+opportunity of mentioning that, for reasons which it would be out of
+place to enlarge upon here, I believe the two genuine drawings by
+Raphael's hand in his "Venetian sketch-book" as it is called--one of
+a standard bearer marching towards the left, and one of two
+foot-soldiers armed with spears and fighting with a horseman--to be
+undoubtedly copies from the cartoon of the Battle of Anghiari._
+
+_Leonardo's two drawings, preserved in the museum at Buda-Pesth and
+reproduced on pages 338 and 339 are preliminary studies for the
+heads of fighting warriors. The two heads drawn in black chalk (pg.
+338) and the one seen in profile, turned to the left, drawn in red
+chalk (pg. 339), correspond exactly with those of two horsemen in
+the scene of the fight round the standard as we see them in Madame
+Timbal's picture and in the other finished copies. An old copy of
+the last named drawing by a pupil of Leonardo is in MS. C. A. 187b;
+561b (See Saggio, Tav. XXII). Leonardo used to make such finished
+studies of heads as those, drawn on detached sheets, before
+beginning his pictures from his drawings--compare the preparatory
+studies for the fresco of the Last Supper, given on Pl. XLVII and
+Pl. L. Other drawings of heads, all characterised by the expression
+of vehement excitement that is appropriate to men fighting, are to
+be seen at Windsor (No. 44) and at the Accademia at Venice (IV, 13);
+at the back of one of the drawings at Buda-Pesth there is the bust
+of a warrior carrying a spear on his left shoulder, holding up the
+left arm (See Csatakepek a XVI--lk Szazadbol osszeallitotta Pvlszky
+Karoly). These drawings may have been made for other portions of the
+cartoon, of which no copies exist, and thus we are unable to
+identify these preparatory drawings. Finally I may add that a sketch
+of fighting horse and foot soldiers, formerly in the possession of
+M. Thiers and published by Charles Blanc in his "Vies des Peintres"
+can hardly be accepted as genuine. It is not to be found, as I am
+informed, among the late President's property, and no one appears to
+know where it now is._
+
+_An attempted reconstruction of the Cartoon, which is not only
+unsuccessful but perfectly unfounded, is to be seen in the
+lithograph by Bergeret, published in Charles Blanc's "Vies des
+peintres" and reprinted in "The great Artists. L. da Vinci", p. 80.
+This misleading pasticcio may now be rejected without hesitation._
+
+_There are yet a few original drawings by Leonardo which might be
+mentioned here as possibly belonging to the cartoon of the Battle;
+such as the pen and ink sketches on Pl. XXI and on Pl. XXXVIII, No.
+3, but we should risk too wide a departure from the domain of
+ascertained fact._
+
+_With regard to the colours and other materials used by Leonardo the
+reader may be referred to the quotations from the accounts for the
+picture in question given by Milanesi in his edition of Vasari (Vol.
+IV, p. 44, note) where we find entries of a similar character to
+those in Leonardo's note books for the year 1505; S. K. M. 12 (see
+No. 636)._
+
+_That Leonardo was employed in designing decorations and other
+preparations for high festivals, particularly for the court of
+Milan, we learn not only from the writings of his contemporaries but
+from his own incidental allusions; for instance in MS. C. l5b (1),
+l. 9. In the arrangement of the texts referring to this I have
+placed those first, in which historical personages are named--Nos.
+670-674. Among the descriptions of Allegorical subjects two texts
+lately found at Oxford have been included, Nos. 676 and 677. They
+are particularly interesting because they are accompanied by large
+sketches which render the meaning of the texts perfectly clear. It
+is very intelligible that in other cases, where there are no
+illustrative sketches, the notes must necessarily remain obscure or
+admit of various interpretations. The literature of the time affords
+ample evidence of the use of such allegorical representations,
+particularly during the Carnival and in Leonardo's notes we find the
+Carnival expressly mentioned--Nos. 685 and 704. Vasari in his Life
+of Pontormo, particularly describes that artist's various
+undertakings for Carnival festivities. These very graphic
+descriptions appear to me to throw great light in more ways than one
+on the meaning of Leonardo's various notes as to allegorical
+representations and also on mottoes and emblems--Nos. 681-702. In
+passing judgment on the allegorical sketches and emblems it must not
+be overlooked that even as pictures they were always accompanied by
+explanations in words. Several finished drawings of allegorical
+compositions or figures have been preserved, but as they have no
+corresponding explanation in the MSS. they had no claim to be
+reproduced here. The female figure on Pl. XXVI may perhaps be
+regarded as a study for such an allegorical painting, of which the
+purport would have been explained by an inscription._
+
+On Madonna pictures.
+
+663.
+
+[In the autumn of] 1478 I began the two Madonna [pictures].
+
+[Footnote: Photographs of this page have been published by BRAUN,
+No. 439, and PHILPOT, No. 718.
+
+1. _Incominciai_. We have no other information as to the two
+pictures of the Madonna here spoken of. As Leonardo here tells us
+that he had begun two Madonnas at the same time, the word
+'_incominciai_' may be understood to mean that he had begun at the
+same time preparatory studies for two pictures to be painted later.
+If this is so, the non-existence of the pictures may be explained by
+supposing that they were only planned and never executed. I may here
+mention a few studies for pictures of the Madonna which probably
+belong to this early time; particularly a drawing in silver-point on
+bluish tinted paper at Windsor--see Pl. XL, No. 3--, a drawing of
+which the details have almost disappeared in the original but have
+been rendered quite distinct in the reproduction; secondly a slight
+pen and ink sketch in, the Codex VALLARDI, in the Louvre, fol. 64,
+No. 2316; again a silver point drawing of a Virgin and child drawn
+over again with the pen in the His de la Salle collection also in
+the Louvre, No. 101. (See Vicomte BOTH DE TAUZIA, _Notice des
+dessins de la collection His de la Salle, exposes au Louvre_. Paris
+1881, pp. 80, 81.) This drawing is, it is true, traditionally
+ascribed to Raphael, but the author of the catalogue very justly
+points out its great resemblance with the sketches for Madonnas in
+the British Museum which are indisputably Leonardo's. Some of these
+have been published by Mr. HENRY WALLIS in the Art Journal, New Ser.
+No. 14, Feb. 1882. If the non-existence of the two pictures here
+alluded to justifies my hypothesis that only studies for such
+pictures are meant by the text, it may also be supposed that the
+drawings were made for some comrade in VERROCCHIO'S atelier. (See
+VASARI, Sansoni's ed. Florence 1880. Vol. IV, p. 564): "_E perche a
+Lerenzo piaceva fuor di modo la maniera di Lionardo, la seppe cosi
+bene imitare, che niuno fu che nella pulitezza e nel finir l'opere
+con diligenza l'imitasse più di lui_." Leonardo's notes give me no
+opportunity of discussing the pictures executed by him in Florence,
+before he moved to Milan. So the studies for the unfinished picture
+of the Adoration of the Magi--in the Uffizi, Florence--cannot be
+described here, nor would any discussion about the picture in the
+Louvre "_La Vierge aux Rochers_" be appropriate in the absence of
+all allusion to it in the MSS. Therefore, when I presently add a few
+remarks on this painting in explanation of the Master's drawings for
+it, it will be not merely with a view to facilitate critical
+researches about the picture now in the National Gallery, London,
+which by some critics has been pronounced to be a replica of the
+Louvre picture, but also because I take this opportunity of
+publishing several finished studies of the Master's which, even if
+they were not made in Florence but later in Milan, must have been
+prior to the painting of the Last Supper. The original picture in
+Paris is at present so disfigured by dust and varnish that the
+current reproductions in photography actually give evidence more of
+the injuries to which the picture has been exposed than of the
+original work itself. The wood-cut given on p. 344, is only intended
+to give a general notion of the composition. It must be understood
+that the outline and expression of the heads, which in the picture
+is obscured but not destroyed, is here altogether missed. The
+facsimiles which follow are from drawings which appear to me to be
+studies for "_La Vierge aux Rochers_."
+
+1. A drawing in silver point on brown toned paper of a woman's head
+looking to the left. In the Royal Library at Turin, apparently a
+study from nature for the Angel's head (Pl. XLII).
+
+2. A study of drapery for the left leg of the same figure, done with
+the brush, Indian ink on greenish paper, the lights heightened with
+white.
+
+The original is at Windsor, No. 223. The reproduction Pl. XLIII is
+defective in the shadow on the upper part of the thigh, which is not
+so deep as in the original; it should also be observed that the
+folds of the drapery near the hips are somewhat altered in the
+finished work in the Louvre, while the London copy shows a greater
+resemblance to this study in that particular.
+
+3. A study in red chalk for the bust of the Infant Christ--No. 3 in
+the Windsor collection (Pl. XLIV). The well-known silver-point
+drawing on pale green paper, in the Louvre, of a boy's head (No. 363
+in REISET, _Notice des dessins, Ecoles d'Italie_) seems to me to be
+a slightly altered copy, either from the original picture or from
+this red chalk study.
+
+4. A silver-point study on greenish paper, for the head of John the
+Baptist, reproduced on p. 342. This was formerly in the Codex
+Vallardi and is now exhibited among the drawings in the Louvre. The
+lights are, in the original, heightened with white; the outlines,
+particularly round the head and ear, are visibly restored.
+
+There is a study of an outstretched hand--No. 288 in the Windsor
+collection--which was published in the Grosvenor Gallery
+Publication, 1878, simply under the title of: "No. 72 Study of a
+hand, pointing" which, on the other hand, I regard as a copy by a
+pupil. The action occurs in the kneeling angel of the Paris picture
+and not in the London copy.
+
+These four genuine studies form, I believe, a valuable substitute in
+the absence of any MS. notes referring to the celebrated Paris
+picture.]
+
+Bernardo di Bandino's Portrait.
+
+664.
+
+A tan-coloured small cap, A doublet of black serge, A black jerkin
+lined A blue coat lined, with fur of foxes' breasts, and the collar
+of the jerkin covered with black and white stippled velvet Bernardo
+di Bandino Baroncelli; black hose.
+
+[Footnote: These eleven lines of text are by the side of the pen and
+ink drawing of a man hanged--Pl. LXII, No. 1. This drawing was
+exhibited in 1879 at the _Ecole des Beaux-Arts_ in Paris and the
+compilers of the catalogue amused themselves by giving the victim's
+name as follows: "_Un pendu, vetu d'une longue robe, les mains liées
+sur le dos ... Bernardo di Bendino Barontigni, marchand de
+pantalons_" (see _Catalogue descriptif des Dessins de Mailres
+anciens exposes a l'Ecole des Beaux Arts_, Paris 1879; No. 83, pp.
+9-10). Now, the criminal represented here, is none other than
+Bernardino di Bandino Baroncelli the murderer of Giuliano de'Medici,
+whose name as a coadjutor in the conspiracy of the Pazzi has gained
+a melancholy notoriety by the tragedy of the 26th April 1478.
+Bernardo was descended from an ancient family and the son of the man
+who, under King Ferrante, was President of the High Court of Justice
+in Naples. His ruined fortunes, it would seem, induced him to join
+the Pazzi; he and Francesco Pazzi were entrusted with the task of
+murdering Giuliano de'Medici on the fixed day. Their victim not
+appearing in the cathedral at the hour when they expected him, the
+two conspirators ran to the palace of the Medici and induced him to
+accompany them. Giuliano then took his place in the chancel of the
+Cathedral, and as the officiating priest raised the Host--the sign
+agreed upon--Bernardo stabbed the unsuspecting Giuliano in the
+breast with a short sword; Giuliano stepped backwards and fell dead.
+The attempt on Lorenzo's life however, by the other conspirators at
+the same moment, failed of success. Bernardo no sooner saw that
+Lorenzo tried to make his escape towards the sacristy, than he
+rushed upon him, and struck down Francesco Nori who endeavoured to
+protect Lorenzo. How Lorenzo then took refuge behind the brazen
+doors of the sacristy, and how, as soon as Giuliano's death was made
+known, the further plans of the conspirators were defeated, while a
+terrible vengeance overtook all the perpetrators and accomplices,
+this is no place to tell. Bernardo Bandini alone seemed to be
+favoured by fortune; he hid first in the tower of the Cathedral, and
+then escaped undiscovered from Florence. Poliziano, who was with
+Lorenzo in the Cathedral, says in his 'Conjurationis Pactianae
+Commentarium': "_Bandinus fugitans in Tiphernatem incidit, a quo in
+aciem receptus Senas pervenit_." And Gino Capponi in summing up the
+reports of the numerous contemporary narrators of the event, says:
+"_Bernardo Bandini ricoverato in Costantinopoli, fu per ordine del
+Sultano preso e consegnato a un Antonio di Bernardino dei Medici,
+che Lorenzo aveva mandato apposta in Turchia: così era grande la
+potenza di quest' uomo e grande la voglia di farne mostra e che non
+restasse in vita chi aveagli ucciso il fratello, fu egli applicato
+appena giunto_" (_Storia della Republica di Firenze II_, 377, 378).
+Details about the dates may be found in the _Chronichetta di
+Belfredello Strinati Alfieri_: "_Bernardo di Bandino Bandini
+sopradetto ne venne preso da Gostantinopoti a dì 14. Dicembre 1479 e
+disaminato, che fu al Bargello, fu impiccato alle finestre di detto
+Bargello allato alla Doana a dì 29. Dicembre MCCCCLXXIX che pochi dì
+stette_." It may however be mentioned with reference to the mode of
+writing the name of the assassin that, though most of his
+contemporaries wrote Bernardo Bandini, in the _Breve Chronicon
+Caroli Petri de Joanninis_ he is called Bernardo di Bandini
+Baroncelli; and, in the _Sententiae Domini Matthaei de Toscana_,
+Bernardus Joannis Bandini de Baroncellis, as is written on
+Leonardo's drawing of him when hanged. Now VASARI, in the life of
+_Andrea del Castagno_ (Vol. II, 680; ed. Milanesi 1878), tells us
+that in 1478 this painter was commissioned by order of the Signoria
+to represent the members of the Pazzi conspiracy as traitors, on the
+facade of the Palazzo del Podestà--the Bargello. This statement is
+obviously founded on a mistake, for Andrea del Castagno was already
+dead in 1457. He had however been commissioned to paint Rinaldo
+degli Albizzi, when declared a rebel and exiled in 1434, and his
+adherents, as hanging head downwards; and in consequence he had
+acquired the nickname of Andrea degl' Impiccati. On the 21st July
+1478 the Council of Eight came to the following resolution: "_item
+servatis etc. deliberaverunt et santiaverunt Sandro Botticelli pro
+ejus labore in pingendo proditores flor. quadraginta largos_" (see
+G. MILANESI, _Arch. star. VI_ (1862) p. 5 note.)
+
+As has been told, Giuliano de' Medici was murdered on the 26th April
+1478, and we see by this that only three months later Botticelli was
+paid for his painting of the "_proditores_". We can however hardly
+suppose that all the members of the conspiracy were depicted by him
+in fresco on the facade of the palace, since no fewer than eighty
+had been condemned to death. We have no means of knowing whether,
+besides Botticelli, any other painters, perhaps Leonardo, was
+commissioned, when the criminals had been hanged in person out of
+the windows of the Palazzo del Podestà to represent them there
+afterwards in effigy in memory of their disgrace. Nor do we know
+whether the assassin who had escaped may at first not have been
+provisionally represented as hanged in effigy. Now, when we try to
+connect the historical facts with this drawing by Leonardo
+reproduced on Pl. LXII, No. I, and the full description of the
+conspirator's dress and its colour on the same sheet, there seems to
+be no reasonable doubt that Bernardo Bandini is here represented as
+he was actually hanged on December 29th, 1479, after his capture at
+Constantinople. The dress is certainly not that in which he
+committed the murder. A long furred coat might very well be worn at
+Constantinople or at Florence in December, but hardly in April. The
+doubt remains whether Leonardo described Bernardo's dress so fully
+because it struck him as remarkable, or whether we may not rather
+suppose that this sketch was actually made from nature with the
+intention of using it as a study for a wall painting to be executed.
+It cannot be denied that the drawing has all the appearance of
+having been made for this purpose. Be this as it may, the sketch
+under discussion proves, at any rate, that Leonardo was in Florence
+in December 1479, and the note that accompanies it is valuable as
+adding one more characteristic specimen to the very small number of
+his MSS. that can be proved to have been written between 1470 and
+1480.]
+
+Notes on the Last Supper (665-668).
+
+665.
+
+One who was drinking and has left the glass in its position and
+turned his head towards the speaker.
+
+Another, twisting the fingers of his hands together turns with stern
+brows to his companion [6]. Another with his hands spread open shows
+the palms, and shrugs his shoulders up his ears making a mouth of
+astonishment [8].
+
+[9] Another speaks into his neighbour's ear and he, as he listens to
+him, turns towards him to lend an ear [10], while he holds a knife
+in one hand, and in the other the loaf half cut through by the
+knife. [13] Another who has turned, holding a knife in his hand,
+upsets with his hand a glass on the table [14].
+
+[Footnote 665, 666: In the original MS. there is no sketch to
+accompany these passages, and if we compare them with those drawings
+made by Leonardo in preparation for the composition of the
+picture--Pl. XLV, XLVI--, (compare also Pl. LII, 1 and the drawings
+on p. 297) it is impossible to recognise in them a faithful
+interpretation of the whole of this text; but, if we compare these
+passages with the finished picture (see p. 334) we shall see that in
+many places they coincide. For instance, compare No. 665, 1. 6--8,
+with the fourth figure on the right hand of Christ. The various
+actions described in lines 9--10, 13--14 are to be seen in the group
+of Peter, John and Judas; in the finished picture however it is not
+a glass but a salt cellar that Judas is upsetting.]
+
+666.
+
+Another lays his hand on the table and is looking. Another blows his
+mouthful. [3] Another leans forward to see the speaker shading his
+eyes with his hand. [5] Another draws back behind the one who leans
+forward, and sees the speaker between the wall and the man who is
+leaning [Footnote: 6. _chinato_. I have to express my regret for
+having misread this word, written _cinato_ in the original, and
+having altered it to _"ciclo"_ when I first published this text, in
+'The Academy' for Nov. 8, 1879 immediately after I had discovered
+it, and subsequently in the small biography of Leonardo da Vinci
+(Great Artists) p. 29.].
+
+[Footnote: In No. 666. Line I must refer to the furthest figure on
+the left; 3, 5 and 6 describe actions which are given to the group
+of disciples on the left hand of Christ.]
+
+667.
+
+CHRIST.
+
+Count Giovanni, the one with the Cardinal of Mortaro.
+
+[Footnote: As this note is in the same small Manuscript as the
+passage here immediately preceding it, I may be justified in
+assuming that Leonardo meant to use the features of the person here
+named as a suitable model for the figure of Christ. The celebrated
+drawing of the head of Christ, now hanging in the Brera Gallery at
+Milan, has obviously been so much restored that it is now impossible
+to say, whether it was ever genuine. We have only to compare it with
+the undoubtedly genuine drawings of heads of the disciples in PI.
+XLVII, XLVIII and L, to admit that not a single line of the Milan
+drawing in its present state can be by the same hand.]
+
+668.
+
+Philip, Simon, Matthew, Thomas, James the Greater, Peter, Philip,
+Andrew, Bartholomew.
+
+[Footnote: See PI. XLVI. The names of the disciples are given in the
+order in which they are written in the original, from right to left,
+above each head. The original drawing is here slightly reduced in
+scale; it measures 39 centimetres in length by 26 in breadth.]
+
+669.
+
+  On the battle of Anghiari.
+  Florentine
+  Neri di Gino Capponi
+  Bernardetto de' Medici
+  Micheletto,
+  Niccolo da Pisa
+  Conte Francesco
+                         Pietro Gian Paolo
+                         Guelfo Orsino,
+                         Messer  Rinaldo   degli
+                                      Albizzi
+
+Begin with the address of Niccolo Piccinino to the soldiers and the
+banished Florentines among whom are Messer Rinaldo degli Albizzi and
+other Florentines. Then let it be shown how he first mounted on
+horseback in armour; and the whole army came after him--40 squadrons
+of cavalry, and 2000 foot soldiers went with him. Very early in the
+morning the Patriarch went up a hill to reconnoitre the country,
+that is the hills, fields and the valley watered by a river; and
+from thence he beheld Niccolo Picinino coming from Borgo San
+Sepolcro with his people, and with a great dust; and perceiving them
+he returned to the camp of his own people and addressed them. Having
+spoken he prayed to God with clasped hands, when there appeared a
+cloud in which Saint Peter appeared and spoke to the Patriarch.--500
+cavalry were sent forward by the Patriarch to hinder or check the
+rush of the enemy. In the foremost troop Francesco the son of
+Niccolo Piccinino [24] was the first to attack the bridge which was
+held by the Patriarch and the Florentines. Beyond the bridge to his
+left he sent forward some infantry to engage ours, who drove them
+back, among whom was their captain Micheletto [29] whose lot it was
+to be that day at the head of the army. Here, at this bridge there
+is a severe struggle; our men conquer and the enemy is repulsed.
+Here Guido and Astorre, his brother, the Lord of Faenza with a great
+number of men, re-formed and renewed the fight, and rushed upon the
+Florentines with such force that they recovered the bridge and
+pushed forward as far as the tents. But Simonetto advanced with 600
+horse, and fell upon the enemy and drove them back once more from
+the place, and recaptured the bridge; and behind him came more men
+with 2000 horse soldiers. And thus for a long time they fought with
+varying fortune. But then the Patriarch, in order to divert the
+enemy, sent forward Niccolo da Pisa [44] and Napoleone Orsino, a
+beardless lad, followed by a great multitude of men, and then was
+done another great feat of arms. At the same time Niccolo Piccinino
+urged forward the remnant of his men, who once more made ours give
+way; and if it had not been that the Patriarch set himself at their
+head and, by his words and deeds controlled the captains, our
+soldiers would have taken to flight. The Patriarch had some
+artillery placed on the hill and with these he dispersed the enemy's
+infantry; and the disorder was so complete that Niccolo began to
+call back his son and all his men, and they took to flight towards
+Borgo. And then began a great slaughter of men; none escaped but the
+foremost of those who had fled or who hid themselves. The battle
+continued until sunset, when the Patriarch gave his mind to
+recalling his men and burying the dead, and afterwards a trophy was
+erected.
+
+[Footnote: 669. This passage does not seem to me to be in Leonardo's
+hand, though it has hitherto been generally accepted as genuine. Not
+only is the writing unlike his, but the spelling also is quite
+different. I would suggest that this passage is a description of the
+events of the battle drawn up for the Painter by order of the
+Signoria, perhaps by some historian commissioned by them, to serve
+as a scheme or programme of the work. The whole tenor of the style
+seems to me to argue in favour of this theory; and besides, it would
+be in no way surprising that such a document should have been
+preserved among Leonardo's autographs.]
+
+Allegorical representations referring to the duke of Milan
+(670-673).
+
+670.
+
+Ermine with blood Galeazzo, between calm weather and a
+representation of a tempest.
+
+[Footnote: 670. Only the beginning of this text is legible; the
+writing is much effaced and the sense is consequently obscure. It
+seems to refer like the following passage to an allegorical
+picture.]
+
+671.
+
+Il Moro with spectacles, and Envy depicted with False Report and
+Justice black for il Moro.
+
+Labour as having a branch of vine [_or_ a screw] in her hand.
+
+672.
+
+Il Moro as representing Good Fortune, with hair, and robes, and his
+hands in front, and Messer Gualtieri taking him by the robes with a
+respectful air from below, having come in from the front [5].
+
+Again, Poverty in a hideous form running behind a youth. Il Moro
+covers him with the skirt of his robe, and with his gilt sceptre he
+threatens the monster.
+
+A plant with its roots in the air to represent one who is at his
+last;--a robe and Favour.
+
+Of tricks [_or_ of magpies] and of burlesque poems [_or_ of
+starlings].
+
+Those who trust themselves to live near him, and who will be a large
+crowd, these shall all die cruel deaths; and fathers and mothers
+together with their families will be devoured and killed by cruel
+creatures.
+
+[Footnote: 1--10 have already been published by _Amoretti_ in
+_Memorie Storiche_ cap. XII. He adds this note with regard to
+Gualtieri: "_A questo M. Gualtieri come ad uomo generoso e benefico
+scrive il Bellincioni un Sonetto (pag, 174) per chiedergli un
+piacere; e 'l Tantio rendendo ragione a Lodovico il Moro, perche
+pubblicasse le Rime del Bellincioni; ciò hammi imposto, gli dice:
+l'humano fidele, prudente e sollicito executore delli tuoi
+comandamenti Gualtero, che fa in tutte le cose ove tu possi far
+utile, ogni studio vi metti._" A somewhat mysterious and evidently
+allegorical composition--a pen and ink drawing--at Windsor, see PL
+LVIII, contains a group of figures in which perhaps the idea is
+worked out which is spoken of in the text, lines 1-5.]
+
+673.
+
+He was blacker than a hornet, his eyes were as red as a burning fire
+and he rode on a tall horse six spans across and more than 20 long
+with six giants tied up to his saddle-bow and one in his hand which
+he gnawed with his teeth. And behind him came boars with tusks
+sticking out of their mouths, perhaps ten spans.
+
+Allegorical representations (674--678).
+
+674.
+
+Above the helmet place a half globe, which is to signify our
+hemisphere, in the form of a world; on which let there be a peacock,
+richly decorated, and with his tail spread over the group; and every
+ornament belonging to the horse should be of peacock's feathers on a
+gold ground, to signify the beauty which comes of the grace bestowed
+on him who is a good servant.
+
+On the shield a large mirror to signify that he who truly desires
+favour must be mirrored in his virtues.
+
+On the opposite side will be represented Fortitude, in like manner
+in her place with her pillar in her hand, robed in white, to signify
+... And all crowned; and Prudence with 3 eyes. The housing of the
+horse should be of plain cloth of gold closely sprinkled with
+peacock's eyes, and this holds good for all the housings of the
+horse, and the man's dress. And the man's crest and his neck-chain
+are of peacock's feathers on golden ground.
+
+On the left side will be a wheel, the centre of which should be
+attached to the centre of the horse's hinder thigh piece, and in the
+centre Prudence is seen robed in red, Charity sitting in a fiery
+chariot and with a branch of laurel in her hand, to signify the hope
+which comes of good service.
+
+[21] Messer Antonio Grimani of Venice companion of Antonio Maria
+[23].
+
+[Footnote: _Messer Antonio Gri_. His name thus abbreviated is, there
+can be no doubt, Grimani. Antonio Grimani was the famous Doge who in
+1499 commanded the Venetian fleet in battle against the Turks. But
+after the abortive conclusion of the expedition--Ludovico being the
+ally of the Turks who took possession of Friuli--, Grimani was driven
+into exile; he went to live at Rome with his son Cardinal Domenico
+Grimani. On being recalled to Venice he filled the office of Doge
+from 1521 to 1523. _Antonio Maria_ probably means Antonio Maria
+Grimani, the Patriarch of Aquileia.]
+
+675.
+
+Fame should be depicted as covered all over with tongues instead of
+feathers, and in the figure of a bird.
+
+676.
+
+Pleasure and Pain represent as twins, since there never is one
+without the other; and as if they were united back to back, since
+they are contrary to each other.
+
+[6] Clay, gold.
+
+[Footnote: 7. _oro. fango_: gold, clay. These words stand below the
+allegorical figure.]
+
+If you take Pleasure know that he has behind him one who will deal
+you Tribulation and Repentance.
+
+[9] This represents Pleasure together with Pain, and show them as
+twins because one is never apart from the other. They are back to
+back because they are opposed to each other; and they exist as
+contraries in the same body, because they have the same basis,
+inasmuch as the origin of pleasure is labour and pain, and the
+various forms of evil pleasure are the origin of pain. Therefore it
+is here represented with a reed in his right hand which is useless
+and without strength, and the wounds it inflicts are poisoned. In
+Tuscany they are put to support beds, to signify that it is here
+that vain dreams come, and here a great part of life is consumed. It
+is here that much precious time is wasted, that is, in the morning,
+when the mind is composed and rested, and the body is made fit to
+begin new labours; there again many vain pleasures are enjoyed; both
+by the mind in imagining impossible things, and by the body in
+taking those pleasures that are often the cause of the failing of
+life. And for these reasons the reed is held as their support.
+
+[Footnote: 676. The pen and ink drawing on PI. LIX belongs to this
+passage.]
+
+[Footnote: 8. _tribolatione_. In the drawing caltrops may be seen
+lying in the old man's right hand, others are falling and others
+again are shewn on the ground. Similar caltrops are drawn in MS.
+Tri. p. 98 and underneath them, as well as on page 96 the words
+_triboli di ferro_ are written. From the accompanying text it
+appears that they were intended to be scattered on the ground at the
+bottom of ditches to hinder the advance of the enemy. Count Giulio
+Porro who published a short account of the Trivulzio MS. in the
+"_Archivio Storico Lombardo_", Anno VIII part IV (Dec. 31, 1881) has
+this note on the passages treating of "_triboli_": "_E qui
+aggiungerò che anni sono quando venne fabbricata la nuova
+cavallerizza presso il castello di Milano, ne furono trovati due che
+io ho veduto ed erano precisamente quali si trovano descritti e
+disegnati da Leonardo in questo codice_".
+
+There can therefore be no doubt that this means of defence was in
+general use, whether it were originally Leonardo's invention or not.
+The play on the word "_tribolatione_", as it occurs in the drawing
+at Oxford, must then have been quite intelligible.]
+
+[Footnote: 9--22. These lines, in the original, are written on the
+left side of the page and refer to the figure shown on PI. LXI. Next
+to it is placed the group of three figures given in PI. LX No. I.
+Lines 21 and 22, which are written under it, are the only
+explanation given.]
+
+Evil-thinking is either Envy or Ingratitude.
+
+677.
+
+Envy must be represented with a contemptuous motion of the hand
+towards heaven, because if she could she would use her strength
+against God; make her with her face covered by a mask of fair
+seeming; show her as wounded in the eye by a palm branch and by an
+olive-branch, and wounded in the ear by laurel and myrtle, to
+signify that victory and truth are odious to her. Many thunderbolts
+should proceed from her to signify her evil speaking. Let her be
+lean and haggard because she is in perpetual torment. Make her heart
+gnawed by a swelling serpent, and make her with a quiver with
+tongues serving as arrows, because she often offends with it. Give
+her a leopard's skin, because this creature kills the lion out of
+envy and by deceit. Give her too a vase in her hand full of flowers
+and scorpions and toads and other venomous creatures; make her ride
+upon death, because Envy, never dying, never tires of ruling. Make
+her bridle, and load her with divers kinds of arms because all her
+weapons are deadly.
+
+Toleration.
+
+Intolerable.
+
+No sooner is Virtue born than Envy comes into the world to attack
+it; and sooner will there be a body without a shadow than Virtue
+without Envy.
+
+[Footnote: The larger of the two drawings on PI. LXI is explained by
+the first 21 lines of this passage. L. 22 and 23, which are written
+above the space between the two drawings, do not seem to have any
+reference to either. L. 24-27 are below the allegorical twin figure
+which they serve to explain.]
+
+678.
+
+When Pluto's Paradise is opened, then there may be devils placed in
+twelve pots like openings into hell. Here will be Death, the Furies,
+ashes, many naked children weeping; living fires made of various
+colours....
+
+679.
+
+  John the Baptist
+  Saint Augustin
+  Saint Peter
+  Paul
+  Elisabeth
+  Saint Clara.
+  Bernardino
+  Our Lady  Louis
+  Bonaventura
+  Anthony of Padua.
+  Saint Francis.
+  Francis,
+  Anthony, a lily and book;
+  Bernardino with the [monogram of] Jesus,
+  Louis with 3 fleur de lys on his breast and
+              the crown at his feet,
+  Bonaventura with Seraphim,
+  Saint Clara with the tabernacle,
+  Elisabeth with a Queen's crown.
+
+[Footnote: 679. The text of the first six lines is written within a
+square space of the same size as the copy here given. The names are
+written in the margin following the order in which they are here
+printed. In lines 7--12 the names of those saints are repeated of
+whom it seemed necessary to point out the emblems.]
+
+List of drawings.
+
+680.
+
+  A head, full face, of a young man
+  with fine flowing hair,
+  Many flowers drawn from nature,
+  A head, full face, with curly hair,
+  Certain figures of Saint Jerome,
+  [6] The measurements of a figure,
+  Drawings of furnaces.
+  A head of the Duke,
+  [9] many designs for knots,
+  4 studies for the panel of Saint Angelo
+  A small composition of Girolamo da Fegline,
+  A head of Christ done with the pen,
+  [13] 8 Saint Sebastians,
+  Several compositions of Angels,
+  A chalcedony,
+  A head in profile with fine hair,
+  Some pitchers seen in(?) perspective,
+  Some machines for ships,
+  Some machines for waterworks,
+  A head, a portrait of Atalanta raising her
+  face;
+  The head of Geronimo da Fegline,
+  The head of Gian Francisco Borso,
+  Several throats of old women,
+  Several heads of old men,
+  Several nude figures, complete,
+  Several arms, eyes, feet, and positions,
+  A Madonna, finished,
+  Another, nearly in profile,
+  Head of Our Lady ascending into Heaven,
+  A head of an old man with long chin,
+  A head of a gypsy girl,
+  A head with a hat on,
+  A representation of the Passion, a cast,
+  A head of a girl with her hair gathered in a knot,
+  A head, with the brown hair dressed.
+
+[Footnote: 680. This has already been published by AMORETTI _Memorie
+storiche_ cap. XVI. His reading varies somewhat from that here
+given, _e. g._ l. 5 and 6. _Certi Sangirolami in su d'una figura_;
+and instead of I. 13. _Un San Bastiano_.]
+
+[Footnote: 680. 9. _Molti disegni di gruppi_. VASARI in his life of
+Leonardo (IV, 21, ed. MILANESI 1880) says: "_Oltreché perse tempo
+fino a disegnare_ gruppi _di corde fatti con ordine, e che da un
+capo seguissi tutto il resto fino all' altro, tanto che s'empiessi
+un tondo; che se ne vede in istampa uno difficilissimo e molto
+bello, e nel mezzo vi sono queste parole: Leonardus Vinci
+Accademia_". _Gruppi_ must here be understood as a technical
+expression for those twisted ornaments which are well known through
+wood cuts. AMORETTI mentions six different ones in the Ambrosian

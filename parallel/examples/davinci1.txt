@@ -1,0 +1,3276 @@
+by the line _d v_; _q_ is the deepest shadow for no light falls on
+it from any part of the window.
+
+In proportion as _c d_ goes into _a d_ so will _n r s_ be darker
+than _m_, and all the rest is space without shadow.
+
+[Footnote: The diagram belonging to this chapter is No. 1 on Plate
+III. The letters _a b e d_ and _r_ are not reproduced in facsimile
+of the original, but have been replaced by ordinary type in the
+margin. 5-12. The original text of these lines is reproduced within
+the diagram.--Compare No 275.]
+
+149.
+
+The light which falls on a shaded body at the acutest angle receives
+the highest light, and the darkest portion is that which receives it
+at an obtuse angle and both the light and the shadow form pyramids.
+The angle _c_ receives the highest grade of light because it is
+directly in front of the window _a b_ and the whole horizon of the
+sky _m x_. The angle _a_ differs but little from _c_ because the
+angles which divide it are not so unequal as those below, and only
+that portion of the horizon is intercepted which lies between _y_
+and _x_. Although it gains as much on the other side its line is
+nevertheless not very strong because one angle is smaller than its
+fellow. The angles _e i_ will have less light because they do not
+see much of the light _m s_ and the light _v x_ and their angles are
+very unequal. Yhe angle _k_ and the angle _f_ are each placed
+between very unequal angles and therefore have but little light,
+because at _k_ it has only the light _p t_, and at _f_ only _t q_;
+_o g_ is the lowest grade of light because this part has no light at
+all from the sky; and thence come the lines which will reconstruct a
+pyramid that is the counterpart of the pyramid _c_; and this pyramid
+_l_ is in the first grade of shadow; for this too is placed between
+equal angles directly opposite to each other on either side of a
+straight line which passes through the centre of the body and goes
+to the centre of the light. The several luminous images cast within
+the frame of the window at the points _a_ and _b_ make a light which
+surrounds the derived shadow cast by the solid body at the points 4
+and 6. The shaded images increase from _o g_ and end at 7 and 8.
+
+[Footnote: The diagram belonging to this chapter is No. 2 on Plate
+III. In the original it is placed between lines 3 and 4, and in the
+reproduction these are shown in part. The semi circle above is
+marked _orizonte_ (horizon). The number 6 at the left hand side,
+outside the facsimile, is in the place of a figure which has become
+indistinct in the original.]
+
+On the intensity of shadows as dependent on the distance from the
+light (150-152).
+
+150.
+
+The smaller the light that falls upon an object the more shadow it
+will display. And the light will illuminate a smaller portion of the
+object in proportion as it is nearer to it; and conversely, a larger
+extent of it in proportion as it is farther off.
+
+A light which is smaller than the object on which it falls will
+light up a smaller extent of it in proportion as it is nearer to it,
+and the converse, as it is farther from it. But when the light is
+larger than the object illuminated it will light a larger extent of
+the object in proportion as it is nearer and the converse when they
+are farther apart.
+
+151.
+
+That portion of an illuminated object which is nearest to the source
+of light will be the most strongly illuminated.
+
+152.
+
+That portion of the primary shadow will be least dark which is
+farthest from the edges.
+
+The derived shadow will be darker than the primary shadow where it
+is contiguous with it.
+
+On the proportion of light and shade (153-157).
+
+153.
+
+That portion of an opaque body will be more in shade or more in
+light, which is nearer to the dark body, by which it is shaded, or
+to the light that illuminates it.
+
+Objects seen in light and shade show in greater relief than those
+which are wholly in light or in shadow.
+
+154.
+
+OF PERSPECTIVE.
+
+The shaded and illuminated sides of opaque objects will display the
+same proportion of light and darkness as their objects [Footnote 6:
+The meaning of _obbietti_ (objects) is explained in no 153, lines
+1-4.--Between the title-line and the next there is, in the
+original, a small diagram representing a circle described round a
+square.].
+
+155.
+
+OF PAINTING.
+
+The outlines and form of any part of a body in light and shade are
+indistinct in the shadows and in the high lights; but in the
+portions between the light and the shadows they are highly
+conspicuous.
+
+156.
+
+OF PAINTING.
+
+Among objects in various degrees of shade, when the light proceeds
+from a single source, there will be the same proportion in their
+shadows as in the natural diminution of the light and the same must
+be understood of the degrees of light.
+
+157.
+
+A single and distinct luminous body causes stronger relief in the
+object than a diffused light; as may be seen by comparing one side
+of a landscape illuminated by the sun, and one overshadowed by
+clouds, and so illuminated only by the diffused light of the
+atmosphere.
+
+THIRD BOOK ON LIGHT AND SHADE.
+
+Definition of derived shadow (158. 159).
+
+158.
+
+Derived shadow cannot exist without primary shadow. This is proved
+by the first of this which says: Darkness is the total absence of
+light, and shadow is an alleviation of darkness and of light, and it
+is more or less dark or light in proportion as the darkness is
+modified by the light.
+
+159.
+
+Shadow is diminution of light.
+
+Darkness is absence of light.
+
+Shadow is divided into two kinds, of which the first is called
+primary shadow, the second is derived shadow. The primary shadow is
+always the basis of the derived shadow.
+
+The edges of the derived shadow are straight lines.
+
+[Footnote: The theory of the _ombra_ dirivativa_--a technical
+expression for which there is no precise English equivalent is
+elaborately treated by Leonardo. But both text and diagrams (as Pl.
+IV, 1-3 and Pl. V) must at once convince the student that the
+distinction he makes between _ombra primitiva_ and _ombra
+dirivativa_ is not merely justifiable but scientific. _Ombra
+dirivativa_ is by no means a mere abstract idea. This is easily
+proved by repeating the experiment made by Leonardo, and by filling
+with smoke the room in which the existence of the _ombra dirivativa_
+is investigated, when the shadow becomes visible. Nor is it
+difficult to perceive how much of Leonardo's teaching depended on
+this theory. The recognised, but extremely complicated science of
+cast shadows--_percussione dell' ombre dirivative_ as Leonardo
+calls them--is thus rendered more intelligible if not actually
+simpler, and we must assume this theory as our chief guide through
+the investigations which follow.]
+
+The darkness of the derived shadow diminishes in proportion as it is
+remote from the primary shadow.
+
+Different sorts of derived shadows (160-162).
+
+160.
+
+SHADOW AND LIGHT.
+
+The forms of shadows are three: inasmuch as if the solid body which
+casts the shadow is equal (in size) to the light, the shadow
+resembles a column without any termination (in length). If the body
+is larger than the light the shadow resembles a truncated and
+inverted pyramid, and its length has also no defined termination.
+But if the body is smaller than the light, the shadow will resemble
+a pyramid and come to an end, as is seen in eclipses of the moon.
+
+161.
+
+OF SIMPLE DERIVED SHADOWS.
+
+The simple derived shadow is of two kinds: one kind which has its
+length defined, and two kinds which are undefined; and the defined
+shadow is pyramidal. Of the two undefined, one is a column and the
+other spreads out; and all three have rectilinear outlines. But the
+converging, that is the pyramidal, shadow proceeds from a body that
+is smaller than the light, and the columnar from a body equal in
+size to the light, and the spreading shadow from a body larger than
+the light; &c.
+
+OF COMPOUND DERIVED SHADOWS.
+
+Compound derived shadows are of two kinds; that is columnar and
+spreading.
+
+162.
+
+OF SHADOW.
+
+Derived shadows are of three kinds of which one is spreading, the
+second columnar, the third converging to the point where the two
+sides meet and intersect, and beyond this intersection the sides are
+infinitely prolonged or straight lines. And if you say, this shadow
+must terminate at the angle where the sides meet and extend no
+farther, I deny this, because above in the first on shadow I have
+proved: that a thing is completely terminated when no portion of it
+goes beyond its terminating lines. Now here, in this shadow, we see
+the converse of this, in as much as where this derived shadow
+originates we obviously have the figures of two pyramids of shadow
+which meet at their angles. Hence, if, as [my] opponent says, the
+first pyramid of shadow terminates the derivative shadow at the
+angle whence it starts, then the second pyramid of shadow--so says
+the adversary--must be caused by the angle and not from the body in
+shadow; and this is disproved with the help of the 2nd of this which
+says: Shadow is a condition produced by a body casting a shadow, and
+interposed between this shadow and the luminous body. By this it is
+made clear that the shadow is not produced by the angle of the
+derived shadow but only by the body casting the shadow; &c. If a
+spherical solid body is illuminated by a light of elongated form the
+shadow produced by the longest portion of this light will have less
+defined outlines than that which is produced by the breadth of the
+same light. And this is proved by what was said before, which is:
+That a shadow will have less defined outlines in proportion as the
+light which causes it is larger, and conversely, the outlines are
+clearer in proportion as it is smaller.
+
+[Footnote: The two diagrams to this chapter are on Plate IV, No. 1.]
+
+On the relation of derived and primary shadow (163-165).
+
+163.
+
+The derived shadow can never resemble the body from which it
+proceeds unless the light is of the same form and size as the body
+causing the shadow.
+
+The derived shadow cannot be of the same form as the primary shadow
+unless it is intercepted by a plane parallel to it.
+
+164.
+
+HOW A CAST SHADOW CAN NEVER BE OF THE SAME SIZE AS THE BODY THAT
+CASTS IT.
+
+If the rays of light proceed, as experience shows, from a single
+point and are diffused in a sphere round this point, radiating and
+dispersed through the air, the farther they spread the wider they
+must spread; and an object placed between the light and a wall is
+always imaged larger in its shadow, because the rays that strike it
+[Footnote: 7. The following lines are wanting to complete the
+logical connection.] would, by the time they have reached the wall,
+have become larger.
+
+165.
+
+Any shadow cast by a body in light and shade is of the same nature
+and character as that which is inseparable from the body. The centre
+of the length of a shadow always corresponds to that of the luminous
+body [Footnote 6: This second statement of the same idea as in the
+former sentence, but in different words, does not, in the original,
+come next to the foregoing; sections 172 and 127 are placed between
+them.]. It is inevitable that every shadow must have its centre in a
+line with the centre of the light.
+
+On the shape of derived shadows (166-174).
+
+166.
+
+OF THE PYRAMIDAL SHADOW.
+
+The pyramidal shadow produced by a columnar body will be narrower
+than the body itself in proportion as the simple derived shadow is
+intersected farther from the body which casts it.
+
+[Footnote 166: Compare the first diagram to No. 161. If we here
+conceive of the outlines of the pyramid of shadow on the ground as
+prolonged beyond its apex this gives rise to a second pyramid; this
+is what is spoken of at the beginning of No. 166.]
+
+167.
+
+The cast shadow will be longest when the light is lowest.
+
+The cast shadow will be shortest when the light is highest.
+
+168.
+
+Both the primary and derived shadow will be larger when caused by
+the light of a candle than by diffused light. The difference between
+the larger and smaller shadows will be in inverse proportion to the
+larger and smaller lights causing them.
+
+[Footnote: In the diagrams _A_ stands for _celo_ (sky), _B_ for
+_cadela_ (candle).]
+
+169.
+
+ALL BODIES, IN PROPORTION AS THEY ARE NEARER TO, OR FARTHER FROM THE
+SOURCE OF LIGHT, WILL PRODUCE LONGER OR SHORTER DERIVED SHADOWS.
+
+Among bodies of equal size, that one which is illuminated by the
+largest light will have the shortest shadow. Experiment confirms
+this proposition. Thus the body _m_ _n_ is surrounded by a larger
+amount of light than the body _p q_, as is shown above. Let us say
+that _v c a b d x_ is the sky, the source of light, and that _s t_
+is a window by which the luminous rays enter, and so _m n_ and _p q_
+are bodies in light and shade as exposed to this light; _m n_ will
+have a small derived shadow, because its original shadow will be
+small; and the derivative light will be large, again, because the
+original light _c d_ will be large and _p q_ will have more derived
+shadow because its original shadow will be larger, and its derived
+light will be smaller than that of the body _m n_ because that
+portion of the hemisphere _a b_ which illuminates it is smaller than
+the hemisphere _c d_ which illuminates the body _m n_.
+
+[Footnote: The diagram, given on Pl. IV, No. 2, stands in the
+original between lines 2 and 7, while the text of lines 3 to 6 is
+written on its left side. In the reproduction of this diagram the
+letter _v_ at the outer right-hand end has been omitted.]
+
+170.
+
+The shadow _m_ bears the same proportion to the shadow _n_ as the
+line _b c_ to the line _f c_.
+
+171.
+
+OF PAINTING.
+
+Of different shadows of equal strength that which is nearest the eye
+will seem the least strong.
+
+Why is the shadow _e a b_ in the first grade of strength, _b c_ in
+the second; _c d_ in the third? The reason is that as from _e a b_
+the sky is nowhere visible, it gets no light whatever from the sky,
+and so has no direct [primary] light. _b c_ faces the portion of the
+sky _f g_ and is illuminated by it. _c d_ faces the sky at _h k_. _c
+d_, being exposed to a larger extent of sky than _b c_, it is
+reasonable that it should be more lighted. And thus, up to a certain
+distance, the wall _a d_ will grow lighter for the reasons here
+given, until the darkness of the room overpowers the light from the
+window.
+
+172.
+
+When the light of the atmosphere is restricted [by an opening] and
+illuminates bodies which cast shadows, these bodies being equally
+distant from the centre of the window, that which is most obliquely
+placed will cast the largest shadow beyond it.
+
+173.
+
+These bodies standing apart in a room lighted by a single window
+will have derivative shadows more or less short according as they
+are more or less opposite to the window. Among the shadows cast by
+bodies of equal mass but at unequal distances from the opening by
+which they are illuminated, that shadow will be the longest of the
+body which is least in the light. And in proportion as one body is
+better illuminated than another its shadow will be shorter than
+another. The proportion _n m_ and _e v k_ bear to _r t_ and _v x_
+corresponds with that of the shadow _x_ to 4 and _y_.
+
+The reason why those bodies which are placed most in front of the
+middle of the window throw shorter shadows than those obliquely
+situated is:--That the window appears in its proper form and to the
+obliquely placed ones it appears foreshortened; to those in the
+middle, the window shows its full size, to the oblique ones it
+appears smaller; the one in the middle faces the whole hemisphere
+that is _e f_ and those on the side have only a strip; that is _q r_
+faces _a b_; and _m n_ faces _c d_; the body in the middle having a
+larger quantity of light than those at the sides is lighted from a
+point much below its centre, and thus the shadow is shorter. And the
+pyramid _g_ 4 goes into _l y_ exactly as often as _a b_ goes into _e
+f_. The axis of every derivative shadow passes through 6 1/2
+[Footnote 31: _passa per_ 6 1/2 (passes through 6 1/2). The meaning
+of these words is probably this: Each of the three axes of the
+derived shadow intersects the centre (_mezzo_) of the primary shadow
+(_ombra originale_) and, by prolongation upwards crosses six lines.
+
+This is self evident only in the middle diagram; but it is equally
+true of the side figures if we conceive of the lines 4 _f_, _x n v
+m_, _y l k v_, and 4 _e_, as prolonged beyond the semicircle of the
+horizon.] and is in a straight line with the centre of the primary
+shadow, with the centre of the body casting it and of the derivative
+light and with the centre of the window and, finally, with the
+centre of that portion of the source of light which is the celestial
+hemisphere, _y h_ is the centre of the derived shade, _l h_ of the
+primary shadow, _l_ of the body throwing it, _l k_ of the derived
+light, _v_ is the centre of the window, _e_ is the final centre of
+the original light afforded by that portion of the hemisphere of the
+sky which illuminates the solid body.
+
+[Footnote: Compare the diagram on Pl. IV, No. 3. In the original
+this drawing is placed between lines 3 and 22; the rest, from line 4
+to line 21, is written on the left hand margin.]
+
+174.
+
+THE FARTHER THE DERIVED SHADOW IS PROLONGED THE LIGHTER IT BECOMES.
+
+You will find that the proportion of the diameter of the derived
+shadow to that of the primary shadow will be the same as that
+between the darkness of the primary shadow and that of the derived
+shadow.
+
+[Footnote 6: Compare No. 177.] Let _a b_ be the diameter of the
+primary shadow and _c d_ that of the derived shadow, I say that _a
+b_ going, as you see, three times into _d c_, the shadow _d c_ will
+be three times as light as the shadow _a b_. [Footnote 8: Compare
+No. 177.]
+
+If the size of the illuminating body is larger than that of the
+illuminated body an intersection of shadow will occur, beyond which
+the shadows will run off in two opposite directions as if they were
+caused by two separate lights.
+
+On the relative intensity of derived shadows (175-179).
+
+175.
+
+ON PAINTING.
+
+The derived shadow is stronger in proportion as it is nearer to its
+place of origin.
+
+176.
+
+HOW SHADOWS FADE AWAY AT LONG DISTANCES.
+
+Shadows fade and are lost at long distances because the larger
+quantity of illuminated air which lies between the eye and the
+object seen tints the shadow with its own colour.
+
+177.
+
+_a b_ will be darker than _c d_ in proportion as _c d_ is broader
+than _a b_.
+
+[Footnote: In the original MS. the word _lume_ (light) is written at
+the apex of the pyramid.]
+
+178.
+
+It can be proved why the shadow _o p c h_ is darker in proportion as
+it is nearer to the line _p h_ and is lighter in proportion as it is
+nearer to the line _o c_. Let the light _a b_, be a window, and let
+the dark wall in which this window is, be _b s_, that is, one of the
+sides of the wall.
+
+Then we may say that the line _p h_ is darker than any other part of
+the space _o p c h_, because this line faces the whole surface in
+shadow of [Footnote: In the original the diagram is placed between
+lines 27 and 28.] the wall _b s_. The line _o c_ is lighter than the
+other part of this space _o p c h_, because this line faces the
+luminous space _a b_.
+
+Where the shadow is larger, or smaller, or equal the body which
+casts it.
+
+[First of the character of divided lights. [Footnote 14: _lumi
+divisi_. The text here breaks off abruptly.]
+
+OF THE COMPOUND SHADOW _F, R, C, H_ CAUSED BY A SINGLE LIGHT.
+
+The shadow _f r c h_ is under such conditions as that where it is
+farthest from its inner side it loses depth in proportion. To prove
+this:
+
+Let _d a_, be the light and _f n_ the solid body, and let _a e_ be
+one of the side walls of the window that is _d a_. Then I
+say--according to the 2nd [proposition]: that the surface of any
+body is affected by the tone of the objects surrounding it,--that
+the side _r c_, which faces the dark wall _a e_ must participate of
+its darkness and, in the same way that the outer surface which faces
+the light _d a_ participates of the light; thus we get the outlines
+of the extremes on each side of the centre included between them.]
+
+This is divided into four parts. The first the extremes, which
+include the compound shadow, secondly the compound shadow between
+these extremes.
+
+179.
+
+THE ACTION OF THE LIGHT AS FROM ITS CENTRE.
+
+If it were the whole of the light that caused the shadows beyond the
+bodies placed in front of it, it would follow that any body much
+smaller than the light would cast a pyramidal shadow; but experience
+not showing this, it must be the centre of the light that produces
+this effect.
+
+[Footnote: The diagram belonging to this passage is between lines 4
+and 5 in the original. Comp. the reproduction Pl. IV, No. 4. The
+text and drawing of this chapter have already been published with
+tolerable accuracy. See M. JORDAN: "_Das Malerbuch des Leonardo da
+Vinci_". Leipzig 1873, P. 90.]
+
+PROOF.
+
+Let _a b_ be the width of the light from a window, which falls on a
+stick set up at one foot from _a c_ [Footnote 6: _bastone_ (stick).
+The diagram has a sphere in place of a stick.]. And let _a d_ be the
+space where all the light from the window is visible. At _c e_ that
+part of the window which is between _l b_ cannot be seen. In the
+same way _a m_ cannot be seen from _d f_ and therefore in these two
+portions the light begins to fail.
+
+Shadow as produced by two lights of different size (180. 181).
+
+180.
+
+A body in light and shade placed between two equal lights side by
+side will cast shadows in proportion to the [amount of] light. And
+the shadows will be one darker than the other in proportion as one
+light is nearer to the said body than the other on the opposite
+side.
+
+A body placed at an equal distance between two lights will cast two
+shadows, one deeper than the other in proportion, as the light which
+causes it is brighter than the other.
+
+[Footnote: In the MS. the larger diagram is placed above the first
+line; the smaller one between l. 4 & 5.]
+
+181.
+
+A light which is smaller than the body it illuminates produces
+shadows of which the outlines end within [the surface of] the body,
+and not much compound shadow; and falls on less than half of it. A
+light which is larger than the body it illuminates, falls on more
+than half of it, and produces much compound shadow.
+
+The effect of light at different distances.
+
+182.
+
+OF THE SHADOW CAST BY A BODY PLACED BETWEEN 2 EQUAL LIGHTS.
+
+A body placed between 2 equal lights will cast 2 shadows of itself
+in the direction of the lines of the 2 lights; and if you move this
+body placing it nearer to one of the lights the shadow cast towards
+the nearer light will be less deep than that which falls towards the
+more distant one.
+
+Further complications in the derived shadows (183-187).
+
+183.
+
+The greatest depth of shadow is in the simple derived shadow because
+it is not lighted by either of the two lights _a b, c d_.
+
+The next less deep shadow is the derived shadow _e f n_; and in this
+the shadow is less by half, because it is illuminated by a single
+light, that is _c d_.
+
+This is uniform in natural tone because it is lighted throughout by
+one only of the two luminous bodies [10]. But it varies with the
+conditions of shadow, inasmuch as the farther it is away from the
+light the less it is illuminated by it [13].
+
+The third degree of depth is the middle shadow [Footnote 15: We
+gather from what follows that _q g r_ here means _ombra media_ (the
+middle shadow).]. But this is not uniform in natural tone; because
+the nearer it gets to the simple derived shadow the deeper it is
+[Footnote 18: Compare lines 10-13], and it is the uniformly gradual
+diminution by increase of distance which is what modifies it
+[Footnote 20: See Footnote 18]: that is to say the depth of a shadow
+increases in proportion to the distance from the two lights.
+
+The fourth is the shadow _k r s_ and this is all the darker in
+natural tone in proportion as it is nearer to _k s_, because it gets
+less of the light _a o_, but by the accident [of distance] it is
+rendered less deep, because it is nearer to the light _c d_, and
+thus is always exposed to both lights.
+
+The fifth is less deep in shadow than either of the others because
+it is always entirely exposed to one of the lights and to the whole
+or part of the other; and it is less deep in proportion as it is
+nearer to the two lights, and in proportion as it is turned towards
+the outer side _x t_; because it is more exposed to the second light
+_a b_.
+
+[Footnote: The diagram to this section is given on Pl. V. To the
+left is the facsimile of the beginning of the text belonging to it.]
+
+184.
+
+OF SIMPLE SHADOWS.
+
+Why, at the intersections _a_, _b_ of the two compound shadows _e f_
+and _m e_, is a simple shadow pfoduced as at _e h_ and _m g_, while
+no such simple shadow is produced at the other two intersections _c
+d_ made by the very same compound shadows?
+
+ANSWER.
+
+Compound shadow are a mixture of light and shade and simple shadows
+are simply darkness. Hence, of the two lights _n_ and _o_, one falls
+on the compound shadow from one side, and the other on the compound
+shadow from the other side, but where they intersect no light falls,
+as at _a b_; therefore it is a simple shadow. Where there is a
+compound shadow one light or the other falls; and here a difficulty
+arises for my adversary since he says that, where the compound
+shadows intersect, both the lights which produce the shadows must of
+necessity fall and therefore these shadows ought to be neutralised;
+inasmuch as the two lights do not fall there, we say that the shadow
+is a simple one and where only one of the two lights falls, we say
+the shadow is compound, and where both the lights fall the shadow is
+neutralised; for where both lights fall, no shadow of any kind is
+produced, but only a light background limiting the shadow. Here I
+shall say that what my adversary said was true: but he only mentions
+such truths as are in his favour; and if we go on to the rest he
+must conclude that my proposition is true. And that is: That if both
+lights fell on the point of intersection, the shadows would be
+neutralised. This I confess to be true if [neither of] the two
+shadows fell in the same spot; because, where a shadow and a light
+fall, a compound shadow is produced, and wherever two shadows or two
+equal lights fall, the shadow cannot vary in any part of it, the
+shadows and the lights both being equal. And this is proved in the
+eighth [proposition] on proportion where it is said that if a given
+quantity has a single unit of force and resistance, a double
+quantity will have double force and double resistance.
+
+DEFINITION.
+
+The intersection _n_ is produced by the shadows caused by the light
+_b_, because this light _b_ produces the shadow _x b_, and the
+shadow _s b_, but the intersection _m_ is produced by the light _a_
+which causes the shadow _s a_, and the shadow _x a_.
+
+But if you uncover both the lights _a b_, then you get the two
+shadows _n m_ both at once, and besides these, two other, simple
+shadows are produced at _r o_ where neither of the two lights falls
+at all. The grades of depth in compound shadows are fewer in
+proportion as the lights falling on, and crossing them are less
+numerous.
+
+186.
+
+Why the intersections at _n_ being composed of two compound derived
+shadows, forms a compound shadow and not a simple one, as happens
+with other intersections of compound shadows. This occurs, according
+to the 2nd [diagram] of this [prop.] which says:--The intersection
+of derived shadows when produced by the intersection of columnar
+shadows caused by a single light does not produce a simple shadow.
+And this is the corollary of the 1st [prop.] which says:--The
+intersection of simple derived shadows never results in a deeper
+shadow, because the deepest shadows all added together cannot be
+darker than one by itself. Since, if many deepest shadows increased
+in depth by their duplication, they could not be called the
+_deepest_ shadows, but only part-shadows. But if such intersections
+are illuminated by a second light placed between the eye and the
+intersecting bodies, then those shadows would become compound
+shadows and be uniformly dark just as much at the intersection as
+throughout the rest. In the 1st and 2nd above, the intersections _i
+k_ will not be doubled in depth as it is doubled in quantity. But in
+this 3rd, at the intersections _g n_ they will be double in depth
+and in quantity.
+
+187.
+
+HOW AND WHEN THE SURROUNDINGS IN SHADOW MINGLE THEIR DERIVED SHADOW
+WITH THE LIGHT DERIVED FROM THE LUMINOUS BODY.
+
+The derived shadow of the dark walls on each side of the bright
+light of the window are what mingle their various degrees of shade
+with the light derived from the window; and these various depths of
+shade modify every portion of the light, except where it is
+strongest, at _c_. To prove this let _d a_ be the primary shadow
+which is turned towards the point _e_, and darkens it by its derived
+shadow; as may be seen by the triangle _a e d_, in which the
+angle _e_ faces the darkened base _d a e_; the point _v_ faces the
+dark shadow _a s_ which is part of _a d_, and as the whole is
+greater than a part, _e_ which faces the whole base [of the
+triangle], will be in deeper shadow than _v_ which only faces part
+of it. In consequence of the conclusion [shown] in the above
+diagram, _t_ will be less darkened than _v_, because the base of the
+_t_ is part of the base of the _v_; and in the same way it follows
+that _p_ is less in shadow than _t_, because the base of the _p_ is
+part of the base of the _t_. And _c_ is the terminal point of the
+derived shadow and the chief beginning of the highest light.
+
+[Footnote: The diagram on Pl. IV, No. 5 belongs to this passage; but
+it must be noted that the text explains only the figure on the
+right-hand side.]
+
+FOURTH BOOK ON LIGHT AND SHADE.
+
+On the shape of the cast shadows (188-191).
+
+188.
+
+The form of the shadow cast by any body of uniform density can never
+be the same as that of the body producing it. [Footnote: Comp. the
+drawing on PI. XXVIII, No. 5.]
+
+189.
+
+No cast shadow can produce the true image of the body which casts it
+on a vertical plane unless the centre of the light is equally
+distant from all the edges of that body.
+
+190.
+
+If a window _a b_ admits the sunlight into a room, the sunlight will
+magnify the size of the window and diminish the shadow of a man in
+such a way as that when the man makes that dim shadow of himself,
+approach to that which defines the real size of the window, he will
+see the shadows where they come into contact, dim and confused from
+the strength of the light, shutting off and not allowing the solar
+rays to pass; the effect of the shadow of the man cast by this
+contact will be exactly that figured above.
+
+[Footnote: It is scarcely possible to render the meaning of this
+sentence with strict accuracy; mainly because the grammatical
+construction is defective in the most important part--line 4. In the
+very slight original sketch the shadow touches the upper arch of the
+window and the correction, here given is perhaps not justified.]
+
+191.
+
+A shadow is never seen as of uniform depth on the surface which
+intercepts it unless every portion of that surface is equidistant
+from the luminous body. This is proved by the 7th which says:--The
+shadow will appear lighter or stronger as it is surrounded by a
+darker or a lighter background. And by the 8th of this:--The
+background will be in parts darker or lighter, in proportion as it
+is farther from or nearer to the luminous body. And:--Of various
+spots equally distant from the luminous body those will always be in
+the highest light on which the rays fall at the smallest angles: The
+outline of the shadow as it falls on inequalities in the surface
+will be seen with all the contours similar to those of the body that
+casts it, if the eye is placed just where the centre of the light
+was.
+
+The shadow will look darkest where it is farthest from the body that
+casts it. The shadow _c d_, cast by the body in shadow _a b_ which
+is equally distant in all parts, is not of equal depth because it is
+seen on a back ground of varying brightness. [Footnote: Compare the
+three diagrams on Pl. VI, no 1 which, in the original accompany this
+section.]
+
+On the outlines of cast shadows (192-195).
+
+192.
+
+The edges of a derived shadow will be most distinct where it is cast
+nearest to the primary shadow.
+
+193.
+
+As the derived shadow gets more distant from the primary shadow, the
+more the cast shadow differs from the primary shadow.
+
+194.
+
+OF SHADOWS WHICH NEVER COME TO AN END.
+
+The greater the difference between a light and the body lighted by
+it, the light being the larger, the more vague will be the outlines
+of the shadow of that object.
+
+The derived shadow will be most confused towards the edges of its
+interception by a plane, where it is remotest from the body casting
+it.
+
+195.
+
+What is the cause which makes the outlines of the shadow vague and
+confused?
+
+Whether it is possible to give clear and definite outlines to the
+edges of shadows.
+
+On the relative size of shadows (196. 197).
+
+196.
+
+THE BODY WHICH IS NEAREST TO THE LIGHT CASTS THE LARGEST SHADOW, AND
+WHY?
+
+If an object placed in front of a single light is very close to it
+you will see that it casts a very large shadow on the opposite wall,
+and the farther you remove the object from the light the smaller
+will the image of the shadow become.
+
+WHY A SHADOW LARGER THAN THE BODY THAT PRODUCES IT BECOMES OUT OF
+PROPORTION.
+
+The disproportion of a shadow which is larger than the body
+producing it, results from the light being smaller than the body, so
+that it cannot be at an equal distance from the edges of the body
+[Footnote 11: H. LUDWIG in his edition of the old copies, in the
+Vatican library--in which this chapter is included under Nos. 612,
+613 and 614 alters this passage as follows: _quella parte ch'e piu
+propinqua piu cresce che le distanti_, although the Vatican copy
+agrees with the original MS. in having _distante_ in the former and
+_propinque_ in the latter place. This supposed amendment seems to me
+to invert the facts. Supposing for instance, that on Pl. XXXI No. 3.
+_f_ is the spot where the light is that illuminates the figure there
+represented, and that the line behind the figure represents a wall
+on which the shadow of the figure is thrown. It is evident, that in
+that case the nearest portion, in this case the under part of the
+thigh, is very little magnified in the shadow, and the remoter
+parts, for instance the head, are more magnified.]; and the portions
+which are most remote are made larger than the nearer portions for
+this reason [Footnote 12: See Footnote 11].
+
+WHY A SHADOW WHICH IS LARGER THAN THE BODY CAUSING IT HAS
+ILL-DEFINED OUTLINES.
+
+The atmosphere which surrounds a light is almost like light itself
+for brightness and colour; but the farther off it is the more it
+loses this resemblance. An object which casts a large shadow and is
+near to the light, is illuminated both by that light by the luminous
+atmosphere; hence this diffused light gives the shadow ill-defined
+edges.
+
+197.
+
+A luminous body which is long and narrow in shape gives more
+confused outlines to the derived shadow than a spherical light, and
+this contradicts the proposition next following: A shadow will have
+its outlines more clearly defined in proportion as it is nearer to
+the primary shadow or, I should say, the body casting the shadow;
+[Footnote 14: The lettering refers to the lower diagram, Pl. XLI,
+No. 5.] the cause of this is the elongated form of the luminous body
+_a c_, &c. [Footnote 16: See Footnote 14].
+
+Effects on cast shadows by the tone of the back ground.
+
+198.
+
+OF MODIFIED SHADOWS.
+
+Modified shadows are those which are cast on light walls or other
+illuminated objects.
+
+A shadow looks darkest against a light background. The outlines of a
+derived shadow will be clearer as they are nearer to the primary
+shadow. A derived shadow will be most defined in shape where it is
+intercepted, where the plane intercepts it at the most equal angle.
+
+Those parts of a shadow will appear darkest which have darker
+objects opposite to them. And they will appear less dark when they
+face lighter objects. And the larger the light object opposite, the
+more the shadow will be lightened.
+
+And the larger the surface of the dark object the more it will
+darken the derived shadow where it is intercepted.
+
+A disputed proposition.
+
+199.
+
+OF THE OPINION OF SOME THAT A TRIANGLE CASTS NO SHADOW ON A PLANE
+SURFACE.
+
+Certain mathematicians have maintained that a triangle, of which the
+base is turned to the light, casts no shadow on a plane; and this
+they prove by saying [5] that no spherical body smaller than the
+light can reach the middle with the shadow. The lines of radiant
+light are straight lines [6]; therefore, suppose the light to be _g
+h_ and the triangle _l m n_, and let the plane be _i k_; they say
+the light _g_ falls on the side of the triangle _l n_, and the
+portion of the plane _i q_. Thus again _h_ like _g_ falls on the
+side _l m_, and then on _m n_ and the plane _p k_; and if the whole
+plane thus faces the lights _g h_, it is evident that the triangle
+has no shadow; and that which has no shadow can cast none. This, in
+this case appears credible. But if the triangle _n p g_ were not
+illuminated by the two lights _g_ and _h_, but by _i p_ and _g_ and
+_k_ neither side is lighted by more than one single light: that is
+_i p_ is invisible to _h g_ and _k_ will never be lighted by _g_;
+hence _p q_ will be twice as light as the two visible portions that
+are in shadow.
+
+[Footnote: 5--6. This passage is so obscure that it would be rash to
+offer an explanation. Several words seem to have been omitted.]
+
+On the relative depth of cast shadows (200-202).
+
+200.
+
+A spot is most in the shade when a large number of darkened rays
+fall upon it. The spot which receives the rays at the widest angle
+and by darkened rays will be most in the dark; a will be twice as
+dark as b, because it originates from twice as large a base at an
+equal distance. A spot is most illuminated when a large number of
+luminous rays fall upon it. d is the beginning of the shadow _d f_,
+and tinges _c_ but _a_ little; _d e_ is half of the shadow _d f_ and
+gives a deeper tone where it is cast at _b_ than at _f_. And the
+whole shaded space _e_ gives its tone to the spot _a_. [Footnote:
+The diagram here referred to is on Pl. XLI, No. 2.]
+
+201.
+
+_A n_ will be darker than _c r_ in proportion to the number of times
+that _a b_ goes into _c d_.
+
+202.
+
+The shadow cast by an object on a plane will be smaller in
+proportion as that object is lighted by feebler rays. Let _d e_ be
+the object and _d c_ the plane surface; the number of times that _d
+e_ will go into _f g_ gives the proportion of light at _f h_ to _d
+c_. The ray of light will be weaker in proportion to its distance
+from the hole through which it falls.
+
+FIFTH BOOK ON LIGHT AND SHADE.
+
+Principles of reflection (203. 204).
+
+203.
+
+OF THE WAY IN WHICH THE SHADOWS CAST BY OBJECTS OUGHT TO BE DEFINED.
+
+If the object is the mountain here figured, and the light is at the
+point _a_, I say that from _b d_ and also from _c f_ there will be
+no light but from reflected rays. And this results from the fact
+that rays of light can only act in straight lines; and the same is
+the case with the secondary or reflected rays.
+
+204.
+
+The edges of the derived shadow are defined by the hues of the
+illuminated objects surrounding the luminous body which produces the
+shadow.
+
+On reverberation.
+
+205.
+
+OF REVERBERATION.
+
+Reverberation is caused by bodies of a bright nature with a flat and
+semi opaque surface which, when the light strikes upon them, throw
+it back again, like the rebound of a ball, to the former object.
+
+WHERE THERE CAN BE NO REFLECTED LIGHTS.
+
+All dense bodies have their surfaces occupied by various degrees of
+light and shade. The lights are of two kinds, one called original,
+the other borrowed. Original light is that which is inherent in the
+flame of fire or the light of the sun or of the atmosphere. Borrowed
+light will be reflected light; but to return to the promised
+definition: I say that this luminous reverberation is not produced
+by those portions of a body which are turned towards darkened
+objects, such as shaded spots, fields with grass of various height,
+woods whether green or bare; in which, though that side of each
+branch which is turned towards the original light has a share of
+that light, nevertheless the shadows cast by each branch separately
+are so numerous, as well as those cast by one branch on the others,
+that finally so much shadow is the result that the light counts for
+nothing. Hence objects of this kind cannot throw any reflected light
+on opposite objects.
+
+Reflection on water (206. 207).
+
+206.
+
+PERSPECTIVE.
+
+The shadow or object mirrored in water in motion, that is to say in
+small wavelets, will always be larger than the external object
+producing it.
+
+207.
+
+It is impossible that an object mirrored on water should correspond
+in form to the object mirrored, since the centre of the eye is above
+the surface of the water.
+
+This is made plain in the figure here given, which demonstrates that
+the eye sees the surface _a b_, and cannot see it at _l f_, and at
+_r t_; it sees the surface of the image at _r t_, and does not see
+it in the real object _c d_. Hence it is impossible to see it, as
+has been said above unless the eye itself is situated on the surface
+of the water as is shown below [13].
+
+[Footnote: _A_ stands for _ochio_ [eye], _B_ for _aria_ [air], _C_
+for _acqua_ [water], _D_ for _cateto_ [cathetus].--In the original
+MS. the second diagram is placed below line 13.]
+
+Experiments with the mirror (208-210).
+
+208.
+
+THE MIRROR.
+
+If the illuminated object is of the same size as the luminous body
+and as that in which the light is reflected, the amount of the
+reflected light will bear the same proportion to the intermediate
+light as this second light will bear to the first, if both bodies
+are smooth and white.
+
+209.
+
+Describe how it is that no object has its limitation in the mirror
+but in the eye which sees it in the mirror. For if you look at your
+face in the mirror, the part resembles the whole in as much as the
+part is everywhere in the mirror, and the whole is in every part of
+the same mirror; and the same is true of the whole image of any
+object placed opposite to this mirror, &c.
+
+210.
+
+No man can see the image of another man in a mirror in its proper
+place with regard to the objects; because every object falls on [the
+surface of] the mirror at equal angles. And if the one man, who sees
+the other in the mirror, is not in a direct line with the image he
+will not see it in the place where it really falls; and if he gets
+into the line, he covers the other man and puts himself in the place
+occupied by his image. Let _n o_ be the mirror, _b_ the eye of your
+friend and _d_ your own eye. Your friend's eye will appear to you at
+_a_, and to him it will seem that yours is at _c_, and the
+intersection of the visual rays will occur at _m_, so that either of
+you touching _m_ will touch the eye of the other man which shall be
+open. And if you touch the eye of the other man in the mirror it
+will seem to him that you are touching your own.
+
+Appendix:--On shadows in movement (211. 212).
+
+211.
+
+OF THE SHADOW AND ITS MOTION.
+
+When two bodies casting shadows, and one in front of the other, are
+between a window and the wall with some space between them, the
+shadow of the body which is nearest to the plane of the wall will
+move if the body nearest to the window is put in transverse motion
+across the window. To prove this let _a_ and _b_ be two bodies
+placed between the window _n m_ and the plane surface _o p_ with
+sufficient space between them as shown by the space _a b_. I say
+that if the body _a_ is moved towards _s_ the shadow of the body _b_
+which is at _c_ will move towards _d_.
+
+212.
+
+OF THE MOTION OF SHADOWS.
+
+The motion of a shadow is always more rapid than that of the body
+which produces it if the light is stationary. To prove this let _a_
+be the luminous body, and _b_ the body casting the shadow, and _d_
+the shadow. Then I say that in the time while the solid body moves
+from _b_ to _c_, the shadow _d_ will move to _e_; and this
+proportion in the rapidity of the movements made in the same space
+of time, is equal to that in the length of the space moved over.
+Thus, given the proportion of the space moved over by the body _b_
+to _c_, to that moved over by the shadow _d_ to _e_, the proportion
+in the rapidity of their movements will be the same.
+
+But if the luminous body is also in movement with a velocity equal
+to that of the solid body, then the shadow and the body that casts
+it will move with equal speed. And if the luminous body moves more
+rapidly than the solid body, the motion of the shadow will be slower
+than that of the body casting it.
+
+But if the luminous body moves more slowly than the solid body, then
+the shadow will move more rapidly than that body.
+
+SIXTH BOOK ON LIGHT AND SHADE.
+
+The effect of rays passing through holes (213. 214).
+
+213.
+
+PERSPECTIVE.
+
+If you transmit the rays of the sun through a hole in the shape of a
+star you will see a beautiful effect of perspective in the spot
+where the sun's rays fall.
+
+[Footnote: In this and the following chapters of MS. C the order of
+the original paging has been adhered to, and is shown in
+parenthesis. Leonardo himself has but rarely worked out the subject
+of these propositions. The space left for the purpose has
+occasionally been made use of for quite different matter. Even the
+numerous diagrams, most of them very delicately sketched, lettered
+and numbered, which occur on these pages, are hardly ever explained,
+with the exception of those few which are here given.]
+
+214.
+
+No small hole can so modify the convergence of rays of light as to
+prevent, at a long distance, the transmission of the true form of
+the luminous body causing them. It is impossible that rays of light
+passing through a parallel [slit], should not display the form of
+the body causing them, since all the effects produced by a luminous
+body are [in fact] the reflection of that body: The moon, shaped
+like a boat, if transmitted through a hole is figured in the surface
+[it falls on] as a boatshaped object. [Footnote 8: In the MS. a
+blank space is left after this question.] Why the eye sees bodies at
+a distance, larger than they measure on the vertical plane?.
+
+[Footnote: This chapter, taken from another MS. may, as an
+exception, be placed here, as it refers to the same subject as the
+preceding section.]
+
+On gradation of shadows (215. 216).
+
+215.
+
+Although the breadth and length of lights and shadow will be
+narrower and shorter in foreshortening, the quality and quantity of
+the light and shade is not increased nor diminished.
+
+[3]The function of shade and light when diminished by
+foreshortening, will be to give shadow and to illuminate an object
+opposite, according to the quality and quantity in which they fall
+on the body.
+
+[5]In proportion as a derived shadow is nearer to its penultimate
+extremities the deeper it will appear, _g z_ beyond the intersection
+faces only the part of the shadow [marked] _y z_; this by
+intersection takes the shadow from _m n_ but by direct line it takes
+the shadow _a m_ hence it is twice as deep as _g z_. _Y x_, by
+intersection takes the shadow _n o_, but by direct line the shadow
+_n m a_, therefore _x y_ is three times as dark as _z g_; _x f_, by
+intersection faces _o b_ and by direct line _o n m a_, therefore we
+must say that the shadow between _f x_ will be four times as dark as
+the shadow _z g_, because it faces four times as much shadow.
+
+Let _a b_ be the side where the primary shadow is, and _b c_ the
+primary light, _d_ will be the spot where it is intercepted,_f g_
+the derived shadow and _f e_ the derived light.
+
+And this must be at the beginning of the explanation.
+
+[Footnote: In the original MS. the text of No. 252 precedes the one
+given here. In the text of No. 215 there is a blank space of about
+four lines between the lines 2 and 3. The diagram given on Pl. VI,
+No. 2 is placed between lines 4 and 5. Between lines 5 and 6 there
+is another space of about three lines and one line left blank
+between lines 8 and 9. The reader will find the meaning of the whole
+passage much clearer if he first reads the final lines 11--13.
+Compare also line 4 of No. 270.]
+
+On relative proportion of light and shadows (216--221).
+
+216.
+
+That part of the surface of a body on which the images [reflection]
+from other bodies placed opposite fall at the largest angle will
+assume their hue most strongly. In the diagram below, 8 is a larger
+angle than 4, since its base _a n_ is larger than _e n_ the base of
+4. This diagram below should end at _a n_ 4 8. [4]That portion of
+the illuminated surface on which a shadow is cast will be brightest
+which lies contiguous to the cast shadow. Just as an object which is
+lighted up by a greater quantity of luminous rays becomes brighter,
+so one on which a greater quantity of shadow falls, will be darker.
+
+Let 4 be the side of an illuminated surface 4 8, surrounding the
+cast shadow _g e_ 4. And this spot 4 will be lighter than 8, because
+less shadow falls on it than on 8. Since 4 faces only the shadow _i
+n_; and 8 faces and receives the shadow _a e_ as well as _i n_ which
+makes it twice as dark. And the same thing happens when you put the
+atmosphere and the sun in the place of shade and light.
+
+[12] The distribution of shadow, originating in, and limited by,
+plane surfaces placed near to each other, equal in tone and directly
+opposite, will be darker at the ends than at the beginning, which
+will be determined by the incidence of the luminous rays. You will
+find the same proportion in the depth of the derived shadows _a n_
+as in the nearness of the luminous bodies _m b_, which cause them;
+and if the luminous bodies were of equal size you would still
+farther find the same proportion in the light cast by the luminous
+circles and their shadows as in the distance of the said luminous
+bodies.
+
+[Footnote: The diagram originally placed between lines 3 and 4 is on
+Pl. VI, No. 3. In the diagram given above line 14 of the original,
+and here printed in the text, the words _corpo luminoso_ [luminous
+body] are written in the circle _m_, _luminoso_ in the circle _b_
+and _ombroso_ [body in shadow] in the circle _o_.]
+
+217.
+
+THAT PART OF THE REFLECTION WILL BE BRIGHTEST WHERE THE REFLECTED
+RAYS ARE SHORTEST.
+
+[2] The darkness occasioned by the casting of combined shadows will
+be in conformity with its cause, which will originate and terminate
+between two plane surfaces near together, alike in tone and directly
+opposite each other.
+
+[4] In proportion as the source of light is larger, the luminous and
+shadow rays will be more mixed together. This result is produced
+because wherever there is a larger quantity of luminous rays, there
+is most light, but where there are fewer there is least light,
+consequently the shadow rays come in and mingle with them.
+
+[Footnote: Diagrams are inserted before lines 2 and 4.]
+
+218.
+
+In all the proportions I lay down it must be understood that the
+medium between the bodies is always the same. [2] The smaller the
+luminous body the more distinct will the transmission of the shadows
+be.
+
+[3] When of two opposite shadows, produced by the same body, one is
+twice as dark as the other though similar in form, one of the two
+lights causing them must have twice the diameter that the other has
+and be at twice the distance from the opaque body. If the object is
+lowly moved across the luminous body, and the shadow is intercepted
+at some distance from the object, there will be the same relative
+proportion between the motion of the derived shadow and the motion
+of the primary shadow, as between the distance from the object to
+the light, and that from the object to the spot where the shadow is
+intercepted; so that though the object is moved slowly the shadow
+moves fast.
+
+[Footnote: There are diagrams inserted before lines 2 and 3 but they
+are not reproduced here. The diagram above line 6 is written upon as
+follows: at _A lume_ (light), at _B obbietto_ (body), at _C ombra
+d'obbietto_ (shadow of the object).]
+
+219.
+
+A luminous body will appear less brilliant when surrounded by a
+bright background.
+
+[2] I have found that the stars which are nearest to the horizon
+look larger than the others because light falls upon them from a
+larger proportion of the solar body than when they are above us; and
+having more light from the sun they give more light, and the bodies
+which are most luminous appear the largest. As may be seen by the
+sun through a mist, and overhead; it appears larger where there is
+no mist and diminished through mist. No portion of the luminous body
+is ever visible from any spot within the pyramid of pure derived
+shadow.
+
+[Footnote: Between lines 1 and 2 there is in the original a large
+diagram which does not refer to this text. ]
+
+220.
+
+A body on which the solar rays fall between the thin branches of
+trees far apart will cast but a single shadow.
+
+[2] If an opaque body and a luminous one are (both) spherical the
+base of the pyramid of rays will bear the same proportion to the
+luminous body as the base of the pyramid of shade to the opaque
+body.
+
+[4] When the transmitted shadow is intercepted by a plane surface
+placed opposite to it and farther away from the luminous body than
+from the object [which casts it] it will appear proportionately
+darker and the edges more distinct.
+
+[Footnote: The diagram which, in the original, is placed above line
+2, is similar to the one, here given on page 73 (section 120).--The
+diagram here given in the margin stands, in the original, between
+lines 3 and 4.]
+
+221.
+
+A body illuminated by the solar rays passing between the thick
+branches of trees will produce as many shadows as there are branches
+between the sun and itself.
+
+Where the shadow-rays from an opaque pyramidal body are intercepted
+they will cast a shadow of bifurcate outline and various depth at
+the points. A light which is broader than the apex but narrower than
+the base of an opaque pyramidal body placed in front of it, will
+cause that pyramid to cast a shadow of bifurcate form and various
+degrees of depth.
+
+If an opaque body, smaller than the light, casts two shadows and if
+it is the same size or larger, casts but one, it follows that a
+pyramidal body, of which part is smaller, part equal to, and part
+larger than, the luminous body, will cast a bifurcate shadow.
+
+[Footnote: Between lines 2 and 3 there are in the original two large
+diagrams.]
+
+_IV._
+
+_Perspective of Disappearance._
+
+_The theory of the_ "Prospettiva de' perdimenti" _would, in many
+important details, be quite unintelligible if it had not been led up
+by the principles of light and shade on which it is based. The word_
+"Prospettiva" _in the language of the time included the principles
+of optics; what Leonardo understood by_ "Perdimenti" _will be
+clearly seen in the early chapters, Nos._ 222--224. _It is in the
+very nature of the case that the farther explanations given in the
+subsequent chapters must be limited to general rules. The sections
+given as_ 227--231 _"On indistinctness at short distances" have, it
+is true, only an indirect bearing on the subject; but on the other
+hand, the following chapters,_ 232--234, _"On indistinctness at
+great distances," go fully into the matter, and in chapters_
+235--239, _which treat "Of the importance of light and shade in the
+Perspective of Disappearance", the practical issues are distinctly
+insisted on in their relation to the theory. This is naturally
+followed by the statements as to "the effect of light or dark
+backgrounds on the apparent size of bodies"_ (_Nos._ 240--250). _At
+the end I have placed, in the order of the original, those sections
+from the MS._ C _which treat of the "Perspective of Disappearance"
+and serve to some extent to complete the treatment of the subject_
+(251--262).
+
+Definition (222. 223).
+
+222.
+
+OF THE DIMINISHED DISTINCTNESS OF THE OUTLINES OF OPAQUE BODIES.
+
+If the real outlines of opaque bodies are indistinguishable at even
+a very short distance, they will be more so at long distances; and,
+since it is by its outlines that we are able to know the real form
+of any opaque body, when by its remoteness we fail to discern it as
+a whole, much more must we fail to discern its parts and outlines.
+
+223.
+
+OF THE DIMINUTION IN PERSPECTIVE OF OPAQUE OBJECTS.
+
+Among opaque objects of equal size the apparent diminution of size
+will be in proportion to their distance from the eye of the
+spectator; but it is an inverse proportion, since, where the
+distance is greater, the opaque body will appear smaller, and the
+less the distance the larger will the object appear. And this is the
+fundamental principle of linear perspective and it
+follows:--[11]every object as it becomes more remote loses first
+those parts which are smallest. Thus of a horse, we should lose the
+legs before the head, because the legs are thinner than the head;
+and the neck before the body for the same reason. Hence it follows
+that the last part of the horse which would be discernible by the
+eye would be the mass of the body in an oval form, or rather in a
+cylindrical form and this would lose its apparent thickness before
+its length--according to the 2nd rule given above, &c. [Footnote 23:
+Compare line 11.].
+
+If the eye remains stationary the perspective terminates in the
+distance in a point. But if the eye moves in a straight [horizontal]
+line the perspective terminates in a line and the reason is that
+this line is generated by the motion of the point and our sight;
+therefore it follows that as we move our sight [eye], the point
+moves, and as we move the point, the line is generated, &c.
+
+An illustration by experiment.
+
+224.
+
+Every visible body, in so far as it affects the eye, includes three
+attributes; that is to say: mass, form and colour; and the mass is
+recognisable at a greater distance from the place of its actual
+existence than either colour or form. Again, colour is discernible
+at a greater distance than form, but this law does not apply to
+luminous bodies.
+
+The above proposition is plainly shown and proved by experiment;
+because: if you see a man close to you, you discern the exact
+appearance of the mass and of the form and also of the colouring; if
+he goes to some distance you will not recognise who he is, because
+the character of the details will disappear, if he goes still
+farther you will not be able to distinguish his colouring, but he
+will appear as a dark object, and still farther he will appear as a
+very small dark rounded object. It appears rounded because distance
+so greatly diminishes the various details that nothing remains
+visible but the larger mass. And the reason is this: We know very
+well that all the images of objects reach the senses by a small
+aperture in the eye; hence, if the whole horizon _a d_ is admitted
+through such an aperture, the object _b c_ being but a very small
+fraction of this horizon what space can it fill in that minute image
+of so vast a hemisphere? And because luminous bodies have more power
+in darkness than any others, it is evident that, as the chamber of
+the eye is very dark, as is the nature of all colored cavities, the
+images of distant objects are confused and lost in the great light
+of the sky; and if they are visible at all, appear dark and black,
+as every small body must when seen in the diffused light of the
+atmosphere.
+
+[Footnote: The diagram belonging to this passage is placed between
+lines 5 and 6; it is No. 4 on Pl. VI. ]
+
+A guiding rule.
+
+225.
+
+OF THE ATMOSPHERE THAT INTERPOSES BETWEEN THE EYE AND VISIBLE
+OBJECTS.
+
+An object will appear more or less distinct at the same distance, in
+proportion as the atmosphere existing between the eye and that
+object is more or less clear. Hence, as I know that the greater or
+less quantity of the air that lies between the eye and the object
+makes the outlines of that object more or less indistinct, you must
+diminish the definiteness of outline of those objects in proportion
+to their increasing distance from the eye of the spectator.
+
+An experiment.
+
+226.
+
+When I was once in a place on the sea, at an equal distance from the
+shore and the mountains, the distance from the shore looked much
+greater than that from the mountains.
+
+On indistinctness at short distances (227-231).
+
+227.
+
+If you place an opaque object in front of your eye at a distance of
+four fingers' breadth, if it is smaller than the space between the
+two eyes it will not interfere with your seeing any thing that may
+be beyond it. No object situated beyond another object seen by the
+eye can be concealed by this [nearer] object if it is smaller than
+the space from eye to eye.
+
+228.
+
+The eye cannot take in a luminous angle which is too close to it.
+
+229.
+
+That part of a surface will be better lighted on which the light
+falls at the greater angle. And that part, on which the shadow falls
+at the greatest angle, will receive from those rays least of the
+benefit of the light.
+
+230.
+
+OF THE EYE.
+
+The edges of an object placed in front of the pupil of the eye will
+be less distinct in proportion as they are closer to the eye. This
+is shown by the edge of the object _n_ placed in front of the pupil
+_d_; in looking at this edge the pupil also sees all the space _a c_
+which is beyond the edge; and the images the eye receives from that
+space are mingled with the images of the edge, so that one image
+confuses the other, and this confusion hinders the pupil from
+distinguishing the edge.
+
+231.
+
+The outlines of objects will be least clear when they are nearest to
+the eye, and therefore remoter outlines will be clearer. Among
+objects which are smaller than the pupil of the eye those will be
+less distinct which are nearer to the eye.
+
+On indistinctness at great distances (232-234).
+
+232.
+
+Objects near to the eye will appear larger than those at a distance.
+
+Objects seen with two eyes will appear rounder than if they are seen
+with only one.
+
+Objects seen between light and shadow will show the most relief.
+
+233.
+
+OF PAINTING.
+
+Our true perception of an object diminishes in proportion as its
+size is diminished by distance.
+
+234.
+
+PERSPECTIVE.
+
+Why objects seen at a distance appear large to the eye and in the
+image on the vertical plane they appear small.
+
+PERSPECTIVE.
+
+I ask how far away the eye can discern a non-luminous body, as, for
+instance, a mountain. It will be very plainly visible if the sun is
+behind it; and could be seen at a greater or less distance according
+to the sun's place in the sky.
+
+[Footnote: The clue to the solution of this problem (lines 1-3) is
+given in lines 4-6, No. 232. Objects seen with both eyes appear
+solid since they are seen from two distinct points of sight
+separated by the distance between the eyes, but this solidity cannot
+be represented in a flat drawing. Compare No. 535.]
+
+The importance of light and shade in the perspective of
+disappearance (235-239).
+
+235.
+
+An opaque body seen in a line in which the light falls will reveal
+no prominences to the eye. For instance, let _a_ be the solid body
+and _c_ the light; _c m_ and _c n_ will be the lines of incidence of
+the light, that is to say the lines which transmit the light to the
+object _a_. The eye being at the point _b_, I say that since the
+light _c_ falls on the whole part _m n_ the portions in relief on
+that side will all be illuminated. Hence the eye placed at _c_
+cannot see any light and shade and, not seeing it, every portion
+will appear of the same tone, therefore the relief in the prominent
+or rounded parts will not be visible.
+
+236.
+
+OF PAINTING.
+
+When you represent in your work shadows which you can only discern
+with difficulty, and of which you cannot distinguish the edges so
+that you apprehend them confusedly, you must not make them sharp or
+definite lest your work should have a wooden effect.
+
+237.
+
+OF PAINTING.
+
+You will observe in drawing that among the shadows some are of
+undistinguishable gradation and form, as is shown in the 3rd
+[proposition] which says: Rounded surfaces display as many degrees
+of light and shade as there are varieties of brightness and darkness
+reflected from the surrounding objects.
+
+238.
+
+OF LIGHT AND SHADE.
+
+You who draw from nature, look (carefully) at the extent, the
+degree, and the form of the lights and shadows on each muscle; and
+in their position lengthwise observe towards which muscle the axis
+of the central line is directed.
+
+239.
+
+An object which is [so brilliantly illuminated as to be] almost as
+bright as light will be visible at a greater distance, and of larger
+apparent size than is natural to objects so remote.
+
+The effect of light or dark backgrounds on the apparent size of
+objects (240-250).
+
+240.
+
+A shadow will appear dark in proportion to the brilliancy of the
+light surrounding it and conversely it will be less conspicuous
+where it is seen against a darker background.
+
+241.
+
+OF ORDINARY PERSPECTIVE.
+
+An object of equal breadth and colour throughout, seen against a
+background of various colours will appear unequal in breadth.
+
+And if an object of equal breadth throughout, but of various
+colours, is seen against a background of uniform colour, that object
+will appear of various breadth. And the more the colours of the
+background or of the object seen against the ground vary, the
+greater will the apparent variations in the breadth be though the
+objects seen against the ground be of equal breadth [throughout].
+
+242.
+
+A dark object seen against a bright background will appear smaller
+than it is.
+
+A light object will look larger when it is seen against a background
+darker than itself.
+
+243.
+
+OF LIGHT.
+
+A luminous body when obscured by a dense atmosphere will appear
+smaller; as may be seen by the moon or sun veiled by mists.
+
+OF LIGHT.
+
+Of several luminous bodies of equal size and brilliancy and at an
+equal distance, that will look the largest which is surrounded by
+the darkest background.
+
+OF LIGHT.
+
+I find that any luminous body when seen through a dense and thick
+mist diminishes in proportion to its distance from the eye. Thus it
+is with the sun by day, as well as the moon and the other eternal
+lights by night. And when the air is clear, these luminaries appear
+larger in proportion as they are farther from the eye.
+
+244.
+
+That portion of a body of uniform breadth which is against a lighter
+background will look narrower [than the rest].
+
+[4] _e_ is a given object, itself dark and of uniform breadth; _a b_
+and _c d_ are two backgrounds one darker than the other; _b c_ is a
+bright background, as it might be a spot lighted by the sun through
+an aperture in a dark room. Then I say that the object _e g_ will
+appear larger at _e f_ than at _g h_; because _e f_ has a darker
+background than _g h_; and again at _f g_ it will look narrower from
+being seen by the eye _o_, on the light background _b c_. [Footnote
+12: The diagram to which the text, lines 1-11, refers, is placed in
+the original between lines 3 and 4, and is given on Pl. XLI, No. 3.
+Lines 12 to 14 are explained by the lower of the two diagrams on Pl.
+XLI, No. 4. In the original these are placed after line 14.] That
+part of a luminous body, of equal breadth and brilliancy throughout,
+will look largest which is seen against the darkest background; and
+the luminous body will seem on fire.
+
+245.
+
+WHY BODIES IN LIGHT AND SHADE HAVE THEIR OUTLINES ALTERED BY THE
+COLOUR AND BRIGHTNESS OF THE OBJECTS SERVING AS A BACKGROUND TO
+THEM.
+
+If you look at a body of which the illuminated portion lies and ends
+against a dark background, that part of the light which will look
+brightest will be that which lies against the dark [background] at
+_d_. But if this brighter part lies against a light background, the
+edge of the object, which is itself light, will be less distinct
+than before, and the highest light will appear to be between the
+limit of the background _m f_ and the shadow. The same thing is seen
+with regard to the dark [side], inasmuch as that edge of the shaded
+portion of the object which lies against a light background, as at
+_l_, it looks much darker than the rest. But if this shadow lies
+against a dark background, the edge of the shaded part will appear
+lighter than before, and the deepest shade will appear between the
+edge and the light at the point _o_.
+
+[Footnote: In the original diagram _o_ is inside the shaded surface
+at the level of _d_.]
+
+246.
+
+An opaque body will appear smaller when it is surrounded by a highly
+luminous background, and a light body will appear larger when it is
+seen against a darker background. This may be seen in the height of
+buildings at night, when lightning flashes behind them; it suddenly
+seems, when it lightens, as though the height of the building were
+diminished. For the same reason such buildings look larger in a
+mist, or by night than when the atmosphere is clear and light.
+
+247.
+
+ON LIGHT BETWEEN SHADOWS
+
+When you are drawing any object, remember, in comparing the grades
+of light in the illuminated portions, that the eye is often deceived
+by seeing things lighter than they are. And the reason lies in our
+comparing those parts with the contiguous parts. Since if two
+[separate] parts are in different grades of light and if the less
+bright is conterminous with a dark portion and the brighter is
+conterminous with a light background--as the sky or something
+equally bright--, then that which is less light, or I should say
+less radiant, will look the brighter and the brighter will seem the
+darker.
+
+248.
+
+Of objects equally dark in themselves and situated at a considerable
+and equal distance, that will look the darkest which is farthest
+above the earth.
+
+249.
+
+TO PROVE HOW IT IS THAT LUMINOUS BODIES APPEAR LARGER, AT A
+DISTANCE, THAN THEY ARE.
+
+If you place two lighted candles side by side half a braccio apart,
+and go from them to a distance 200 braccia you will see that by the
+increased size of each they will appear as a single luminous body
+with the light of the two flames, one braccio wide.
+
+TO PROVE HOW YOU MAY SEE THE REAL SIZE OF LUMINOUS BODIES.
+
+If you wish to see the real size of these luminous bodies, take a
+very thin board and make in it a hole no bigger than the tag of a
+lace and place it as close to your eye as possible, so that when you
+look through this hole, at the said light, you can see a large space
+of air round it. Then by rapidly moving this board backwards and
+forwards before your eye you will see the light increase [and
+diminish].
+
+Propositions on perspective of disappearance from MS. C. (250-262).
+
+250.
+
+Of several bodies of equal size and equally distant from the eye,
+those will look the smallest which are against the lightest
+background.
+
+Every visible object must be surrounded by light and shade. A
+perfectly spherical body surrounded by light and shade will appear
+to have one side larger than the other in proportion as one is more
+highly lighted than the other.
+
+251.
+
+PERSPECTIVE.
+
+No visible object can be well understood and comprehended by the
+human eye excepting from the difference of the background against
+which the edges of the object terminate and by which they are
+bounded, and no object will appear [to stand out] separate from that
+background so far as the outlines of its borders are concerned. The
+moon, though it is at a great distance from the sun, when, in an
+eclipse, it comes between our eyes and the sun, appears to the eyes
+of men to be close to the sun and affixed to it, because the sun is
+then the background to the moon.
+
+252.
+
+A luminous body will appear more brilliant in proportion as it is
+surrounded by deeper shadow. [Footnote: The diagram which, in the
+original, is placed after this text, has no connection with it.]
+
+253.
+
+The straight edges of a body will appear broken when they are
+conterminous with a dark space streaked with rays of light.
+[Footnote: Here again the diagrams in the original have no
+connection with the text.]
+
+254.
+
+Of several bodies, all equally large and equally distant, that which
+is most brightly illuminated will appear to the eye nearest and
+largest. [Footnote: Here again the diagrams in the original have no
+connection with the text.]
+
+255.
+
+If several luminous bodies are seen from a great distance although
+they are really separate they will appear united as one body.
+
+256.
+
+If several objects in shadow, standing very close together, are seen
+against a bright background they will appear separated by wide
+intervals.
+
+257.
+
+Of several bodies of equal size and tone, that which is farthest
+will appear the lightest and smallest.
+
+258.
+
+Of several objects equal in size, brightness of background and
+length that which has the flattest surface will look the largest. A
+bar of iron equally thick throughout and of which half is red hot,
+affords an example, for the red hot part looks thicker than the
+rest.
+
+259.
+
+Of several bodies of equal size and length, and alike in form and in
+depth of shade, that will appear smallest which is surrounded by the
+most luminous background.
+
+260.
+
+DIFFERENT PORTIONS OF A WALL SURFACE WILL BE DARKER OR BRIGHTER IN
+PROPORTION AS THE LIGHT OR SHADOW FALLS ON THEM AT A LARGER ANGLE.
+
+The foregoing proposition can be clearly proved in this way. Let us
+say that _m q_ is the luminous body, then _f g_ will be the opaque
+body; and let _a e_ be the above-mentioned plane on which the said
+angles fall, showing [plainly] the nature and character of their
+bases. Then: _a_ will be more luminous than _b_; the base of the
+angle _a_ is larger than that of _b_ and it therefore makes a
+greater angle which will be _a m q_; and the pyramid _b p m_ will be
+narrower and _m o c_ will be still finer, and so on by degrees, in
+proportion as they are nearer to _e_, the pyramids will become
+narrower and darker. That portion of the wall will be the darkest
+where the breadth of the pyramid of shadow is greater than the
+breadth of the pyramid of light.
+
+At the point _a_ the pyramid of light is equal in strength to the
+pyramid of shadow, because the base _f g_ is equal to the base _r
+f_. At the point _d_ the pyramid of light is narrower than the
+pyramid of shadow by so much as the base _s f_ is less than the base
+_f g_.
+
+Divide the foregoing proposition into two diagrams, one with the
+pyramids of light and shadow, the other with the pyramids of light
+[only].
+
+261.
+
+Among shadows of equal depth those which are nearest to the eye will
+look least deep.
+
+262.
+
+The more brilliant the light given by a luminous body, the deeper
+will the shadows be cast by the objects it illuminates.
+
+_V._
+
+_Theory of colours._
+
+_Leonardo's theory of colours is even more intimately connected with
+his principles of light and shade than his Perspective of
+Disappearance and is in fact merely an appendix or supplement to
+those principles, as we gather from the titles to sections_ 264,
+267_, and _276_, while others again_ (_Nos._ 281, 282_) are headed_
+Prospettiva.
+
+_A very few of these chapters are to be found in the oldest copies
+and editions of the Treatise on Painting, and although the material
+they afford is but meager and the connection between them but
+slight, we must still attribute to them a special theoretical value
+as well as practical utility--all the more so because our knowledge
+of the theory and use of colours at the time of the Renaissance is
+still extremely limited._
+
+The reciprocal effects of colours on objects placed opposite each
+other (263-272).
+
+263.
+
+OF PAINTING.
+
+The hue of an illuminated object is affected by that of the luminous
+body.
+
+264.
+
+OF SHADOW.
+
+The surface of any opaque body is affected by the colour of
+surrounding objects.
+
+265.
+
+A shadow is always affected by the colour of the surface on which it
+is cast.
+
+266.
+
+An image produced in a mirror is affected by the colour of the
+mirror.
+
+267.
+
+OF LIGHT AND SHADE.
+
+Every portion of the surface of a body is varied [in hue] by the
+[reflected] colour of the object that may be opposite to it.
+
+EXAMPLE.
+
+If you place a spherical body between various objects that is to say
+with [direct] sunlight on one side of it, and on the other a wall
+illuminated by the sun, which wall may be green or of any other
+colour, while the surface on which it is placed may be red, and the
+two lateral sides are in shadow, you will see that the natural
+colour of that body will assume something of the hue reflected from
+those objects. The strongest will be [given by] the luminous body;
+the second by the illuminated wall, the third by the shadows. There
+will still be a portion which will take a tint from the colour of
+the edges.
+
+268.
+
+The surface of every opaque body is affected by the colour of the
+objects surrounding it. But this effect will be strong or weak in
+proportion as those objects are more or less remote and more or less
+strongly [coloured].
+
+269.
+
+OF PAINTING.
+
+The surface of every opaque body assumes the hues reflected from
+surrounding objects.
+
+The surface of an opaque body assumes the hues of surrounding
+objects more strongly in proportion as the rays that form the images
+of those objects strike the surface at more equal angles.
+
+And the surface of an opaque body assumes a stronger hue from the
+surrounding objects in proportion as that surface is whiter and the
+colour of the object brighter or more highly illuminated.
+
+270.
+
+OF THE RAYS WHICH CONVEY THROUGH THE AIR THE IMAGES OF OBJECTS.
+
+All the minutest parts of the image intersect each other without
+interfering with each other. To prove this let _r_ be one of the
+sides of the hole, opposite to which let _s_ be the eye which sees
+the lower end _o_ of the line _n o_. The other extremity cannot
+transmit its image to the eye _s_ as it has to strike the end _r_
+and it is the same with regard to _m_ at the middle of the line. The
+case is the same with the upper extremity _n_ and the eye _u_. And
+if the end _n_ is red the eye _u_ on that side of the holes will not
+see the green colour of _o_, but only the red of _n_ according to
+the 7th of this where it is said: Every form projects images from
+itself by the shortest line, which necessarily is a straight line,
+&c.
+
+[Footnote: 13. This probably refers to the diagram given under No.
+66.]
+
+271.
+
+OF PAINTING.
+
+The surface of a body assumes in some degree the hue of those around
+it. The colours of illuminated objects are reflected from the
+surfaces of one to the other in various spots, according to the
+various positions of those objects. Let _o_ be a blue object in full
+light, facing all by itself the space _b c_ on the white sphere _a b
+e d e f_, and it will give it a blue tinge, _m_ is a yellow body
+reflected onto the space _a b_ at the same time as _o_ the blue
+body, and they give it a green colour (by the 2nd [proposition] of
+this which shows that blue and yellow make a beautiful green &c.)
+And the rest will be set forth in the Book on Painting. In that Book
+it will be shown, that, by transmitting the images of objects and
+the colours of bodies illuminated by sunlight through a small round
+perforation and into a dark chamber onto a plane surface, which
+itself is quite white, &c.
+
+But every thing will be upside down.
+
+Combination of different colours in cast shadows.
+
+272.
+
+That which casts the shadow does not face it, because the shadows
+are produced by the light which causes and surrounds the shadows.
+The shadow caused by the light _e_, which is yellow, has a blue
+tinge, because the shadow of the body _a_ is cast upon the pavement
+at _b_, where the blue light falls; and the shadow produced by the
+light _d_, which is blue, will be yellow at _c_, because the yellow
+light falls there and the surrounding background to these shadows _b
+c_ will, besides its natural colour, assume a hue compounded of
+yellow and blue, because it is lighted by the yellow light and by
+the blue light both at once.
+
+Shadows of various colours, as affected by the lights falling on
+them. That light which causes the shadow does not face it.
+
+[Footnote: In the original diagram we find in the circle _e_
+"_giallo_" (yellow) and the cirle _d_ "_azurro"_ (blue) and also
+under the circle of shadow to the left "_giallo_" is written and
+under that to the right "_azurro_".
+
+In the second diagram where four circles are placed in a row we find
+written, beginning at the left hand, "_giallo_" (yellow), "_azurro_"
+(blue), "_verde_" (green), "_rosso_" (red).]
+
+The effect of colours in the camera obscura (273-274).
+
+273.
+
+The edges of a colour(ed object) transmitted through a small hole
+are more conspicuous than the central portions.
+
+The edges of the images, of whatever colour, which are transmitted
+through a small aperture into a dark chamber will always be stronger
+than the middle portions.
+
+274.
+
+OF THE INTERSECTIONS OF THE IMAGES IN THE PUPIL OF THE EYE.
+
+The intersections of the images as they enter the pupil do not
+mingle in confusion in the space where that intersection unites
+them; as is evident, since, if the rays of the sun pass through two
+panes of glass in close contact, of which one is blue and the other
+yellow, the rays, in penetrating them, do not become blue or yellow
+but a beautiful green. And the same thing would happen in the eye,
+if the images which were yellow or green should mingle where they
+[meet and] intersect as they enter the pupil. As this does not
+happen such a mingling does not exist.
+
+OF THE NATURE OF THE RAYS COMPOSED OF THE IMAGES OF OBJECTS, AND OF
+THEIR INTERSECTIONS.
+
+The directness of the rays which transmit the forms and colours of
+the bodies whence they proceed does not tinge the air nor can they
+affect each other by contact where they intersect. They affect only
+the spot where they vanish and cease to exist, because that spot
+faces and is faced by the original source of these rays, and no
+other object, which surrounds that original source can be seen by
+the eye where these rays are cut off and destroyed, leaving there
+the spoil they have conveyed to it. And this is proved by the 4th
+[proposition], on the colour of bodies, which says: The surface of
+every opaque body is affected by the colour of surrounding objects;
+hence we may conclude that the spot which, by means of the rays
+which convey the image, faces--and is faced by the cause of the
+image, assumes the colour of that object.
+
+On the colours of derived shadows (275. 276).
+
+275.
+
+ANY SHADOW CAST BY AN OPAQUE BODY SMALLER THAN THE LIGHT CAUSING THE
+SHADOW WILL THROW A DERIVED SHADOW WHICH IS TINGED BY THE COLOUR OF
+THE LIGHT.
+
+Let _n_ be the source of the shadow _e f_; it will assume its hue.
+Let _o_ be the source of _h e_ which will in the same way be tinged
+by its hue and so also the colour of _v h_ will be affected by _p_
+which causes it; and the shadow of the triangle _z k y_ will be
+affected by the colour of _q_, because it is produced by it. [7] In
+proportion as _c d_ goes into _a d_, will _n r s_ be darker than
+_m_; and the rest of the space will be shadowless [11]. _f g_ is
+the highest light, because here the whole light of the window _a d_
+falls; and thus on the opaque body _m e_ is in equally high light;
+_z k y_ is a triangle which includes the deepest shadow, because the
+light _a d_ cannot reach any part of it. _x h_ is the 2nd grade of
+shadow, because it receives only 1/3 of the light from the window,
+that is _c d_. The third grade of shadow is _h e_, where two thirds
+of the light from the window is visible. The last grade of shadow is
+_b d e f_, because the highest grade of light from the window falls
+at _f_.
+
+[Footnote: The diagram Pl. III, No. 1 belongs to this chapter as
+well as the text given in No. 148. Lines 7-11 (compare lines 8-12 of
+No. 148) which are written within the diagram, evidently apply to
+both sections and have therefore been inserted in both.]
+
+276.
+
+OF THE COLOURS OF SIMPLE DERIVED SHADOWS.
+
+The colour of derived shadows is always affected by that of the body
+towards which they are cast. To prove this: let an opaque body be
+placed between the plane _s c t d_ and the blue light _d e_ and the
+red light _a b_, then I say that _d e_, the blue light, will fall on
+the whole surface _s c t d_ excepting at _o p_ which is covered by
+the shadow of the body _q r_, as is shown by the straight lines _d q
+o e r p_. And the same occurs with the light _a b_ which falls on
+the whole surface _s c t d_ excepting at the spot obscured by the
+shadow _q r_; as is shown by the lines _d q o_, and _e r p_. Hence
+we may conclude that the shadow _n m_ is exposed to the blue light
+_d e_; but, as the red light _a b_ cannot fall there, _n m_ will
+appear as a blue shadow on a red background tinted with blue,
+because on the surface _s c t d_ both lights can fall. But in the
+shadows only one single light falls; for this reason these shadows
+are of medium depth, since, if no light whatever mingled with the
+shadow, it would be of the first degree of darkness &c. But in the
+shadow at _o p_ the blue light does not fall, because the body _q r_
+interposes and intercepts it there. Only the red light _a b_ falls
+there and tinges the shadow of a red hue and so a ruddy shadow
+appears on the background of mingled red and blue.
+
+The shadow of _q r_ at _o p_ is red, being caused by the blue light
+_d e_; and the shadow of _q r_ at _o' p'_ is blue being caused by
+the red light _a b_. Hence we say that the blue light in this
+instance causes a red derived shadow from the opaque body _q' r'_,
+while the red light causes the same body to cast a blue derived
+shadow; but the primary shadow [on the dark side of the body itself]
+is not of either of those hues, but a mixture of red and blue.
+
+The derived shadows will be equal in depth if they are produced by
+lights of equal strength and at an equal distance; this is proved.
+[Footnote 53: The text is unfinished in the original.]
+
+[Footnote: In the original diagram Leonardo has written within the
+circle _q r corpo obroso_ (body in shadow); at the spot marked _A,
+luminoso azzurro_ (blue luminous body); at _B, luminoso rosso_ (red
+luminous body). At _E_ we read _ombra azzurra_ (blue tinted shadow)
+and at _D ombra rossa_ (red tinted shadow).]
+
+On the nature of colours (277. 278).
+
+277.
+
+No white or black is transparent.
+
+278.
+
+OF PAINTING.
+
+[Footnote 2: See Footnote 3] Since white is not a colour but the
+neutral recipient of every colour [Footnote 3: _il bianco non e
+colore ma e inpotentia ricettiva d'ogni colore_ (white is not a
+colour, but the neutral recipient of every colour). LEON BATT.
+ALBERTI "_Della pittura_" libro I, asserts on the contrary: "_Il
+bianco e'l nero non sono veri colori, ma sono alteratione delli
+altri colori_" (ed. JANITSCHEK, p. 67; Vienna 1877).], when it is
+seen in the open air and high up, all its shadows are bluish; and
+this is caused, according to the 4th [prop.], which says: the
+surface of every opaque body assumes the hue of the surrounding
+objects. Now this white [body] being deprived of the light of the
+sun by the interposition of some body between the sun and itself,
+all that portion of it which is exposed to the sun and atmosphere
+assumes the colour of the sun and atmosphere; the side on which the
+sun does not fall remains in shadow and assumes the hue of the
+atmosphere. And if this white object did not reflect the green of
+the fields all the way to the horizon nor get the brightness of the
+horizon itself, it would certainly appear simply of the same hue as
+the atmosphere.
+
+On gradations in the depth of colours (279. 280).
+
+279.
+
+Since black, when painted next to white, looks no blacker than when
+next to black; and white when next to black looks no whiter than
+white, as is seen by the images transmitted through a small hole or
+by the edges of any opaque screen ...
+
+280.
+
+OF COLOURS.
+
+Of several colours, all equally white, that will look whitest which
+is against the darkest background. And black will look intensest
+against the whitest background.
+
+And red will look most vivid against the yellowest background; and
+the same is the case with all colours when surrounded by their
+strongest contrasts.
+
+On the reflection of colours (281-283).
+
+281.
+
+PERSPECTIVE.
+
+Every object devoid of colour in itself is more or less tinged by
+the colour [of the object] placed opposite. This may be seen by
+experience, inasmuch as any object which mirrors another assumes the
+colour of the object mirrored in it. And if the surface thus
+partially coloured is white the portion which has a red reflection
+will appear red, or any other colour, whether bright or dark.
+
+PERSPECTIVE.
+
+Every opaque and colourless body assumes the hue of the colour
+reflected on it; as happens with a white wall.
+
+282.
+
+PERSPECTIVE.
+
+That side of an object in light and shade which is towards the light
+transmits the images of its details more distinctly and immediately
+to the eye than the side which is in shadow.
+
+PERSPECTIVE.
+
+The solar rays reflected on a square mirror will be thrown back to
+distant objects in a circular form.
+
+PERSPECTIVE.
+
+Any white and opaque surface will be partially coloured by
+reflections from surrounding objects.
+
+[Footnote 281. 282: The title line of these chapters is in the
+original simply _"pro"_, which may be an abbreviation for either
+_Propositione_ or _Prospettiva_--taking Prospettiva of course in its
+widest sense, as we often find it used in Leonardo's writings. The
+title _"pro"_ has here been understood to mean _Prospettiva_, in
+accordance with the suggestion afforded by page 10b of this same
+MS., where the first section is headed _Prospettiva_ in full (see
+No. 94), while the four following sections are headed merely _"pro"_
+(see No. 85).]
+
+283.
+
+WHAT PORTION OF A COLOURED SURFACE OUGHT IN REASON TO BE THE MOST
+INTENSE.
+
+If _a_ is the light, and _b_ illuminated by it in a direct line,
+_c_, on which the light cannot fall, is lighted only by reflection
+from _b_ which, let us say, is red. Hence the light reflected from
+it, will be affected by the hue of the surface causing it and will
+tinge the surface _c_ with red. And if _c_ is also red you will see
+it much more intense than _b_; and if it were yellow you would see
+there a colour between yellow and red.
+
+On the use of dark and light colours in painting (284--286).
+
+284.
+
+WHY BEAUTIFUL COLOURS MUST BE IN THE [HIGHEST] LIGHT.
+
+Since we see that the quality of colour is known [only] by means of
+light, it is to be supposed that where there is most light the true
+character of a colour in light will be best seen; and where there is
+most shadow the colour will be affected by the tone of that. Hence,
+O Painter! remember to show the true quality of colours in bright
+lights.
+
+285.
+
+An object represented in white and black will display stronger
+relief than in any other way; hence I would remind you O Painter! to
+dress your figures in the lightest colours you can, since, if you
+put them in dark colours, they will be in too slight relief and
+inconspicuous from a distance. And the reason is that the shadows of
+all objects are dark. And if you make a dress dark there is little
+variety in the lights and shadows, while in light colours there are
+many grades.
+
+286.
+
+OF PAINTING.
+
+Colours seen in shadow will display more or less of their natural
+brilliancy in proportion as they are in fainter or deeper shadow.
+
+But if these same colours are situated in a well-lighted place, they
+will appear brighter in proportion as the light is more brilliant.
+
+THE ADVERSARY.
+
+The variety of colours in shadow must be as great as that of the
+colours in the objects in that shadow.
+
+THE ANSWER.
+
+Colours seen in shadow will display less variety in proportion as
+the shadows in which they lie are deeper. And evidence of this is to
+be had by looking from an open space into the doorways of dark and
+shadowy churches, where the pictures which are painted in various
+colours all look of uniform darkness.
+
+Hence at a considerable distance all the shadows of different
+colours will appear of the same darkness.
+
+It is the light side of an object in light and shade which shows the
+true colour.
+
+On the colours of the rainbow (287. 288).
+
+287.
+
+Treat of the rainbow in the last book on Painting, but first write
+the book on colours produced by the mixture of other colours, so as
+to be able to prove by those painters' colours how the colours of
+the rainbow are produced.
+
+288.
+
+WHETHER THE COLOURS OF THE RAINBOW ARE PRODUCED BY THE SUN.
+
+The colours of the rainbow are not produced by the sun, for they
+occur in many ways without the sunshine; as may be seen by holding a
+glass of water up to the eye; when, in the glass--where there are
+those minute bubbles always seen in coarse glass--each bubble, even
+though the sun does not fall on it, will produce on one side all the
+colours of the rainbow; as you may see by placing the glass between
+the day light and your eye in such a way as that it is close to the
+eye, while on one side the glass admits the [diffused] light of the
+atmosphere, and on the other side the shadow of the wall on one side
+of the window; either left or right, it matters not which. Then, by
+turning the glass round you will see these colours all round the
+bubbles in the glass &c. And the rest shall be said in its place.
+
+THAT THE EYE HAS NO PART IN PRODUCING THE COLOURS OF THE RAINBOW.
+
+In the experiment just described, the eye would seem to have some
+share in the colours of the rainbow, since these bubbles in the
+glass do not display the colours except through the medium of the
+eye. But, if you place the glass full of water on the window sill,
+in such a position as that the outer side is exposed to the sun's
+rays, you will see the same colours produced in the spot of light
+thrown through the glass and upon the floor, in a dark place, below
+the window; and as the eye is not here concerned in it, we may
+evidently, and with certainty pronounce that the eye has no share in
+producing them.
+
+OF THE COLOURS IN THE FEATHERS OF CERTAIN BIRDS.
+
+There are many birds in various regions of the world on whose
+feathers we see the most splendid colours produced as they move, as
+we see in our own country in the feathers of peacocks or on the
+necks of ducks or pigeons, &c.
+
+Again, on the surface of antique glass found underground and on the
+roots of turnips kept for some time at the bottom of wells or other
+stagnant waters [we see] that each root displays colours similar to
+those of the real rainbow. They may also be seen when oil has been
+placed on the top of water and in the solar rays reflected from the
+surface of a diamond or beryl; again, through the angular facet of a
+beryl every dark object against a background of the atmosphere or
+any thing else equally pale-coloured is surrounded by these rainbow
+colours between the atmosphere and the dark body; and in many other
+circumstances which I will not mention, as these suffice for my
+purpose.
+
+_VI._
+
+_'Prospettiva de' colri' (Perspective of Colour)_
+
+_and_
+
+_'Prospettiva aerea' (Aerial Perspective)._
+
+_Leonardo distinctly separates these branches of his subject, as may
+be seen in the beginning of No._ 295. _Attempts have been made to
+cast doubts on the results which Leonardo arrived at by experiment
+on the perspective of colour, but not with justice, as may be seen
+from the original text of section_ 294.
+
+_The question as to the composition of the atmosphere, which is
+inseparable from a discussion on Aerial Perspective, forms a
+separate theory which is treated at considerable length. Indeed the
+author enters into it so fully that we cannot escape the conviction
+that he must have dwelt with particular pleasure on this part of his
+subject, and that he attached great importance to giving it a
+character of general applicability._
+
+General rules (289--291).
+
+289.
+
+The variety of colour in objects cannot be discerned at a great
+distance, excepting in those parts which are directly lighted up by
+the solar rays.
+
+290.
+
+As to the colours of objects: at long distances no difference is
+perceptible in the parts in shadow.
+
+291.
+
+OF THE VISIBILITY OF COLOURS.
+
+Which colour strikes most? An object at a distance is most
+conspicuous, when it is lightest, and the darkest is least visible.
+
+An exceptional case.
+
+292.
+
+Of the edges [outlines] of shadows. Some have misty and ill defined
+edges, others distinct ones.
+
+No opaque body can be devoid of light and shade, except it is in a
+mist, on ground covered with snow, or when snow is falling on the
+open country which has no light on it and is surrounded with
+darkness.
+
+And this occurs [only] in spherical bodies, because in other bodies
+which have limbs and parts, those sides of limbs which face each
+other reflect on each other the accidental [hue and tone] of their
+surface.
+
+An experiment.
+
+293.
+
+ALL COLOURS ARE AT A DISTANCE UNDISTINGUISHABLE AND UNDISCERNIBLE.
+
+All colours at a distance are undistinguishable in shadow, because
+an object which is not in the highest light is incapable of
+transmitting its image to the eye through an atmosphere more
+luminous than itself; since the lesser brightness must be absorbed
+by the greater. For instance: We, in a house, can see that all the
+colours on the surface of the walls are clearly and instantly
+visible when the windows of the house are open; but if we were to go
+out of the house and look in at the windows from a little distance
+to see the paintings on those walls, instead of the paintings we
+should see an uniform deep and colourless shadow.
+
+The practice of the prospettiva de colori.
+
+294.
+
+HOW A PAINTER SHOULD CARRY OUT THE PERSPECTIVE OF COLOUR IN
+PRACTICE.
+
+In order to put into practice this perspective of the variation and
+loss or diminution of the essential character of colours, observe at
+every hundred braccia some objects standing in the landscape, such
+as trees, houses, men and particular places. Then in front of the
+first tree have a very steady plate of glass and keep your eye very
+steady, and then, on this plate of glass, draw a tree, tracing it
+over the form of that tree. Then move it on one side so far as that
+the real tree is close by the side of the tree you have drawn; then
+colour your drawing in such a way as that in colour and form the two
+may be alike, and that both, if you close one eye, seem to be
+painted on the glass and at the same distance. Then, by the same
+method, represent a second tree, and a third, with a distance of a
+hundred braccia between each. And these will serve as a standard and
+guide whenever you work on your own pictures, wherever they may
+apply, and will enable you to give due distance in those works. [14]
+But I have found that as a rule the second is 4/5 of the first when
+it is 20 braccia beyond it.
+
+[Footnote: This chapter is one of those copied in the Manuscript of
+the Vatican library Urbinas 1270, and the original text is rendered
+here with no other alterations, but in the orthography. H. LUDWIG,
+in his edition of this copy translates lines 14 and 15 thus: "_Ich
+finde aber als Regel, dass der zweite um vier Funftel des ersten
+abnimmt, wenn er namlich zwanzig Ellen vom ersten entfernt ist
+(?)"_. He adds in his commentary: "_Das Ende der Nummer ist wohl
+jedenfalls verstummelt_". However the translation given above shows
+that it admits of a different rendering.]
+
+The rules of aerial perspective (295--297).
+
+295.
+
+OF AERIAL PERSPECTIVE.
+
+There is another kind of perspective which I call Aerial
+Perspective, because by the atmosphere we are able to distinguish
+the variations in distance of different buildings, which appear
+placed on a single line; as, for instance, when we see several
+buildings beyond a wall, all of which, as they appear above the top
+of the wall, look of the same size, while you wish to represent them
+in a picture as more remote one than another and to give the effect
+of a somewhat dense atmosphere. You know that in an atmosphere of
+equal density the remotest objects seen through it, as mountains, in
+consequence of the great quantity of atmosphere between your eye and
+them--appear blue and almost of the same hue as the atmosphere
+itself [Footnote 10: _quado il sole e per leuante_ (when the sun is
+in the East). Apparently the author refers here to morning light in
+general. H. LUDWIG however translates this passage from the Vatican
+copy "_wenn namlich die Sonne (dahinter) im Osten steht_".] when the
+sun is in the East [Footnote 11: See Footnote 10]. Hence you must
+make the nearest building above the wall of its real colour, but the
+more distant ones make less defined and bluer. Those you wish should
+look farthest away you must make proportionately bluer; thus, if one
+is to be five times as distant, make it five times bluer. And by
+this rule the buildings which above a [given] line appear of the
+same size, will plainly be distinguished as to which are the more
+remote and which larger than the others.
+
+296.
+
+The medium lying between the eye and the object seen, tinges that
+object with its colour, as the blueness of the atmosphere makes the
+distant mountains appear blue and red glass makes objects seen
+beyond it, look red. The light shed round them by the stars is
+obscured by the darkness of the night which lies between the eye and
+the radiant light of the stars.
+
+297.
+
+Take care that the perspective of colour does not disagree with the
+size of your objects, hat is to say: that the colours diminish from
+their natural [vividness] in proportion as the objects at various
+distances dimmish from their natural size.
+
+On the relative density of the atmosphere (298--290).
+
+298.
+
+WHY THE ATMOSPHERE MUST BE REPRESENTED AS PALER TOWARDS THE LOWER
+PORTION.
+
+Because the atmosphere is dense near the earth, and the higher it is
+the rarer it becomes. When the sun is in the East if you look
+towards the West and a little way to the South and North, you will
+see that this dense atmosphere receives more light from the sun than
+the rarer; because the rays meet with greater resistance. And if the
+sky, as you see it, ends on a low plain, that lowest portion of the
+sky will be seen through a denser and whiter atmosphere, which will
+weaken its true colour as seen through that medium, and there the
+sky will look whiter than it is above you, where the line of sight
+travels through a smaller space of air charged with heavy vapour.
+And if you turn to the East, the atmosphere will appear darker as
+you look lower down because the luminous rays pass less freely
+through the lower atmosphere.
+
+299.
+
+OF THE MODE OF TREATING REMOTE OBJECTS IN PAINTING.
+
+It is easy to perceive that the atmosphere which lies closest to the
+level ground is denser than the rest, and that where it is higher
+up, it is rarer and more transparent. The lower portions of large
+and lofty objects which are at a distance are not much seen, because
+you see them along a line which passes through a denser and thicker
+section of the atmosphere. The summits of such heights are seen
+along a line which, though it starts from your eye in a dense
+atmosphere, still, as it ends at the top of those lofty objects,
+ceases in a much rarer atmosphere than exists at their base; for
+this reason the farther this line extends from your eye, from point
+to point the atmosphere becomes more and more rare. Hence, O
+Painter! when you represent mountains, see that from hill to hill
+the bases are paler than the summits, and in proportion as they
+recede beyond each other make the bases paler than the summits;
+while, the higher they are the more you must show of their true form
+and colour.
+
+On the colour of the atmosphere (300-307).
+
+300.
+
+OF THE COLOUR OF THE ATMOSPHERE.
+
+I say that the blueness we see in the atmosphere is not intrinsic
+colour, but is caused by warm vapour evaporated in minute and
+insensible atoms on which the solar rays fall, rendering them
+luminous against the infinite darkness of the fiery sphere which
+lies beyond and includes it. And this may be seen, as I saw it by
+any one going up [Footnote 5: With regard to the place spoken of as
+_M'oboso_ (compare No. 301 line 20) its identity will be discussed
+under Leonardo's Topographical notes in Vol. II.] Monboso, a peak of
+the Alps which divide France from Italy. The base of this mountain
+gives birth to the four rivers which flow in four different
+directions through the whole of Europe. And no mountain has its base
+at so great a height as this, which lifts itself almost above the
+clouds; and snow seldom falls there, but only hail in the summer,
+when the clouds are highest. And this hail lies [unmelted] there, so
+that if it were not for the absorption of the rising and falling
+clouds, which does not happen twice in an age, an enormous mass of
+ice would be piled up there by the hail, and in the middle of July I
+found it very considerable. There I saw above me the dark sky, and
+the sun as it fell on the mountain was far brighter here than in the
+plains below, because a smaller extent of atmosphere lay between the
+summit of the mountain and the sun. Again as an illustration of the
+colour of the atmosphere I will mention the smoke of old and dry
+wood, which, as it comes out of a chimney, appears to turn very
+blue, when seen between the eye and the dark distance. But as it
+rises, and comes between the eye and the bright atmosphere, it at
+once shows of an ashy grey colour; and this happens because it no
+longer has darkness beyond it, but this bright and luminous space.
+If the smoke is from young, green wood, it will not appear blue,
+because, not being transparent and being full of superabundant
+moisture, it has the effect of condensed clouds which take distinct
+lights and shadows like a solid body. The same occurs with the
+atmosphere, which, when overcharged with moisture appears white, and
+the small amount of heated moisture makes it dark, of a dark blue
+colour; and this will suffice us so far as concerns the colour of
+the atmosphere; though it might be added that, if this transparent
+blue were the natural colour of the atmosphere, it would follow that
+wherever a larger mass air intervened between the eye and the
+element of fire, the azure colour would be more intense; as we see
+in blue glass and in sapphires, which are darker in proportion as
+they are larger. But the atmosphere in such circumstances behaves in
+an opposite manner, inasmuch as where a greater quantity of it lies
+between the eye and the sphere of fire, it is seen much whiter. This
+occurs towards the horizon. And the less the extent of atmosphere
+between the eye and the sphere of fire, the deeper is the blue
+colour, as may be seen even on low plains. Hence it follows, as I
+say, that the atmosphere assumes this azure hue by reason of the
+particles of moisture which catch the rays of the sun. Again, we may
+note the difference in particles of dust, or particles of smoke, in
+the sun beams admitted through holes into a dark chamber, when the
+former will look ash grey and the thin smoke will appear of a most
+beautiful blue; and it may be seen again in in the dark shadows of
+distant mountains when the air between the eye and those shadows
+will look very blue, though the brightest parts of those mountains
+will not differ much from their true colour. But if any one wishes
+for a final proof let him paint a board with various colours, among
+them an intense black; and over all let him lay a very thin and
+transparent [coating of] white. He will then see that this
+transparent white will nowhere show a more beautiful blue than over
+the black--but it must be very thin and finely ground.
+
+[Footnote 7: _reta_ here has the sense of _malanno_.]
+
+301.
+
+Experience shows us that the air must have darkness beyond it and
+yet it appears blue. If you produce a small quantity of smoke from
+dry wood and the rays of the sun fall on this smoke, and if you then
+place behind the smoke a piece of black velvet on which the sun does
+not shine, you will see that all the smoke which is between the eye
+and the black stuff will appear of a beautiful blue colour. And if
+instead of the velvet you place a white cloth smoke, that is too
+thick smoke, hinders, and too thin smoke does not produce, the
+perfection of this blue colour. Hence a moderate amount of smoke
+produces the finest blue. Water violently ejected in a fine spray
+and in a dark chamber where the sun beams are admitted produces
+these blue rays and the more vividly if it is distilled water, and
+thin smoke looks blue. This I mention in order to show that the
+blueness of the atmosphere is caused by the darkness beyond it, and
+these instances are given for those who cannot confirm my experience
+on Monboso.
+
+302.
+
+When the smoke from dry wood is seen between the eye of the
+spectator and some dark space [or object], it will look blue. Thus
+the sky looks blue by reason of the darkness beyond it. And if you
+look towards the horizon of the sky, you will see the atmosphere is
+not blue, and this is caused by its density. And thus at each
+degree, as you raise your eyes above the horizon up to the sky over
+your head, you will see the atmosphere look darker [blue] and this
+is because a smaller density of air lies between your eye and the
+[outer] darkness. And if you go to the top of a high mountain the
+sky will look proportionately darker above you as the atmosphere
+becomes rarer between you and the [outer] darkness; and this will be
+more visible at each degree of increasing height till at last we
+should find darkness.
+
+That smoke will look bluest which rises from the driest wood and
+which is nearest to the fire and is seen against the darkest
+background, and with the sunlight upon it.
+
+303.
+
+A dark object will appear bluest in proportion as it has a greater
+mass of luminous atmosphere between it and the eye. As may be seen
+in the colour of the sky.
+
+304.
+
+The atmosphere is blue by reason of the darkness above it because
+black and white make blue.
+
+305.
+
+In the morning the mist is denser above than below, because the sun
+draws it upwards; hence tall buildings, even if the summit is at the
+same distance as the base have the summit invisible. Therefore,
+also, the sky looks darkest [in colour] overhead, and towards the
+horizon it is not blue but rather between smoke and dust colour.
+
+The atmosphere, when full of mist, is quite devoid of blueness, and
+only appears of the colour of clouds, which shine white when the
+weather is fine. And the more you turn to the west the darker it
+will be, and the brighter as you look to the east. And the verdure
+of the fields is bluish in a thin mist, but grows grey in a dense
+one.
+
+The buildings in the west will only show their illuminated side,
+where the sun shines, and the mist hides the rest. When the sun
+rises and chases away the haze, the hills on the side where it lifts
+begin to grow clearer, and look blue, and seem to smoke with the
+vanishing mists; and the buildings reveal their lights and shadows;
+through the thinner vapour they show only their lights and through
+the thicker air nothing at all. This is when the movement of the
+mist makes it part horizontally, and then the edges of the mist will
+be indistinct against the blue of the sky, and towards the earth it
+will look almost like dust blown up. In proportion as the atmosphere
+is dense the buildings of a city and the trees in a landscape will
+look fewer, because only the tallest and largest will be seen.
+
+Darkness affects every thing with its hue, and the more an object
+differs from darkness, the more we see its real and natural colour.
+The mountains will look few, because only those will be seen which
+are farthest apart; since, at such a distance, the density increases
+to such a degree that it causes a brightness by which the darkness
+of the hills becomes divided and vanishes indeed towards the top.
+There is less [mist] between lower and nearer hills and yet little
+is to be distinguished, and least towards the bottom.
+
+306.
+
+The surface of an object partakes of the colour of the light which
+illuminates it; and of the colour of the atmosphere which lies
+between the eye and that object, that is of the colour of the
+transparent medium lying between the object and the eye; and among
+colours of a similar character the second will be of the same tone
+as the first, and this is caused by the increased thickness of the
+colour of the medium lying between the object and the eye.
+
+307. OF PAINTING.
+
+Of various colours which are none of them blue that which at a great
+distance will look bluest is the nearest to black; and so,
+conversely, the colour which is least like black will at a great
+distance best preserve its own colour.
+
+Hence the green of fields will assume a bluer hue than yellow or
+white will, and conversely yellow or white will change less than
+green, and red still less.
+
+_VII._
+
+_On the Proportions and on the Movements of the Human Figure._
+
+_Leonardo's researches on the proportions and movements of the human
+figure must have been for the most part completed and written before
+the year_ 1498; _for LUCA PACIOLO writes, in the dedication to
+Ludovico il Moro, of his book_ Divina Proportione, _which was
+published in that year:_ "Leonardo da venci ... hauedo gia co tutta
+diligetia al degno libro de pictura e movimenti humani posto fine".
+
+_The selection of Leonardo's axioms contained in the Vatican copy
+attributes these words to the author:_ "e il resto si dira nella
+universale misura del huomo". (_MANZI, p. 147; LUDWIG, No. 264_).
+_LOMAZZO, again, in his_ Idea del Tempio della Pittura Milano 1590,
+cap. IV, _says:_ "Lionardo Vinci ... dimostro anco in figura tutte
+le proporzioni dei membri del corpo umano".
+
+_The Vatican copy includes but very few sections of the_ "Universale
+misura del huomo" _and until now nothing has been made known of the
+original MSS. on the subject which have supplied the very extensive
+materials for this portion of the work. The collection at Windsor,
+belonging to her Majesty the Queen, includes by far the most
+important part of Leonardo's investigations on this subject,
+constituting about half of the whole of the materials here
+published; and the large number of original drawings adds greatly to
+the interest which the subject itself must command. Luca Paciolo
+would seem to have had these MSS. (which I have distinguished by the
+initials W. P.) in his mind when he wrote the passage quoted above.
+Still, certain notes of a later date--such as Nos. 360, 362 and 363,
+from MS. E, written in 1513--14, sufficiently prove that Leonardo did
+not consider his earlier studies on the Proportions and Movements of
+the Human Figure final and complete, as we might suppose from Luca
+Paciolo's statement. Or else he took the subject up again at a
+subsequent period, since his former researches had been carried on
+at Milan between 1490 and 1500. Indeed it is highly probable that
+the anatomical studies which he was pursuing zvith so much zeal
+between 1510--16 should have led him to reconsider the subject of
+Proportion.
+
+Preliminary observations (308. 309).
+
+308.
+
+Every man, at three years old is half the full height he will grow
+to at last.
+
+309.
+
+If a man 2 braccia high is too small, one of four is too tall, the
+medium being what is admirable. Between 2 and 4 comes 3; therefore
+take a man of 3 braccia in height and measure him by the rule I will
+give you. If you tell me that I may be mistaken, and judge a man to
+be well proportioned who does not conform to this division, I answer
+that you must look at many men of 3 braccia, and out of the larger
+number who are alike in their limbs choose one of those who are most
+graceful and take your measurements. The length of the hand is 1/3
+of a braccio [8 inches] and this is found 9 times in man. And the
+face [Footnote 7: The account here given of the _braccio_ is of
+importance in understanding some of the succeeding chapters. _Testa_
+must here be understood to mean the face. The statements in this
+section are illustrated in part on Pl. XI.] is the same, and from
+the pit of the throat to the shoulder, and from the shoulder to the
+nipple, and from one nipple to the other, and from each nipple to
+the pit of the throat.
+
+Proportions of the head and face (310-318).
+
+310.
+
+The space between the parting of the lips [the mouth] and the base
+of the nose is one-seventh of the face.
+
+The space from the mouth to the bottom of the chin _c d_ is the
+fourth part of the face and equal to the width of the mouth.
+
+The space from the chin to the base of the nose _e f_ is the third
+part of the face and equal to the length of the nose and to the
+forehead.
+
+The distance from the middle of the nose to the bottom of the chin
+_g h_, is half the length of the face.
+
+The distance from the top of the nose, where the eyebrows begin, to
+the bottom of the chin, _i k_, is two thirds of the face.
+
+The space from the parting of the lips to the top of the chin _l m_,
+that is where the chin ends and passes into the lower lip of the
+mouth, is the third of the distance from the parting of the lips to
+the bottom of the chin and is the twelfth part of the face. From the
+top to the bottom of the chin _m n_ is the sixth part of the face
+and is the fifty fourth part of a man's height.
+
+From the farthest projection of the chin to the throat _o p_ is
+equal to the space between the mouth and the bottom of the chin, and
+a fourth of the face.
+
+The distance from the top of the throat to the pit of the throat
+below _q r_ is half the length of the face and the eighteenth part
+of a man's height.
+
+From the chin to the back of the neck _s t_, is the same distance as
+between the mouth and the roots of the hair, that is three quarters
+of the head.
+
+From the chin to the jaw bone _v x_ is half the head and equal to
+the thickness of the neck in profile.
+
+The thickness of the head from the brow to the nape is once and 3/4
+that of the neck.
+
+[Footnote: The drawings to this text, lines 1-10 are on Pl. VII, No.
+I. The two upper sketches of heads, Pl. VII, No. 2, belong to lines
+11-14, and in the original are placed immediately below the sketches
+reproduced on Pl. VII, No. 1.]
+
+311.
+
+The distance from the attachment of one ear to the other is equal to
+that from the meeting of the eyebrows to the chin, and in a fine
+face the width of the mouth is equal to the length from the parting
+of the lips to the bottom of the chin.
+
+312.
+
+The cut or depression below the lower lip of the mouth is half way
+between the bottom of the nose and the bottom of the chin.
+
+The face forms a square in itself; that is its width is from the
+outer corner of one eye to the other, and its height is from the
+very top of the nose to the bottom of the lower lip of the mouth;
+then what remains above and below this square amounts to the height
+of such another square, _a_ _b_ is equal to the space between _c_
+_d_; _d_ _n_ in the same way to _n_ _c_, and likewise _s_ _r_, _q_
+_p_, _h_ _k_ are equal to each other.
+
+It is as far between _m_ and _s_ as from the bottom of the nose to
+the chin. The ear is exactly as long as the nose. It is as far from
+_x_ to _j_ as from the nose to the chin. The parting of the mouth
+seen in profile slopes to the angle of the jaw. The ear should be as
+high as from the bottom of the nose to the top of the eye-lid. The
+space between the eyes is equal to the width of an eye. The ear is
+over the middle of the neck, when seen in profile. The distance from
+4 to 5 is equal to that from s_ to _r_.
+
+[Footnote: See Pl. VIII, No. I, where the text of lines 3-13 is also
+given in facsimile.]
+
+313.
+
+(_a_ _b_) is equal to (_c_ _d_).
+
+[Footnote: See Pl. VII, No. 3. Reference may also be made here to
+two pen and ink drawings of heads in profile with figured
+measurements, of which there is no description in the MS. These are
+given on Pl. XVII, No. 2.--A head, to the left, with part of the
+torso [W. P. 5a], No. 1 on the same plate is from MS. A 2b and in
+the original occurs on a page with wholly irrelevant text on matters
+of natural history. M. RAVAISSON in his edition of the Paris MS. A
+has reproduced this head and discussed it fully [note on page 12];
+he has however somewhat altered the original measurements. The
+complicated calculations which M. RAVAISSON has given appear to me
+in no way justified. The sketch, as we see it, can hardly have been
+intended for any thing more than an experimental attempt to
+ascertain relative proportions. We do not find that Leonardo made
+use of circular lines in any other study of the proportions of the
+human head. At the same time we see that the proportions of this
+sketch are not in accordance with the rules which he usually
+observed (see for instance No. 310).]
+
+The head _a_ _f_ 1/6 larger than _n_ _f_.
+
+315.
+
+From the eyebrow to the junction of the lip with the chin, and the
+angle of the jaw and the upper angle where the ear joins the temple
+will be a perfect square. And each side by itself is half the head.
+
+The hollow of the cheek bone occurs half way between the tip of the
+nose and the top of the jaw bone, which is the lower angle of the
+setting on of the ear, in the frame here represented.
+
+From the angle of the eye-socket to the ear is as far as the length
+of the ear, or the third of the face.
+
+[Footnote: See Pl. IX. The text, in the original is written behind
+the head. The handwriting would seem to indicate a date earlier than
+1480. On the same leaf there is a drawing in red chalk of two
+horsemen of which only a portion of the upper figure is here
+visible. The whole leaf measures 22 1/2 centimetres wide by 29 long,
+and is numbered 127 in the top right-hand corner.]
+
+316.
+
+From _a_ to _b_--that is to say from the roots of the hair in front
+to the top of the head--ought to be equal to _c_ _d_;--that is from
+the bottom of the nose to the meeting of the lips in the middle of
+the mouth. From the inner corner of the eye _m_ to the top of the
+head _a_ is as far as from _m_ down to the chin _s_. _s_ _c_ _f_ _b_
+are all at equal distances from each other.
+
+[Footnote: The drawing in silver-point on bluish tinted paper--Pl.
+X--which belongs to this chapter has been partly drawn over in ink
+by Leonardo himself.]
+
+317.
+
+From the top of the head to the bottom of the chin is 1/9, and from
+the roots of the hair to the chin is 1/9 of the distance from the
+roots of the hair to the ground. The greatest width of the face is
+equal to the space between the mouth and the roots of the hair and
+is 1/12 of the whole height. From the top of the ear to the top of
+the head is equal to the distance from the bottom of the chin to the
+lachrymatory duct of the eye; and also equal to the distance from
+the angle of the chin to that of the jaw; that is the 1/16 of the
+whole. The small cartilage which projects over the opening of the
+ear towards the nose is half-way between the nape and the eyebrow;
+the thickness of the neck in profile is equal to the space between
+the chin and the eyes, and to the space between the chin and the
+jaw, and it is 1/18 of the height of the man.
+
+318.
+
+_a b_, _c d_, _e f_, _g h_, _i k_ are equal to each other in size
+excepting that _d f_ is accidental.
+
+[Footnote: See Pl. XI.]
+
+Proportions of the head seen in front (319-321).
+
+319.
+
+_a n o f_ are equal to the mouth.
+
+_a c_ and _a f_ are equal to the space between one eye and the
+other.
+
+_n m o f q r_ are equal to half the width of the eye lids, that is
+from the inner [lachrymatory] corner of the eye to its outer corner;
+and in like manner the division between the chin and the mouth; and
+in the same way the narrowest part of the nose between the eyes. And
+these spaces, each in itself, is the 19th part of the head, _n o_ is
+equal to the length of the eye or of the space between the eyes.
+
+_m c_ is 1/3 of _n m_ measuring from the outer corner of the eyelids
+to the letter _c_. _b s_ will be equal to the width of the nostril.
+
+[Footnote: See Pl. XII.]
+
+320.
+
+The distance between the centres of the pupils of the eyes is 1/3 of
+the face. The space between the outer corners of the eyes, that is
+where the eye ends in the eye socket which contains it, thus the
+outer corners, is half the face.
+
+The greatest width of the face at the line of the eyes is equal to
+the distance from the roots of the hair in front to the parting of
+the lips.
+
+[Footnote: There are, with this section, two sketches of eyes, not
+reproduced here.]
+
+321.
+
+The nose will make a double square; that is the width of the nose at
+the nostrils goes twice into the length from the tip of the nose to
+the eyebrows. And, in the same way, in profile the distance from the
+extreme side of the nostril where it joins the cheek to the tip of
+the nose is equal to the width of the nose in front from one nostril
+to the other. If you divide the whole length of the nose--that is
+from the tip to the insertion of the eyebrows, into 4 equal parts,
+you will find that one of these parts extends from the tip of the
+nostrils to the base of the nose, and the upper division lies
+between the inner corner of the eye and the insertion of the
+eyebrows; and the two middle parts [together] are equal to the
+length of the eye from the inner to the outer corner.
+
+[Footnote: The two bottom sketches on Pl. VII, No. 4 face the six
+lines of this section,--With regard to the proportions of the head
+in profile see No. 312.]
+
+322.
+
+The great toe is the sixth part of the foot, taking the measure in
+profile, on the inside of the foot, from where this toe springs from
+the ball of the sole of the foot to its tip _a b_; and it is equal
+to the distance from the mouth to the bottom of the chin. If you
+draw the foot in profile from the outside, make the little toe begin
+at three quarters of the length of the foot, and you will find the
+same distance from the insertion of this toe as to the farthest
+prominence of the great toe.
+
+323.
+
+For each man respectively the distance between _a b_ is equal to _c
+d_.
+
+324.
+
+Relative proportion of the hand and foot.
+
+The foot is as much longer than the hand as the thickness of the arm
+at the wrist where it is thinnest seen facing.
+
+Again, you will find that the foot is as much longer than the hand
+as the space between the inner angle of the little toe to the last
+projection of the big toe, if you measure along the length of the
+foot.
+
+The palm of the hand without the fingers goes twice into the length
+of the foot without the toes.
+
+If you hold your hand with the fingers straight out and close
+together you will find it to be of the same width as the widest part
+of the foot, that is where it is joined onto the toes.
+
+And if you measure from the prominence of the inner ancle to the end
+of the great toe you will find this measure to be as long as the
+whole hand.
+
+From the top angle of the foot to the insertion of the toes is equal
+to the hand from wrist joint to the tip of the thumb.
+
+The smallest width of the hand is equal to the smallest width of the
+foot between its joint into the leg and the insertion of the toes.
+
+The width of the heel at the lower part is equal to that of the arm
+where it joins the hand; and also to the leg where it is thinnest
+when viewed in front.
+
+The length of the longest toe, from its first division from the
+great toe to its tip is the fourth of the foot from the centre of
+the ancle bone to the tip, and it is equal to the width of the
+mouth. The distance between the mouth and the chin is equal to that
+of the knuckles and of the three middle fingers and to the length of
+their first joints if the hand is spread, and equal to the distance
+from the joint of the thumb to the outset of the nails, that is the
+fourth part of the hand and of the face.
+
+The space between the extreme poles inside and outside the foot
+called the ancle or ancle bone _a b_ is equal to the space between
+the mouth and the inner corner of the eye.
+
+325.
+
+The foot, from where it is attached to the leg, to the tip of the
+great toe is as long as the space between the upper part of the chin
+and the roots of the hair _a b_; and equal to five sixths of the
+face.
+
+326.
+
+_a d_ is a head's length, _c b_ is a head's length. The four smaller
+toes are all equally thick from the nail at the top to the bottom,
+and are 1/13 of the foot.
+
+[Footnote: See Pl. XIV, No. 1, a drawing of a foot with the text in
+three lines below it.]
+
+327.
+
+The whole length of the foot will lie between the elbow and the
+wrist and between the elbow and the inner angle of the arm towards
+the breast when the arm is folded. The foot is as long as the whole
+head of a man, that is from under the chin to the topmost part of
+the head[Footnote 2: _nel modo che qui i figurato_. See Pl. VII, No.
+4, the upper figure. The text breaks off at the end of line 2 and
+the text given under No. 321 follows below. It may be here remarked
+that the second sketch on W. P. 311 has in the original no
+explanatory text.] in the way here figured.
+
+Proportions of the leg (328-331).
+
+328.
+
+The greatest thickness of the calf of the leg is at a third of its
+height _a b_, and is a twentieth part thicker than the greatest
+thickness of the foot.
+
+_a c_ is half of the head, and equal to _d b_ and to the insertion
+of the five toes _e f_. _d k_ diminishes one sixth in the leg _g h_.
+_g h_ is 1/3 of the head; _m n_ increases one sixth from _a e_ and
+is 7/12 of the head, _o p_ is 1/10 less than _d k_ and is 6/17 of
+the head. _a_ is at half the distance between _b q_, and is 1/4 of
+the man. _r_ is half way between _s_ and _b_[Footnote 11: _b_ is
+here and later on measured on the right side of the foot as seen by
+the spectator.]. The concavity of the knee outside _r_ is higher
+than that inside _a_. The half of the whole height of the leg from
+the foot _r_, is half way between the prominence _s_ and the ground
+_b_. _v_ is half way between _t_ and _b_. The thickness of the thigh
+seen in front is equal to the greatest width of the face, that is
+2/3 of the length from the chin to the top of the head; _z r_ is 5/6
+of 7 to _v_; _m n_ is equal to 7 _v_ and is 1/4 of _r b_, _x y_ goes
+3 times into _r b_, and into _r s_.
+
+[Footnote 22-35: The sketch illustrating these lines is on Pl. XIII,
+No. 2.]
+
+[Footnote 22: a b _entra in_ c f 6 _e_ 6 _in_ c n. Accurate
+measurement however obliges us to read 7 for 6.] _a b_ goes six
+times into _c f_ and six times into _c n_ and is equal to _g h_; _i
+k l m_ goes 4 times into _d f_, and 4 times into _d n_ and is 3/7 of
+the foot; _p q r s_ goes 3 times into _d f, and 3 times into _b n_;
+[Footnote: 25. _y_ is not to be found on the diagram and _x_ occurs
+twice; this makes the passage very obscure.] _x y_ is 1/8 of _x f_
+and is equal to _n q_. 3 7 is 1/9 of _n f_; 4 5 is 1/10 of _n f_
+[Footnote: 22-27. Compare with this lines 18-24 of No. 331, and the
+sketch of a leg in profile Pl. XV.].
+
+I want to know how much a man increases in height by standing on
+tip-toe and how much _p g_ diminishes by stooping; and how much it
+increases at _n q_ likewise in bending the foot.
+
+[Footnote 34: _e f_ 4 _dal cazo_. By reading _i_ for _e_ the sense
+of this passage is made clear.] _e f_ is four times in the distance
+between the genitals and the sole of the foot; [Footnote 35: 2 is
+not to be found in the sketch which renders the passage obscure. The
+two last lines are plainly legible in the facsimile.] 3 7 is six
+times from 3 to 2 and is equal to _g h_ and _i k_.
+
+[Footnote: The drawing of a leg seen in front Pl. XIII, No. 1
+belongs to the text from lines 3-21. The measurements in this
+section should be compared with the text No. 331, lines 1-13, and
+the sketch of a leg seen in front on Pl. XV.]
+
+329.
+
+The length of the foot from the end of the toes to the heel goes
+twice into that from the heel to the knee, that is where the leg
+bone [fibula] joins the thigh bone [femur].
+
+330.
+
+_a n b_ are equal; _c n d_ are equal; _n c_ makes two feet; _n d_
+makes 2 feet.
+
+[Footnote: See the lower sketch, Pl. XIV, No. 1.]
+
+331.
+
+_m n o_ are equal. The narrowest width of the leg seen in front goes
+8 times from the sole of the foot to the joint of the knee, and is
+the same width as the arm, seen in front at the wrist, and as the
+longest measure of the ear, and as the three chief divisions into
+which we divide the face; and this measurement goes 4 times from the
+wrist joint of the hand to the point of the elbow. [14] The foot is
+as long as the space from the knee between _a_ and _b_; and the
+patella of the knee is as long as the leg between _r_ and _s_.
+
+[18] The least thickness of the leg in profile goes 6 times from the
+sole of the foot to the knee joint and is the same width as the
+space between the outer corner of the eye and the opening of the
+ear, and as the thickest part of the arm seen in profile and between
+the inner corner of the eye and the insertion of the hair.
+
+_a b c_ [_d_] are all relatively of equal length, _c d_ goes twice
+from the sole of the foot to the centre of the knee and the same
+from the knee to the hip.
+
+[28]_a b c_ are equal; _a_ to _b_ is 2 feet--that is to say
+measuring from the heel to the tip of the great toe.
+
+[Footnote: See Pl. XV. The text of lines 2-17 is to the left of the
+front view of the leg, to which it refers. Lines 18-27 are in the
+middle column and refer to the leg seen in profile and turned to the
+left, on the right hand side of the writing. Lines 20-30 are above,
+to the left and apply to the sketch below them.
+
+Some farther remarks on the proportion of the leg will be found in
+No. 336, lines 6, 7.]
+
+On the central point of the whole body.
+
+332.
+
+In kneeling down a man will lose the fourth part of his height.
+
+When a man kneels down with his hands folded on his breast the navel
+will mark half his height and likewise the points of the elbows.
+
+Half the height of a man who sits--that is from the seat to the top
+of the head--will be where the arms fold below the breast, and
+below the shoulders. The seated portion--that is from the seat to
+the top of the head--will be more than half the man's [whole height]
+by the length of the scrotum.
+
+[Footnote: See Pl. VIII, No. 2.]
+
+The relative proportions of the torso and of the whole figure.
+
+333.
+
+The cubit is one fourth of the height of a man and is equal to the
+greatest width of the shoulders. From the joint of one shoulder to
+the other is two faces and is equal to the distance from the top of
+the breast to the navel. [Footnote 9: _dalla detta somita_. It would
+seem more accurate to read here _dal detto ombilico_.] From this
+point to the genitals is a face's length.
+
+[Footnote: Compare with this the sketches on the other page of the
+same leaf. Pl. VIII, No. 2.]
+
+The relative proportions of the head and of the torso.
+
+334.
+
+From the roots of the hair to the top of the breast _a b_ is the
+sixth part of the height of a man and this measure is equal.
+
+From the outside part of one shoulder to the other is the same
+distance as from the top of the breast to the navel and this measure
+goes four times from the sole of the foot to the lower end of the
+nose.
+
+The [thickness of] the arm where it springs from the shoulder in
+front goes 6 times into the space between the two outside edges of
+the shoulders and 3 times into the face, and four times into the
+length of the foot and three into the hand, inside or outside.
+
+[Footnote: The three sketches Pl. XIV, No. 2 belong to this text.]
+
+The relative proportions of the torso and of the leg (335. 336).
+
+335.
+
+_a b c_ are equal to each other and to the space from the armpit of
+the shoulder to the genitals and to the distance from the tip of the
+fingers of the hand to the joint of the arm, and to the half of the
+breast; and you must know that _c b_ is the third part of the height
+of a man from the shoulders to the ground; _d e f_ are equal to each
+other and equal to the greatest width of the shoulders.
+
+[Footnote: See Pl. XVI, No. 1.]
+
+336.
+
+--Top of the chin--hip--the insertion of the middle finger. The end
+of the calf of the leg on the inside of the thigh.--The end of the
+swelling of the shin bone of the leg. [6] The smallest thickness of
+the leg goes 3 times into the thigh seen in front.
+
+[Footnote: See Pl. XVII, No. 2, middle sketch.]
+
+The relative proportions of the torso and of the foot.
+
+337.
+
+The torso _a b_ in its thinnest part measures a foot; and from _a_
+to _b_ is 2 feet, which makes two squares to the seat--its thinnest
+part goes 3 times into the length, thus making 3 squares.
+
+[Footnote: See Pl, VII, No. 2, the lower sketch.]
+
+The proportions of the whole figure (338-341).
+
+338.
+
+A man when he lies down is reduced to 1/9 of his height.
+
+339.
+
+The opening of the ear, the joint of the shoulder, that of the hip
+and the ancle are in perpendicular lines; _a n_ is equal to _m o_.
+
+[Footnote: See Pl. XVI, No. 2, the upper sketch.]
+
+340.
+
+From the chin to the roots of the hair is 1/10 of the whole figure.
+From the joint of the palm of the hand to the tip of the longest
+finger is 1/10. From the chin to the top of the head 1/8; and from
+the pit of the stomach to the top of the breast is 1/6, and from the
+pit below the breast bone to the top of the head 1/4. From the chin
+to the nostrils 1/3 Part of the face, the same from the nostrils to
+the brow and from the brow to the roots of the hair, and the foot is
+1/6, the elbow 1/4, the width of the shoulders 1/4.
+
+341.
+
+The width of the shoulders is 1/4 of the whole. From the joint of
+the shoulder to the hand is 1/3, from the parting of the lips to
+below the shoulder-blade is one foot.
+
+The greatest thickness of a man from the breast to the spine is one
+8th of his height and is equal to the space between the bottom of
+the chin and the top of the head.
+
+The greatest width is at the shoulders and goes 4.
+
+The torso from the front and back.
+
+342.
+
+The width of a man under the arms is the same as at the hips.
+
+A man's width across the hips is equal to the distance from the top
+of the hip to the bottom of the buttock, when a man stands equally
+balanced on both feet; and there is the same distance from the top
+of the hip to the armpit. The waist, or narrower part above the hips
+will be half way between the arm pits and the bottom of the buttock.
+
+[Footnote: The lower sketch Pl. XVI, No. 2, is drawn by the side of
+line 1.]
+
+Vitruvius' scheme of proportions.
+
+343.
+
+Vitruvius, the architect, says in his work on architecture that the
+measurements of the human body are distributed by Nature as follows:
+that is that 4 fingers make 1 palm, and 4 palms make 1 foot, 6 palms
